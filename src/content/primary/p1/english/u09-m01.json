@@ -1,0 +1,64 @@
+﻿{
+    "id": "p1-english-u09-m01",
+    "unit": 9,
+    "unitTitle": "Fat Head, Thin Legs, and Fat Cheeks",
+    "title": "Fat Head, Thin Legs & Personal Wants",
+    "class": "Primary 1",
+    "subject": "English Language",
+    "objectives": [
+        "Read and understand a cautionary tale",
+        "Express personal wants"
+    ],
+    "blocks": [
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Fat Head, Thin Legs, and Fat Cheeks"
+        },
+        {
+            "type": "image",
+            "src": "/assets/p1-english/u09/three-boys.svg",
+            "alt": "Three boys",
+            "caption": "Fat Head, Thin Legs, and Fat Cheeks."
+        },
+        {
+            "type": "text",
+            "md": "Once upon a time, there lived three boys in a far village called Notedu. These boys were friends. They planned to steal mangoes from a farm close to their village on a work-free day when the owner of the mango trees would be sleeping at home.\n\nWhen they got to the mango field, Fat Head said that he would be the one to climb the tree. The two others agreed with him. So, he climbed the tree and started shaking the branches. All the ripe mangoes began to drop one by one. After some time, Fat Head looked down from the height to see that Thin Legs and Fat Cheeks were hiding any mangoes. As he did so, his heavy head suddenly fell off from his body. Fat Cheeks began to laugh loudly that his cheeks burst open. Out of fear, Thin Legs began to run back home in order to say what had happened to the other two. But before he could reach home, his legs broke.\n\nAt the end, none of them ate the mangoes and none got home to tell the story of what happened to Fat Head, Thin Legs and Fat Cheeks."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Expressing Personal Wants"
+        },
+        {
+            "type": "text",
+            "md": "- Jide: 'I like rice. What do you like, Mohammed?'\n- Mohammed: 'I do not like rice. I like bread.'\n- Jide: 'Which subject do you like?'\n- Mohammed: 'I find English easier than Primary Science.'"
+        }
+    ],
+    "quiz": [
+        {
+            "q": "What did the three boys plan to steal?",
+            "options": [
+                "Apples",
+                "Mangoes",
+                "Oranges",
+                "Bananas"
+            ],
+            "answer": 1,
+            "explain": "They planned to steal mangoes."
+        },
+        {
+            "q": "What happened to Fat Head's head?",
+            "options": [
+                "It turned red",
+                "It fell off",
+                "It got bigger",
+                "It started spinning"
+            ],
+            "answer": 1,
+            "explain": "His heavy head fell off."
+        }
+    ],
+    "passMark": 70,
+    "next": null
+}

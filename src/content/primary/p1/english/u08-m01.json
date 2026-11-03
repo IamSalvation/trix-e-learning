@@ -1,0 +1,64 @@
+﻿{
+    "id": "p1-english-u08-m01",
+    "unit": 8,
+    "unitTitle": "The Fox and the Cock",
+    "title": "The Fox and the Cock & Possession",
+    "class": "Primary 1",
+    "subject": "English Language",
+    "objectives": [
+        "Read and understand a folktale",
+        "Use 'my', 'your', 'his', 'her' correctly"
+    ],
+    "blocks": [
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "The Fox and the Cock"
+        },
+        {
+            "type": "image",
+            "src": "/assets/p1-english/u08/fox-cock.svg",
+            "alt": "A fox and a cock",
+            "caption": "The fox wanted to eat the cock."
+        },
+        {
+            "type": "text",
+            "md": "Many years ago, all the animals lived together except the fox. He said that unless he was made their king, no animal would be safe. So all the other animals planned to have a meeting on what they were going to do to tame or beg him.\n\nOn the agreed day for the meeting, all the animals met in the jungle square where all important decisions were usually taken. The animal who was asked to speak first then started.\n\n'We shall decide on what we shall do in order to make the fox happy,' he said.\n\nThe tortoise, who was a friend to the cock, told the meeting that the cock could not come but he would accept any decision of the other animals.\n\n'As the cock is not here,' the speaker went on, 'we shall tell the fox to take and eat up any cock he finds anywhere and at any time.'\n\nAll the animals agreed, and ever since then the cock and his relations became the easiest prey for the fox."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Expressing Possession"
+        },
+        {
+            "type": "text",
+            "md": "We use these words to show something belongs to someone:\n\n- **My**: This is my pen.\n- **Your**: That is your book.\n- **His**: That is his eraser.\n- **Her**: This is her pencil."
+        }
+    ],
+    "quiz": [
+        {
+            "q": "What did the fox want the animals to make him?",
+            "options": [
+                "Their friend",
+                "Their king",
+                "Their cook",
+                "Their teacher"
+            ],
+            "answer": 1,
+            "explain": "He wanted to be made king."
+        },
+        {
+            "q": "Who was the friend of the cock?",
+            "options": [
+                "The lion",
+                "The elephant",
+                "The tortoise",
+                "The fox"
+            ],
+            "answer": 2,
+            "explain": "The tortoise was a friend to the cock."
+        }
+    ],
+    "passMark": 70,
+    "next": null
+}

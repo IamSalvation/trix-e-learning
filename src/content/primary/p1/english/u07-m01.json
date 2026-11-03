@@ -1,1 +1,59 @@
-﻿{"id":"p1-english-u07-m01","unit":7,"unitTitle":"The Sleeping Old Lilly","title":"The Sleeping Old Lilly","class":"Primary 1","subject":"English Language","objectives":["Read and understand a story about friendship","Learn the value of honesty and kindness"],"blocks":[{"type":"heading","level":2,"text":"Mark and Lilly"},{"type":"image","src":"/assets/p1-english/u07/lilly-story.svg","alt":"Two old men sitting outside a hut","caption":"Mark and Lilly have been friends for many years."},{"type":"text","md":"**Mark** and **Lilly** have lived in the same street for over **thirty years**. They are now **seventy** years old.\n\nOne day, there was a heavy rain in the village. Mark thought his friend Lilly had gone to the farm. He rushed out in the rain to find him. But Lilly was actually at home, enjoying his sleep!\n\nMark shouted, *'Lilly, where are you?'* so loudly that all the villagers ran out, thinking there was a flood.\n\nThe noise woke Lilly up. He was angry and said he had gone to heaven in his sleep and was talking to God.\n\nThe villagers were also angry because Lilly had caused so much trouble for nothing."},{"type":"callout","variant":"tip","md":"**The Lesson:** Think before you act. Don't cause trouble for others without checking first."}],"quiz":[{"q":"How long have Mark and Lilly lived on the same street?","options":["10 years","20 years","30 years","50 years"],"answer":2,"explain":"The story says over thirty years."},{"q":"Why did Mark run out in the rain?","options":["To play football","To find Lilly at the farm","To buy food","To go to church"],"answer":1,"explain":"He thought Lilly was at the farm."},{"q":"Where was Lilly when Mark was looking for him?","options":["At the farm","At home sleeping","At church","At the market"],"answer":1,"explain":"Lilly had been at home, sleeping."}],"passMark":70,"next":null}
+﻿{
+    "id": "p1-english-u07-m01",
+    "unit": 7,
+    "unitTitle": "The Sleeping Old Lilly",
+    "title": "The Sleeping Old Lilly",
+    "class": "Primary 1",
+    "subject": "English Language",
+    "objectives": [
+        "Read and understand a story about friendship"
+    ],
+    "blocks": [
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Mark and Lilly"
+        },
+        {
+            "type": "image",
+            "src": "/assets/p1-english/u07/lilly-story.svg",
+            "alt": "Two old men sitting outside a hut",
+            "caption": "Mark and Lilly have been friends for many years."
+        },
+        {
+            "type": "text",
+            "md": "Mark and Lilly have lived in the same street for over thirty years. Now they both are seventy years old, and now they talk about the good things they have done for their town.\n\nOne day, there was a heavy rain in the village. Mark thought that his friend, Lilly had gone to the farm. He rushed off to the farm without checking if Lilly was at home. But Lilly had been enjoying his sleep at home while Mark was searching for him all over the farmlands. In his bid to find where his friend was, Mark started shouting, 'Lilly, where are you?' He called so loudly that all the villagers ran out under the heavy rain because they thought that the flood had carried Lilly away.\n\nThe noise of the villagers and of Mark woke Lilly from his deep sleep. Lilly was angry and he told all the villagers that he had gone to heaven in his sleep and was talking with God when their noise woke him up. And the villagers were also very angry with Lilly."
+        },
+        {
+            "type": "callout",
+            "variant": "tip",
+            "md": "**The Lesson:** Think before you act."
+        }
+    ],
+    "quiz": [
+        {
+            "q": "How long have Mark and Lilly lived on the same street?",
+            "options": [
+                "10 years",
+                "20 years",
+                "30 years",
+                "50 years"
+            ],
+            "answer": 2,
+            "explain": "The story says over thirty years."
+        },
+        {
+            "q": "Why did Mark run out in the rain?",
+            "options": [
+                "To play football",
+                "To find Lilly at the farm",
+                "To buy food",
+                "To go to church"
+            ],
+            "answer": 1,
+            "explain": "He thought Lilly was at the farm."
+        }
+    ],
+    "passMark": 70,
+    "next": null
+}

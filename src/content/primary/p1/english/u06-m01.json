@@ -1,1 +1,75 @@
-﻿{"id":"p1-english-u06-m01","unit":6,"unitTitle":"The Caterpillar and its Palace","title":"The Palace in the Jungle & Colors","class":"Primary 1","subject":"English Language","objectives":["Read and understand a folk tale","Identify basic colors","Follow more simple commands"],"blocks":[{"type":"heading","level":2,"text":"The Palace in the Jungle"},{"type":"image","src":"/assets/p1-english/u06/caterpillar-palace.svg","alt":"Animals outside a palace in the jungle","caption":"The animals found a palace in the jungle."},{"type":"text","md":"Once upon a time, all the animals lived together. One day, they found a beautiful **palace** in the jungle.\n\nThe big animals (lions, tigers, elephants) and the small animals (antelopes, squirrels) started to argue about who was the most powerful.\n\nSuddenly, a loud voice came from the palace: *'I have ridden on elephants and lions! If you dare enter this palace, be prepared for your death. But do not come inside with any bird!'*\n\nThe animals were frightened and ran away. From that day, the **caterpillar** lived peacefully all alone in its big palace, the cocoon."},{"type":"heading","level":2,"text":"Identifying Colors"},{"type":"text","md":"Look at the colors of the rainbow:\n\n- **R** for Red\n- **O** for Orange\n- **Y** for Yellow\n- **G** for Green\n- **B** for Blue\n- **I** for Indigo\n- **V** for Violet\n\nWhat color is the grass? The grass is **green**. What color is the sky? The sky is **blue**."}],"quiz":[{"q":"What did the animals find in the jungle?","options":["A river","A palace","A tree","A car"],"answer":1,"explain":"They found a palace."},{"q":"Who lived in the palace?","options":["A lion","An elephant","The caterpillar","A bird"],"answer":2,"explain":"The story ends by saying the caterpillar lived peacefully in its palace (the cocoon)."},{"q":"What color is the sky?","options":["Red","Green","Blue","Yellow"],"answer":2,"explain":"The sky is blue."},{"q":"What color is the grass?","options":["Yellow","Green","Blue","Black"],"answer":1,"explain":"The grass is green."}],"passMark":70,"next":null}
+﻿{
+    "id": "p1-english-u06-m01",
+    "unit": 6,
+    "unitTitle": "The Caterpillar and its Palace",
+    "title": "The Palace in the Jungle & Colors",
+    "class": "Primary 1",
+    "subject": "English Language",
+    "objectives": [
+        "Read and understand a folk tale",
+        "Identify basic colors"
+    ],
+    "blocks": [
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "The Palace in the Jungle"
+        },
+        {
+            "type": "image",
+            "src": "/assets/p1-english/u06/caterpillar-palace.svg",
+            "alt": "Animals outside a palace in the jungle",
+            "caption": "The animals found a palace in the jungle."
+        },
+        {
+            "type": "text",
+            "md": "Once upon a time, all the animals used to live together. One day they found a palace in the jungle that they thought that nobody was living in it. The big animals like lions, tigers, hippopotamuses, elephants, and even smaller animals like the antelopes and squirrels started to argue among themselves about who was the most powerful and the bravest and the fittest to live in the palace.\n\nAs they continued to argue, they heard a loud voice from the palace saying;\n\n'I have ridden on elephants and rhinoceroses and lions and tigers and have broken their backs. I have proved to them that they are not as strong as they claimed. And the birds are afraid of me even though they can fly, I make their lives miserable if they come close to me. And so, if you dare enter this palace, be prepared for your death. But if you wish to dare death, make sure you do not come inside the palace with any bird.'\n\nThe animals got frightened. They all ran away and did not live together again.\n\nFrom that day onwards, the caterpillar lived peacefully all alone in its big palace, the cocoon."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Identifying Colors"
+        },
+        {
+            "type": "text",
+            "md": "Look at the colors of the rainbow:\n\n- **R** for Red\n- **O** for Orange\n- **Y** for Yellow\n- **G** for Green\n- **B** for Blue\n- **I** for Indigo\n- **V** for Violet\n\nWhat color is the grass? The grass is **green**. What color is the sky? The sky is **blue**."
+        }
+    ],
+    "quiz": [
+        {
+            "q": "What did the animals find in the jungle?",
+            "options": [
+                "A river",
+                "A palace",
+                "A tree",
+                "A car"
+            ],
+            "answer": 1,
+            "explain": "They found a palace."
+        },
+        {
+            "q": "Who lived in the palace?",
+            "options": [
+                "A lion",
+                "An elephant",
+                "The caterpillar",
+                "A bird"
+            ],
+            "answer": 2,
+            "explain": "The caterpillar lived in the palace."
+        },
+        {
+            "q": "What color is the sky?",
+            "options": [
+                "Red",
+                "Green",
+                "Blue",
+                "Yellow"
+            ],
+            "answer": 2,
+            "explain": "The sky is blue."
+        }
+    ],
+    "passMark": 70,
+    "next": null
+}

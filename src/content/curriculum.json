@@ -31,7 +31,11 @@
             { "id": "u06-m02", "title": "More on Simple Commands", "json": "u06-m02.json" },
             { "id": "u06-m03", "title": "Identifying Colours", "json": "u06-m03.json" },
             { "id": "u07-m01", "title": "The Sleeping Old Lilly", "json": "u07-m01.json" },
-            { "id": "u07-m02", "title": "Indicating Plurals", "json": "u07-m02.json" }
+            { "id": "u07-m02", "title": "Indicating Plurals", "json": "u07-m02.json" },
+            { "id": "u08-m01", "title": "The Fox and the Cock", "json": "u08-m01.json" },
+            { "id": "u08-m02", "title": "Indicating Sizes and Length", "json": "u08-m02.json" },
+            { "id": "u09-m01", "title": "Fat Head, Thin Legs & Wants", "json": "u09-m01.json" },
+            { "id": "u10-m01", "title": "The Fishwoman & Placing Objects", "json": "u10-m01.json" }
           ]
         }
       ]

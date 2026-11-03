@@ -1,0 +1,80 @@
+﻿{
+    "id": "p1-english-u10-m01",
+    "unit": 10,
+    "unitTitle": "The Fishwoman",
+    "title": "The Mermaid & Placing Objects",
+    "class": "Primary 1",
+    "subject": "English Language",
+    "objectives": [
+        "Read and understand a mythical story",
+        "Use prepositions: on, in, near, under, outside"
+    ],
+    "blocks": [
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "The Mermaid of the River Niger"
+        },
+        {
+            "type": "image",
+            "src": "/assets/p1-english/u10/fishwoman.svg",
+            "alt": "Where is the fish?",
+            "caption": "The book is on the table."
+        },
+        {
+            "type": "text",
+            "md": "A very long time ago, there lived a mermaid in the depths of the River Niger. The natives of Oma heard that she always came out at night but no one believed this story.\n\nOne dark night, Odika was walking down from Ebu, a nearby village. When he was walking close to the river, he heard some beautiful Allor Music coming out of the waters. He stopped to enjoy and learn the music so that it could be played when he was going to get the new title. He stepped forward a little closer.\n\nThere was a huge mermaid near the river bank. She was very beautiful and her body shone as if there were lights all over her body. On seeing that Odika was not afraid. The mermaid turned and commanded him to come closer to her. Odika walked closer to the mermaid.\n\n*'For your boldness, I will make you richer than you have thought. Go home and get the wealth in your room and it is yours forever.'*\n\nAnd that was how Odika became the richest man in Oma village."
+        },
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Placing Persons and Objects"
+        },
+        {
+            "type": "text",
+            "md": "We use words to say where things are:\n\n- The book is **on** the table.\n- The mat is **on** the floor.\n- The knife is **in** the tray.\n- The cows are **in** the field.\n- The pen is **in** my pocket.\n- Mummy is **in** the kitchen.\n- The cat is **under** the table.\n- The cup is **near** the kettle.\n- The pupils are **outside** the classroom."
+        },
+        {
+            "type": "callout",
+            "variant": "tip",
+            "md": "**Remember:** Use **'on'** for surfaces, **'in'** for containers, **'under'** for below, **'near'** for close by."
+        }
+    ],
+    "quiz": [
+        {
+            "q": "Where did the mermaid live?",
+            "options": [
+                "In a forest",
+                "In the River Niger",
+                "In a mountain",
+                "In a house"
+            ],
+            "answer": 1,
+            "explain": "The story says she lived in the depths of the River Niger."
+        },
+        {
+            "q": "What did the mermaid tell Odika to do?",
+            "options": [
+                "Go home and get the wealth",
+                "Go to the market",
+                "Run away",
+                "Sing a song"
+            ],
+            "answer": 0,
+            "explain": "She told him to go home and get the wealth in his room."
+        },
+        {
+            "q": "Where is the mat?",
+            "options": [
+                "On the table",
+                "On the floor",
+                "Under the bed",
+                "In the bag"
+            ],
+            "answer": 1,
+            "explain": "The book says 'The mat is on the floor.'"
+        }
+    ],
+    "passMark": 70,
+    "next": null
+}

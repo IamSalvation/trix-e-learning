@@ -1,1 +1,71 @@
-﻿{"id":"p1-english-u05-m01","unit":5,"unitTitle":"Kabir and the Black Bag","title":"Honesty & The Article 'A/An'","class":"Primary 1","subject":"English Language","objectives":["Read and understand a story about honesty","Answer comprehension questions","Use 'a' and 'an' in sentences"],"blocks":[{"type":"heading","level":2,"text":"Kabir and the Black Bag"},{"type":"image","src":"/assets/p1-english/u05/kabir-bag.svg","alt":"A boy finding a black bag","caption":"Kabir found a bag on his way to the farm."},{"type":"text","md":"One bright morning, **Kabir** was going to his father's farm. On his way, he noticed a **black bag** under the leaves.\n\n*'What could this be?'* he asked. But he was in a hurry, so he ran to the farm.\n\nWhen he came back, the bag was still there. He opened it and found bundles of **money**! \n\nKabir did not keep the money. He ran to the **police station** and handed it over. The policemen were amazed at his honesty. Soon, the police found the owner. The man was so happy that he paid Kabir's school fees."},{"type":"callout","variant":"tip","md":"**The Lesson:** Always be honest. If you find something that belongs to another person, return it."},{"type":"heading","level":2,"text":"Using 'A' and 'An'"},{"type":"text","md":"Listen and repeat:\n\n- This is **a** pan.\n- This is **a** man.\n- This is **a** woman.\n- This is **a** flower.\n- This is **an** insect.\n- This is **an** aeroplane.\n- This is **an** orange.\n- This is **a** pencil."}],"quiz":[{"q":"Where was Kabir going?","options":["To school","To the market","To his father's farm","To the police station"],"answer":2,"explain":"The story says he was going to his father's farm."},{"q":"What did Kabir find in the bag?","options":["Books","Yams","Bundles of money","Clothes"],"answer":2,"explain":"He found bundles of money tied with strings."},{"q":"What did Kabir do with the bag?","options":["Kept it","Took it to the police","Threw it away","Gave it to a friend"],"answer":1,"explain":"He ran to the police station to hand it over."},{"q":"Which word goes with 'an'?","options":["Man","Pan","Insect","Woman"],"answer":2,"explain":"Insect starts with a vowel (i), so we use 'an'."}],"passMark":70,"next":null}
+﻿{
+    "id": "p1-english-u05-m01",
+    "unit": 5,
+    "unitTitle": "Kabir and the Black Bag",
+    "title": "Honesty & The Article 'A/An'",
+    "class": "Primary 1",
+    "subject": "English Language",
+    "objectives": [
+        "Read and understand a story about honesty",
+        "Answer comprehension questions"
+    ],
+    "blocks": [
+        {
+            "type": "heading",
+            "level": 2,
+            "text": "Kabir and the Black Bag"
+        },
+        {
+            "type": "image",
+            "src": "/assets/p1-english/u05/kabir-bag.svg",
+            "alt": "A boy finding a black bag",
+            "caption": "Kabir found a bag on his way to the farm."
+        },
+        {
+            "type": "text",
+            "md": "One bright morning, Kabir was going to his father's farm near which is located near their thatched house. On his way to the farm, he was thinking of the number of yam heaps he would have to make before noon. Then he would have to quickly bathe and rush to the local school that usually start at three. He did not know if his mother would be able to give him food that day. He was only sure of the meal in the evening. He told himself that he would look out for some wild berries along the narrow path to the farm and if he was lucky, some fresh fruit would fill his stomach while he worked.\n\n'1 will make the heaps big enough and make my father proud,' he said almost aloud.\n\nBefore Kabir went to the big kolanut tree that was very closeby to his father's farm, he noticed a black bag under the low leaves beside the path.\n\n'What could this be?' he asked himself. But the task ahead of him made him run to the farm without looking back. When he was coming back, he noticed that the black bag was still there.\n\n'It must belong to someone. He must have been forgotten there,' he said to himself. 'I must see what is inside. Perhaps I can get a clue of who the owner is.'\n\nKabir carefully opened the bag and found bundles of money neatly tied together with strong strings. He had never seen that much money in his entire life. He picked the bag and ran to the police station to handover the bag with money. The policemen were amazed at the honesty of a poor boy. Soon, the police found the owner of the bag. The man was so pleased with Kabir that he decided to pay his school fees."
+        },
+        {
+            "type": "callout",
+            "variant": "tip",
+            "md": "**The Lesson:** Always be honest."
+        }
+    ],
+    "quiz": [
+        {
+            "q": "Where was Kabir going?",
+            "options": [
+                "To school",
+                "To the market",
+                "To his father's farm",
+                "To the police station"
+            ],
+            "answer": 2,
+            "explain": "The story says he was going to his father's farm."
+        },
+        {
+            "q": "What did Kabir find in the bag?",
+            "options": [
+                "Books",
+                "Yams",
+                "Bundles of money",
+                "Clothes"
+            ],
+            "answer": 2,
+            "explain": "He found bundles of money tied with strings."
+        },
+        {
+            "q": "What did Kabir do with the bag?",
+            "options": [
+                "Kept it",
+                "Took it to the police",
+                "Threw it away",
+                "Gave it to a friend"
+            ],
+            "answer": 1,
+            "explain": "He ran to the police station to hand it over."
+        }
+    ],
+    "passMark": 70,
+    "next": null
+}
