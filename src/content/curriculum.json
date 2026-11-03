@@ -10,53 +10,26 @@
           "name": "English Language",
           "icon": "📘",
           "lessons": [
-            {
-              "id": "u01-m01",
-              "title": "Simple Greetings at School",
-              "json": "u01-m01.json"
-            },
-            {
-              "id": "u01-m02",
-              "title": "Greetings at School Assembly",
-              "json": "u01-m02.json"
-            },
-            {
-              "id": "u01-m03",
-              "title": "Greetings in the Afternoon",
-              "json": "u01-m03.json"
-            },
-            {
-              "id": "u02-m01",
-              "title": "Identification of Persons",
-              "json": "u02-m01.json"
-            },
-            {
-              "id": "u03-m01",
-              "title": "The Dog and The Tortoise",
-              "json": "u03-m01.json"
-            }
+            { "id": "u01-m01", "title": "Simple Greetings at School", "json": "u01-m01.json" },
+            { "id": "u01-m02", "title": "Greetings at School Assembly", "json": "u01-m02.json" },
+            { "id": "u01-m03", "title": "Greetings in the Afternoon", "json": "u01-m03.json" },
+            { "id": "u01-m04", "title": "Greetings in the Evening", "json": "u01-m04.json" },
+            { "id": "u01-m05", "title": "Greetings at Home", "json": "u01-m05.json" },
+            { "id": "u01-m06", "title": "Greetings in the Community", "json": "u01-m06.json" },
+            { "id": "u01-m07", "title": "Simple Commands", "json": "u01-m07.json" },
+            { "id": "u02-m01", "title": "Identification of Persons", "json": "u02-m01.json" },
+            { "id": "u02-m02", "title": "More Identification of Persons", "json": "u02-m02.json" },
+            { "id": "u03-m01", "title": "The Dog and The Tortoise", "json": "u03-m01.json" },
+            { "id": "u03-m02", "title": "Objects and 'A' vs 'An'", "json": "u03-m02.json" },
+            { "id": "u03-m03", "title": "Letters of the Alphabet (A-H)", "json": "u03-m03.json" },
+            { "id": "u04-m01", "title": "Okon and Akan", "json": "u04-m01.json" },
+            { "id": "u04-m02", "title": "Listen and Say", "json": "u04-m02.json" }
           ]
         }
       ]
     },
-    {
-      "id": "p2",
-      "name": "Primary 2",
-      "color": "#16a34a",
-      "subjects": []
-    },
-    {
-      "id": "p3",
-      "name": "Primary 3",
-      "color": "#f59e0b",
-      "subjects": []
-    },
-    {
-      "id": "p4",
-      "name": "Primary 4",
-      "color": "#dc2626",
-      "subjects": []
-    }
+    { "id": "p2", "name": "Primary 2", "color": "#16a34a", "subjects": [] },
+    { "id": "p3", "name": "Primary 3", "color": "#f59e0b", "subjects": [] },
+    { "id": "p4", "name": "Primary 4", "color": "#dc2626", "subjects": [] }
   ]
 }
-

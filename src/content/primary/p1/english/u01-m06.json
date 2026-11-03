@@ -1,0 +1,72 @@
+﻿{
+  "id": "p1-english-u01-m06",
+  "unit": 1,
+  "unitTitle": "Simple Greetings at School",
+  "title": "Greetings in the Community",
+  "class": "Primary 1",
+  "subject": "English Language",
+  "objectives": [
+    "Greet elders in the community politely",
+    "Understand how to address people outside the home",
+    "Respond correctly to community greetings"
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Good Evening, Mallam"
+    },
+    {
+      "type": "image",
+      "src": "/assets/p1-english/u01/community-greeting.svg",
+      "alt": "A child greeting an elder in the community",
+      "caption": "Aisha greets Mallam Idris in the village."
+    },
+    {
+      "type": "text",
+      "md": "In the community, we greet adults politely. **Mallam** is a respectful title used for a man. When an elder asks a question, we answer politely with **'Mallam'** or **'Sir'**."
+    },
+    {
+      "type": "dialogue",
+      "lines": [
+        { "speaker": "Mallam Idris", "text": "Good evening, children." },
+        { "speaker": "Children", "text": "Good evening, Mallam." },
+        { "speaker": "Mallam Idris", "text": "You have come early to play today." },
+        { "speaker": "Children", "text": "Yes, Mallam." },
+        { "speaker": "Mallam Idris", "text": "Aisha, how is your school?" },
+        { "speaker": "Aisha", "text": "It's fine, Mallam. Thank you." },
+        { "speaker": "Mallam Idris", "text": "Is Mohammed also doing well at school?" },
+        { "speaker": "Aisha", "text": "Yes, he is." },
+        { "speaker": "Mallam Idris", "text": "Where is Jibril?" },
+        { "speaker": "Aisha", "text": "He is coming along with us, Mallam." }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "md": "**Remember:** Always greet elders politely. You can say **'Good morning, sir'** or **'Good evening, ma'** depending on the time of day and the person."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What title do the children use to greet the man?",
+      "options": ["Mr", "Mallam", "Sir", "Uncle"],
+      "answer": 1,
+      "explain": "The children greet him as 'Mallam'."
+    },
+    {
+      "q": "What does Mallam Idris ask Aisha about?",
+      "options": ["Her food", "Her school", "Her clothes", "Her house"],
+      "answer": 1,
+      "explain": "Mallam Idris asks 'how is your school?'"
+    },
+    {
+      "q": "Who is coming along with the children?",
+      "options": ["Mohammed", "Aisha", "Jibril", "Mallam Idris"],
+      "answer": 2,
+      "explain": "Aisha says Jibril is coming along with them."
+    }
+  ],
+  "passMark": 70,
+  "next": null
+}

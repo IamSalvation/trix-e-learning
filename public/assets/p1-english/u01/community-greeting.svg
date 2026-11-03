@@ -1,0 +1,24 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240" width="100%" style="max-width:400px;">
+  <rect width="400" height="240" fill="#fdf4ff"/>
+  <rect x="0" y="180" width="400" height="60" fill="#65a30d"/>
+  
+  <!-- Huts -->
+  <polygon points="50,120 90,80 130,120" fill="#92400e"/>
+  <rect x="65" y="120" width="50" height="60" fill="#d97706"/>
+  <polygon points="280,110 320,70 360,110" fill="#92400e"/>
+  <rect x="295" y="110" width="50" height="70" fill="#d97706"/>
+
+  <!-- Mallam Idris (left) -->
+  <circle cx="110" cy="150" r="16" fill="#78350f"/>
+  <rect x="94" y="166" width="32" height="50" rx="5" fill="#0ea5e9"/>
+  <rect x="94" y="216" width="12" height="25" fill="#fff"/>
+  <rect x="114" y="216" width="12" height="25" fill="#fff"/>
+  
+  <!-- Child (Aisha) -->
+  <circle cx="220" cy="155" r="14" fill="#78350f"/>
+  <rect x="206" y="169" width="28" height="45" rx="5" fill="#ec4899"/>
+  <rect x="206" y="214" width="10" height="25" fill="#fff"/>
+  <rect x="224" y="214" width="10" height="25" fill="#fff"/>
+  
+  <text x="200" y="35" font-family="sans-serif" font-size="14" fill="#86198f" text-anchor="middle" font-weight="bold">Greetings in the Community</text>
+</svg>

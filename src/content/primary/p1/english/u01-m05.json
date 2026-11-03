@@ -1,0 +1,69 @@
+﻿{
+  "id": "p1-english-u01-m05",
+  "unit": 1,
+  "unitTitle": "Simple Greetings at School",
+  "title": "Greetings at Home",
+  "class": "Primary 1",
+  "subject": "English Language",
+  "objectives": [
+    "Greet your parents politely at home",
+    "Use 'mum' and 'dad' correctly",
+    "Respond to questions about family members"
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Good Morning, Mum and Dad"
+    },
+    {
+      "type": "image",
+      "src": "/assets/p1-english/u01/home-greeting.svg",
+      "alt": "A child greeting his parents in a living room",
+      "caption": "Ayo greets his parents when he wakes up."
+    },
+    {
+      "type": "text",
+      "md": "When you wake up in the morning, it is polite to greet your parents. You can call your father **'Dad'** and your mother **'Mum'** or **'Mummy'**."
+    },
+    {
+      "type": "dialogue",
+      "lines": [
+        { "speaker": "Ayo", "text": "Good morning, dad." },
+        { "speaker": "Mr. Adebayo", "text": "Good morning, Ayo. Did you sleep well?" },
+        { "speaker": "Ayo", "text": "Yes, dad, I slept well. Thank you. Good morning, mummy." },
+        { "speaker": "Mrs. Adebayo", "text": "Good morning my dear. Is Kunle still sleeping?" },
+        { "speaker": "Ayo", "text": "No, he isn't, mum." },
+        { "speaker": "Mrs. Adebayo", "text": "Please, go and find out from his room." },
+        { "speaker": "Ayo", "text": "Yes, mum." }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "md": "**Remember:** Always greet your parents when you wake up. It shows respect and love."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "How does Ayo greet his father?",
+      "options": ["Good afternoon, dad", "Good evening, dad", "Good morning, dad", "Good night, dad"],
+      "answer": 2,
+      "explain": "Ayo wakes up and says 'Good morning, dad'."
+    },
+    {
+      "q": "What does Mrs. Adebayo ask Ayo to do?",
+      "options": ["Go to school", "Find out if Kunle is sleeping", "Wash the plates", "Go to bed"],
+      "answer": 1,
+      "explain": "She asks him to go and find out from Kunle's room."
+    },
+    {
+      "q": "Who is Kunle?",
+      "options": ["Ayo's friend", "Ayo's brother", "Ayo's teacher", "Ayo's father"],
+      "answer": 1,
+      "explain": "Mrs. Adebayo asks if Kunle is still sleeping, implying he is Ayo's brother."
+    }
+  ],
+  "passMark": 70,
+  "next": null
+}

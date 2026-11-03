@@ -1,0 +1,19 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240" width="100%" style="max-width:400px;">
+  <rect width="400" height="240" fill="#f0fdf4"/>
+  <rect x="0" y="180" width="400" height="60" fill="#d4a373"/>
+  <rect x="20" y="100" width="360" height="80" fill="#fcd34d"/>
+  <rect x="40" y="80" width="20" height="100" fill="#78350f"/>
+  <rect x="100" y="80" width="20" height="100" fill="#78350f"/>
+  <rect x="160" y="80" width="20" height="100" fill="#78350f"/>
+  <rect x="220" y="80" width="20" height="100" fill="#78350f"/>
+  <rect x="280" y="80" width="20" height="100" fill="#78350f"/>
+  <rect x="340" y="80" width="20" height="100" fill="#78350f"/>
+  <circle cx="100" cy="150" r="15" fill="#78350f"/>
+  <rect x="85" y="165" width="30" height="40" fill="#16a34a"/>
+  <circle cx="280" cy="150" r="15" fill="#78350f"/>
+  <rect x="265" y="165" width="30" height="40" fill="#dc2626"/>
+  <rect x="180" y="190" width="40" height="20" fill="#4b5563"/>
+  <line x1="180" y1="190" x2="220" y2="210" stroke="#9ca3af" stroke-width="2"/>
+  <line x1="180" y1="210" x2="220" y2="190" stroke="#9ca3af" stroke-width="2"/>
+  <text x="200" y="55" font-family="sans-serif" font-size="12" fill="#444" text-anchor="middle" font-weight="bold">Okon and Akan at the trap</text>
+</svg>

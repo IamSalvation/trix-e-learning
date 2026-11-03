@@ -1,0 +1,82 @@
+﻿{
+  "id": "p1-english-u01-m04",
+  "unit": 1,
+  "unitTitle": "Simple Greetings at School",
+  "title": "Greetings in the Evening",
+  "class": "Primary 1",
+  "subject": "English Language",
+  "objectives": [
+    "Greet people politely in the evening",
+    "Use 'good night' when saying goodbye at night",
+    "Respond to evening greetings correctly"
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Good Evening, Children!"
+    },
+    {
+      "type": "text",
+      "md": "In the **evening**, we greet people by saying **'Good evening'**. When it is time to leave or go to bed, we say **'Good night'**."
+    },
+    {
+      "type": "image",
+      "src": "/assets/p1-english/u01/evening-football.svg",
+      "alt": "A teacher with pupils in football kits in the evening",
+      "caption": "The teacher and pupils play football in the evening."
+    },
+    {
+      "type": "dialogue",
+      "lines": [
+        { "speaker": "Teacher", "text": "Good evening, children." },
+        { "speaker": "Pupils",  "text": "Good evening, sir." },
+        { "speaker": "Teacher", "text": "Are you all ready to play football?" },
+        { "speaker": "Pupils",  "text": "Yes, sir." },
+        { "speaker": "Teacher", "text": "Let us choose our team captains first." },
+        { "speaker": "Pupils",  "text": "Yes, sir." },
+        { "speaker": "Teacher", "text": "Akpan, pick five boys for your team." },
+        { "speaker": "Akpan",   "text": "Yes, sir. (Chooses the members.)" },
+        { "speaker": "Teacher", "text": "Jide, pick your team." },
+        { "speaker": "Jide",    "text": "Yes, sir." },
+        { "speaker": "Teacher", "text": "Did you all enjoy the game today?" },
+        { "speaker": "Pupils",  "text": "Yes, sir." },
+        { "speaker": "Teacher", "text": "Good night, children. See you all tomorrow." },
+        { "speaker": "Pupils",  "text": "Good night, sir." }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "md": "**Remember:** We say **'Good evening'** when we meet someone in the evening. But when we are leaving or going to bed, we say **'Good night'**."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What do you say when you see someone in the evening?",
+      "options": ["Good morning", "Good afternoon", "Good evening", "Good night"],
+      "answer": 2,
+      "explain": "In the evening we say 'Good evening'."
+    },
+    {
+      "q": "What do you say before going to bed?",
+      "options": ["Good afternoon", "Good morning", "Good evening", "Good night"],
+      "answer": 3,
+      "explain": "We say 'Good night' when going to bed or leaving at night."
+    },
+    {
+      "q": "What game did the pupils play in the evening?",
+      "options": ["Basketball", "Football", "Tennis", "Swimming"],
+      "answer": 1,
+      "explain": "The teacher asked if they were ready to play football."
+    },
+    {
+      "q": "Who picked the first team?",
+      "options": ["Jide", "Akpan", "Ngozi", "Ayo"],
+      "answer": 1,
+      "explain": "The teacher asked Akpan first to pick five boys for his team."
+    }
+  ],
+  "passMark": 70,
+  "next": null
+}
