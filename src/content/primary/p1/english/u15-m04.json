@@ -1,0 +1,24 @@
+﻿{
+  "id": "p1-english-u15-m04",
+  "unit": 15,
+  "unitTitle": "Amateer, The King",
+  "title": "Picture Matching & Letter Formation",
+  "class": "Primary 1",
+  "subject": "English Language",
+  "objectives": ["Spot differences between two pictures", "Practice writing small letters of the alphabet"],
+  "blocks": [
+    { "type": "heading", "level": 2, "text": "Find the Differences" },
+    { "type": "image", "src": "/assets/p1-english/u15/picture-match.svg", "alt": "Two similar pictures to compare", "caption": "Find the differences in the pictures below." },
+    { "type": "text", "md": "Look at the two pictures carefully. Find all the things that are different between them." },
+    { "type": "heading", "level": 2, "text": "Formation of Small Letters" },
+    { "type": "text", "md": "Practice writing the small letters of the alphabet in your copy book:\n\n**a b c d e f g h i j k l m n o p q r s t u v w x y z**" },
+    { "type": "callout", "variant": "tip", "md": "**Remember:** Small letters are also called lowercase letters. Every capital letter has a small letter pair: A→a, B→b, C→c." }
+  ],
+  "quiz": [
+    { "q": "What is the small letter for 'A'?", "options": ["a", "b", "e", "o"], "answer": 0, "explain": "The small letter for A is a." },
+    { "q": "What is the small letter for 'G'?", "options": ["q", "g", "j", "p"], "answer": 1, "explain": "The small letter for G is g." },
+    { "q": "Which is a capital letter?", "options": ["b", "c", "D", "f"], "answer": 2, "explain": "D is a capital letter; the rest are lowercase." }
+  ],
+  "passMark": 70,
+  "next": null
+}

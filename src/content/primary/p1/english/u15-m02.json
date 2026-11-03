@@ -1,0 +1,38 @@
+﻿{
+  "id": "p1-english-u15-m02",
+  "unit": 15,
+  "unitTitle": "Amateer, The King",
+  "title": "Expressing Past Actions",
+  "class": "Primary 1",
+  "subject": "English Language",
+  "objectives": ["Talk about actions that happened in the past", "Use past tense verbs like 'ate', 'played', 'went', 'learnt'"],
+  "blocks": [
+    { "type": "heading", "level": 2, "text": "Talking About Yesterday" },
+    { "type": "image", "src": "/assets/p1-english/u15/past-actions.svg", "alt": "Children talking about past events", "caption": "What did you do yesterday?" },
+    { "type": "text", "md": "When we talk about things that happened **yesterday**, **last week**, or **on Saturday**, we use **past tense verbs**.\n\n- **ate** (not eat)\n- **played** (not play)\n- **went** (not go)\n- **learnt** (not learn)\n- **watched** (not watch)\n- **asked** (not ask)\n- **gave** (not give)\n- **saw** (not see)" },
+    { "type": "dialogue", "lines": [
+      { "speaker": "Teacher", "text": "John ate rice yesterday. The boys played football last Monday. We went to the market on Saturday. We learnt the alphabets last week." },
+      { "speaker": "Jide", "text": "Kunle, which comic did you watch on Saturday?" },
+      { "speaker": "Kunle", "text": "I watched The Titanic." },
+      { "speaker": "Jide", "text": "Mohammed, where did you go on Friday?" },
+      { "speaker": "Mohammed", "text": "I went to the mosque." },
+      { "speaker": "Akpan", "text": "Ngozi, what did Mr. Jackson tell us to do?" },
+      { "speaker": "Ngozi", "text": "Mr. Jackson told us to sing the national anthem." },
+      { "speaker": "Ayo", "text": "Emeka, what did you ask Jibril?" },
+      { "speaker": "Emeka", "text": "I asked him for a pencil." },
+      { "speaker": "Jibril", "text": "Mohammed, did you buy this ball?" },
+      { "speaker": "Mohammed", "text": "No, I did not. My friend gave it to me." },
+      { "speaker": "Jide", "text": "Akpan, did you see Mr. Jackson?" },
+      { "speaker": "Akpan", "text": "Yes, he went towards his office." }
+    ]},
+    { "type": "callout", "variant": "tip", "md": "**Rule:** Past tense verbs describe actions that already happened. 'I go' (now) → 'I went' (yesterday)." }
+  ],
+  "quiz": [
+    { "q": "What did John eat yesterday?", "options": ["Bread", "Rice", "Beans", "Yam"], "answer": 1, "explain": "The teacher said 'John ate rice yesterday.'" },
+    { "q": "Which comic did Kunle watch?", "options": ["Shrek", "The Titanic", "The Lion King", "Cinderella"], "answer": 1, "explain": "Kunle watched 'The Titanic'." },
+    { "q": "Where did Mohammed go on Friday?", "options": ["To school", "To the mosque", "To the market", "To the farm"], "answer": 1, "explain": "Mohammed went to the mosque." },
+    { "q": "What did Emeka ask Jibril for?", "options": ["A book", "A pencil", "A ball", "A pen"], "answer": 1, "explain": "Emeka asked Jibril for a pencil." }
+  ],
+  "passMark": 70,
+  "next": null
+}

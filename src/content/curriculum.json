@@ -48,7 +48,11 @@
             { "id": "u14-m02", "title": "Expressing Gratitude", "json": "u14-m02.json" },
             { "id": "u14-m03", "title": "Expressing Farewell", "json": "u14-m03.json" },
             { "id": "u14-m04", "title": "Expressing Continuous Action", "json": "u14-m04.json" },
-            { "id": "u14-m05", "title": "Continuous Action Practice", "json": "u14-m05.json" }
+            { "id": "u14-m05", "title": "Continuous Action Practice", "json": "u14-m05.json" },
+            { "id": "u15-m01", "title": "Amateer, The King", "json": "u15-m01.json" },
+            { "id": "u15-m02", "title": "Expressing Past Actions", "json": "u15-m02.json" },
+            { "id": "u15-m03", "title": "Animal Jigsaw Puzzle", "json": "u15-m03.json" },
+            { "id": "u15-m04", "title": "Picture Matching & Letter Formation", "json": "u15-m04.json" }
           ]
         }
       ]
@@ -58,6 +62,7 @@
     { "id": "p4", "name": "Primary 4", "color": "#dc2626", "subjects": [] }
   ]
 }
+
 
 
 

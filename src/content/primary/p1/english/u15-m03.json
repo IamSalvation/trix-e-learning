@@ -1,0 +1,22 @@
+﻿{
+  "id": "p1-english-u15-m03",
+  "unit": 15,
+  "unitTitle": "Amateer, The King",
+  "title": "Animal Jigsaw Puzzle",
+  "class": "Primary 1",
+  "subject": "English Language",
+  "objectives": ["Identify animal names within a word puzzle", "Practice spelling animal names"],
+  "blocks": [
+    { "type": "heading", "level": 2, "text": "Find the Animals" },
+    { "type": "image", "src": "/assets/p1-english/u15/jigsaw.svg", "alt": "A jigsaw puzzle with animal names hidden inside", "caption": "Find 10 animal names in the puzzle." },
+    { "type": "text", "md": "Can you find the animal names hidden in this puzzle?\n\n**ERGDLEOUSHEEPAGCEDRTSKHOMFAOHIPPOTNESBIRDKTNHCOWSECATY**\n\nSome animals to look for:\n\n- **SHEEP**\n- **HORSE**\n- **HIPPO**\n- **BIRD**\n- **COW**\n- **CAT**\n- **DOG**\n- **LION**\n- **FROG**\n- **GOAT**" },
+    { "type": "callout", "variant": "tip", "md": "**Hint:** Look carefully at each part of the puzzle. Animal names are hidden side by side." }
+  ],
+  "quiz": [
+    { "q": "Can you find 'SHEEP' in the puzzle?", "options": ["Yes, it's there", "No, it's not there", "Maybe", "I don't know"], "answer": 0, "explain": "SHEEP is right after 'DLEOU'." },
+    { "q": "Which of these animals is NOT in the puzzle?", "options": ["Horse", "Cow", "Tiger", "Cat"], "answer": 2, "explain": "Tiger is not in the puzzle — but horse, cow, and cat are." },
+    { "q": "How many letters does 'HIPPO' have?", "options": ["4", "5", "6", "7"], "answer": 1, "explain": "HIPPO has 5 letters." }
+  ],
+  "passMark": 70,
+  "next": null
+}

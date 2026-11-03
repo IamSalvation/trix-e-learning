@@ -1,0 +1,104 @@
+﻿{
+  "id": "p1-english-u15-m01",
+  "unit": 15,
+  "unitTitle": "Amateer, The King",
+  "title": "Amateer, The King",
+  "class": "Primary 1",
+  "subject": "English Language",
+  "objectives": [
+    "Read and understand a story about a stubborn king",
+    "Answer comprehension questions"
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Amateer, The King"
+    },
+    {
+      "type": "image",
+      "src": "/assets/p1-english/u15/amateer.svg",
+      "alt": "King Amateer on his throne",
+      "caption": "King Amateer sat alone on his throne."
+    },
+    {
+      "type": "text",
+      "md": "There was a king called Amateer. He provided everything to make life easy for his people but he denied them for their rights. For example, the people had no right to go anywhere in the village without taking prior permission from the palace officials.\n\nOne day, Amateer called all the people for a meeting. But all the villagers refused to attend the meeting. The king was quite disturbed and he sent his servants to call the town crier in order to find out if he actually announced the right day for the meeting. The king was told that the town crier had travelled the night before. In fact, all his chiefs had also travelled. The king was all alone.\n\nThen he cursed that there would be no rain in his kingdom provided all his subjects returned to him. The people began to suffer and their children and animals began to die. Some people ran to other nearby villages, while some others decided to stay with their king. Soon the drought started to kill the king's children, his wives, and animals. Amateer changed his mind and removed the curse on his village. But it was too late."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "md": "**The Lesson:** Leaders should listen to their people. Pride can destroy a kingdom."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What is the name of the king?",
+      "options": [
+        "Hassan",
+        "Amateer",
+        "Okon",
+        "Jibril"
+      ],
+      "answer": 1,
+      "explain": "The king's name is Amateer."
+    },
+    {
+      "q": "What did he do that his people did not like?",
+      "options": [
+        "He built them houses",
+        "He denied them their rights",
+        "He gave them food",
+        "He sang to them"
+      ],
+      "answer": 1,
+      "explain": "He denied them their rights — they needed permission to go anywhere."
+    },
+    {
+      "q": "How did some of his people show their dislike?",
+      "options": [
+        "They fought him",
+        "They refused to attend the meeting",
+        "They left the village",
+        "They sang songs"
+      ],
+      "answer": 1,
+      "explain": "They refused to attend the meeting he called."
+    },
+    {
+      "q": "Out of anger, what did the king place on his people?",
+      "options": [
+        "A tax",
+        "A curse (no rain)",
+        "A new law",
+        "A fine"
+      ],
+      "answer": 1,
+      "explain": "He cursed that there would be no rain in his kingdom."
+    },
+    {
+      "q": "What happened to the people in his kingdom?",
+      "options": [
+        "They became rich",
+        "They suffered and their children and animals died",
+        "They celebrated",
+        "They sang"
+      ],
+      "answer": 1,
+      "explain": "The drought killed children, animals, and even the king's own family."
+    },
+    {
+      "q": "When did he change his mind?",
+      "options": [
+        "Immediately",
+        "When the drought killed his own family",
+        "When the people begged him",
+        "He never changed his mind"
+      ],
+      "answer": 1,
+      "explain": "He changed his mind when the drought started killing his own children and animals — but it was too late."
+    }
+  ],
+  "passMark": 70,
+  "next": null
+}
