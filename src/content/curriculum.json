@@ -16,6 +16,11 @@
               "json": "u01-m01.json"
             },
             {
+              "id": "u01-m02",
+              "title": "Greetings at School Assembly",
+              "json": "u01-m02.json"
+            },
+            {
               "id": "u02-m01",
               "title": "Identification of Persons",
               "json": "u02-m01.json"

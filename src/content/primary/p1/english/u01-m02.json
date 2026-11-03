@@ -1,0 +1,96 @@
+﻿{
+  "id": "p1-english-u01-m02",
+  "unit": 1,
+  "unitTitle": "Simple Greetings at School",
+  "title": "Greetings at School Assembly",
+  "class": "Primary 1",
+  "subject": "English Language",
+  "objectives": [
+    "Greet the headmaster and teachers politely",
+    "Respond correctly to morning greetings",
+    "Understand how to greet during assembly"
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Talking to the Teacher"
+    },
+    {
+      "type": "text",
+      "md": "Every morning, teachers greet their pupils. Listen to how these pupils reply:"
+    },
+    {
+      "type": "dialogue",
+      "lines": [
+        { "speaker": "Teacher", "text": "Good morning, Tunde. How are you?" },
+        { "speaker": "Tunde",   "text": "I am fine, sir." },
+        { "speaker": "Teacher", "text": "Emeka, did you sleep well?" },
+        { "speaker": "Emeka",   "text": "Yes, I did, thank you, sir." },
+        { "speaker": "Teacher", "text": "Chioma, how do you do?" },
+        { "speaker": "Chioma",  "text": "How do you do, sir?" },
+        { "speaker": "Teacher", "text": "Musa, the day will be bright today, don't you think?" },
+        { "speaker": "Musa",    "text": "And hot too as well." },
+        { "speaker": "Teacher", "text": "Zara, you are wearing beautiful braids today." },
+        { "speaker": "Zara",    "text": "Thank you, sir." },
+        { "speaker": "Teacher", "text": "Ibrahim, did you rest well last night?" },
+        { "speaker": "Ibrahim", "text": "Yes, I did, sir." }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Simple Greetings at School Assembly"
+    },
+    {
+      "type": "image",
+      "src": "/assets/p1-english/u01/school-assembly.svg",
+      "alt": "Pupils standing at morning assembly",
+      "caption": "The headmaster speaks to the whole school at assembly."
+    },
+    {
+      "type": "dialogue",
+      "lines": [
+        { "speaker": "Headmaster", "text": "How are you all, dear children?" },
+        { "speaker": "Pupils",     "text": "We are fine, sir." },
+        { "speaker": "Headmaster", "text": "It is nice to see you all today." },
+        { "speaker": "Pupils",     "text": "Thank you, sir." },
+        { "speaker": "Headmaster", "text": "Today is the first day of a new term." },
+        { "speaker": "Pupils",     "text": "Yes, sir." },
+        { "speaker": "Headmaster", "text": "Are you all ready to work hard?" },
+        { "speaker": "Pupils",     "text": "Yes, sir." },
+        { "speaker": "Headmaster", "text": "I congratulate all the winners of the match." },
+        { "speaker": "Pupils",     "text": "Thank you, sir." },
+        { "speaker": "Headmaster", "text": "You may all go back to your classes. Have a wonderful day." },
+        { "speaker": "Pupils",     "text": "Thank you, sir." }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "md": "**Remember:** At assembly, we greet the **headmaster**, the **teachers**, and our **friends**. Always answer politely with **'sir'** or **'ma'**."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Who speaks to the whole school at assembly?",
+      "options": ["The pupils", "The headmaster", "The cook", "The driver"],
+      "answer": 1,
+      "explain": "The headmaster leads the school assembly."
+    },
+    {
+      "q": "If the headmaster asks 'How are you all?', what do the pupils say?",
+      "options": ["We are fine, sir.", "We are running.", "We are sleeping.", "We are eating."],
+      "answer": 0,
+      "explain": "The correct polite answer is 'We are fine, sir.'"
+    },
+    {
+      "q": "What should you say when a teacher says something kind to you?",
+      "options": ["Nothing", "Go away", "Thank you, sir", "Yes, no, maybe"],
+      "answer": 2,
+      "explain": "We always say 'Thank you' when someone is kind to us."
+    }
+  ],
+  "passMark": 70,
+  "next": null
+}

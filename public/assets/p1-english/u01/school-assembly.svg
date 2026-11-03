@@ -1,0 +1,44 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240" width="100%" style="max-width:400px;">
+  <!-- Sky and ground -->
+  <rect width="400" height="240" fill="#e0f2fe"/>
+  <rect x="0" y="160" width="400" height="80" fill="#d4a373"/>
+  
+  <!-- Stage / podium -->
+  <rect x="20" y="100" width="140" height="60" rx="4" fill="#92400e"/>
+  <rect x="30" y="85" width="40" height="15" rx="2" fill="#78350f"/>
+  <circle cx="50" cy="70" r="14" fill="#78350f"/>
+  <rect x="38" y="82" width="24" height="6" rx="2" fill="#1e293b"/>
+  <text x="90" y="135" font-family="sans-serif" font-size="11" fill="#fff" font-weight="bold">ASSEMBLY</text>
+  
+  <!-- Pupils in rows (simple figures) -->
+  <circle cx="220" cy="120" r="10" fill="#78350f"/>
+  <rect x="212" y="130" width="16" height="30" rx="3" fill="#0ea5e9"/>
+  <rect x="212" y="160" width="6" height="20" fill="#1e293b"/>
+  <rect x="222" y="160" width="6" height="20" fill="#1e293b"/>
+  
+  <circle cx="260" cy="115" r="10" fill="#78350f"/>
+  <rect x="252" y="125" width="16" height="30" rx="3" fill="#0ea5e9"/>
+  <rect x="252" y="155" width="6" height="22" fill="#1e293b"/>
+  <rect x="262" y="155" width="6" height="22" fill="#1e293b"/>
+  
+  <circle cx="300" cy="118" r="10" fill="#78350f"/>
+  <rect x="292" y="128" width="16" height="30" rx="3" fill="#0ea5e9"/>
+  <rect x="292" y="158" width="6" height="20" fill="#1e293b"/>
+  <rect x="302" y="158" width="6" height="20" fill="#1e293b"/>
+  
+  <circle cx="340" cy="122" r="10" fill="#78350f"/>
+  <rect x="332" y="132" width="16" height="30" rx="3" fill="#0ea5e9"/>
+  <rect x="332" y="162" width="6" height="18" fill="#1e293b"/>
+  <rect x="342" y="162" width="6" height="18" fill="#1e293b"/>
+  
+  <!-- Back row -->
+  <circle cx="240" cy="145" r="8" fill="#92400e"/>
+  <rect x="233" y="153" width="14" height="20" rx="3" fill="#0ea5e9"/>
+  <circle cx="285" cy="140" r="8" fill="#92400e"/>
+  <rect x="278" y="148" width="14" height="20" rx="3" fill="#0ea5e9"/>
+  <circle cx="325" cy="145" r="8" fill="#92400e"/>
+  <rect x="318" y="153" width="14" height="20" rx="3" fill="#0ea5e9"/>
+  
+  <!-- Caption text -->
+  <text x="200" y="228" font-family="sans-serif" font-size="11" fill="#444" text-anchor="middle">The headmaster speaks at morning assembly.</text>
+</svg>
