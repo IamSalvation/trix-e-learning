@@ -56,7 +56,11 @@
             { "id": "u16-m01", "title": "The Turtle, the Elephant and the Hippopotamus", "json": "u16-m01.json" },
             { "id": "u16-m02", "title": "Expressing Past Actions (Practice)", "json": "u16-m02.json" },
             { "id": "u16-m03", "title": "Days of the Week & Solomon Grundy", "json": "u16-m03.json" },
-            { "id": "u16-m04", "title": "Days of the Week Practice", "json": "u16-m04.json" }
+            { "id": "u16-m04", "title": "Days of the Week Practice", "json": "u16-m04.json" },
+            { "id": "u17-m01", "title": "Months of the Year & Queen Momata", "json": "u17-m01.json" },
+            { "id": "u17-m02", "title": "Parts of the Body", "json": "u17-m02.json" },
+            { "id": "u17-m03", "title": "Food, Medicine & Health", "json": "u17-m03.json" },
+            { "id": "u18-m01", "title": "The Marriage Ceremony (A Play)", "json": "u18-m01.json" }
           ]
         }
       ]
@@ -66,6 +70,7 @@
     { "id": "p4", "name": "Primary 4", "color": "#dc2626", "subjects": [] }
   ]
 }
+
 
 
 

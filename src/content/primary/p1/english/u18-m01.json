@@ -1,0 +1,47 @@
+﻿{
+  "id": "p1-english-u18-m01",
+  "unit": 18,
+  "unitTitle": "Dramatic Events",
+  "title": "The Marriage Ceremony (A Play)",
+  "class": "Primary 1",
+  "subject": "English Language",
+  "objectives": ["Read and understand a dramatic play", "Learn how traditional Nigerian marriage ceremonies are conducted"],
+  "blocks": [
+    { "type": "heading", "level": 2, "text": "The Marriage Ceremony" },
+    { "type": "image", "src": "/assets/p1-english/u18/marriage.svg", "alt": "A traditional Nigerian marriage ceremony", "caption": "A traditional marriage ceremony in Nigeria." },
+    { "type": "text", "md": "This is a play about a traditional Nigerian marriage ceremony. The class should dramatise it. Read the characters' lines out loud and imagine the scene." },
+    { "type": "dialogue", "lines": [
+      { "speaker": "Narrator", "text": "Mr. Adebayo's compound, one Friday evening. Mr. and Mrs. Adebayo and their family members are seated on one side. They are led by Chief Adefemi, Mr. Adebayo's eldest brother. The groom and his parents' family members are seated on the other side. The ceremony is about to begin." },
+      { "speaker": "Mrs. Orelope", "text": "Good afternoon to all." },
+      { "speaker": "All", "text": "Good afternoon. You are welcome." },
+      { "speaker": "Mrs. Orelope", "text": "We have knocked before we entered this house." },
+      { "speaker": "All", "text": "You have entered, welcome." },
+      { "speaker": "Mrs. Orelope", "text": "Our son found a flower in your compound and we wish to pluck it." },
+      { "speaker": "Chief Adefemi", "text": "Which flower? In this compound?" },
+      { "speaker": "Mrs. Orelope", "text": "Yes. My father, Chief Adeloye, told me to plead with you all to let us pluck it." },
+      { "speaker": "Chief Adefemi", "text": "There are many flowers in this compound. Doesn't the one you found have a name? Hibiscus, frangipani, tetanus? What?" },
+      { "speaker": "All", "text": "(All laugh.)" },
+      { "speaker": "Mrs. Orelope", "text": "It has a name, my father. All of us, as well dressed as we are, have come to pick one flower, just one. We have come with goats and chickens, yams and fruits, honey and money. Loads of money. Because the flower is a person." },
+      { "speaker": "All", "text": "A flower is now a person! (All laugh.)" },
+      { "speaker": "Mrs. Orelope", "text": "Yes. She is Adunola. Your beautiful Adunola, the sweet Adunola, who is sweeter than the honey we have brought here. She is the flower!" },
+      { "speaker": "All", "text": "Is that so? And who had the sharp eyes to see a flower so hidden in our compound?" },
+      { "speaker": "Mrs. Orelope", "text": "It was our son, Rotimi, who knows the best place to search." },
+      { "speaker": "Chief Adefemi", "text": "Bring him in. Let us see how sharp he can see." },
+      { "speaker": "Narrator", "text": "Rotimi and his friends enter led by Mrs. Orelope as music is playing and all are dancing. Then he prostrates before Mr. Adebayo's family members to greet them. Adunola is led in by her friends and other wives of their family members. She kneels before her parents." },
+      { "speaker": "Chief Adefemi", "text": "Rotimi, you may rise. They say you are sharp-eyed and have seen a flower in this house. Right? Find out for yourself. Is this the flower?" },
+      { "speaker": "Narrator", "text": "Rotimi is allowed to unveil Adunola." },
+      { "speaker": "Rotimi", "text": "Yes, father." },
+      { "speaker": "All", "text": "(All clap and shout in joy.)" }
+    ]},
+    { "type": "callout", "variant": "tip", "md": "**About the Play:** In many Nigerian cultures, marriage ceremonies involve the groom's family formally asking for the bride's hand. The 'flower' is a poetic way of describing the bride. The whole ceremony is full of tradition, respect, and celebration." }
+  ],
+  "quiz": [
+    { "q": "What does the 'flower' stand for in the play?", "options": ["A real flower", "The bride, Adunola", "A gift", "Money"], "answer": 1, "explain": "The 'flower' is the beautiful bride, Adunola." },
+    { "q": "Who is the father of the bride?", "options": ["Chief Adefemi", "Mr. Adebayo", "Chief Adeloye", "Mrs. Orelope"], "answer": 1, "explain": "Adunola is the daughter of Mr. Adebayo." },
+    { "q": "What did the groom's family bring as gifts?", "options": ["Only money", "Goats, chickens, yams, fruits, honey, and money", "Gold and diamonds", "Clothes and shoes"], "answer": 1, "explain": "They brought goats, chickens, yams, fruits, honey, and loads of money." },
+    { "q": "What is the name of the groom?", "options": ["Adefemi", "Rotimi", "Adebayo", "Orelope"], "answer": 1, "explain": "The groom's name is Rotimi." },
+    { "q": "What happens when Rotimi unveils Adunola?", "options": ["Everyone is angry", "Everyone claps and shouts in joy", "The ceremony ends", "Nobody says anything"], "answer": 1, "explain": "Everyone claps and shouts in joy to confirm the marriage." }
+  ],
+  "passMark": 70,
+  "next": null
+}

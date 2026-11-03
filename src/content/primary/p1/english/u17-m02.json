@@ -1,0 +1,23 @@
+﻿{
+  "id": "p1-english-u17-m02",
+  "unit": 17,
+  "unitTitle": "Queen Momata and Nevene",
+  "title": "Parts of the Body",
+  "class": "Primary 1",
+  "subject": "English Language",
+  "objectives": ["Name the parts of the body", "Point to the correct body part when named"],
+  "blocks": [
+    { "type": "heading", "level": 2, "text": "Parts of the Body" },
+    { "type": "image", "src": "/assets/p1-english/u17/body.svg", "alt": "A labelled diagram of the human body", "caption": "Touch the part of your body when it is named." },
+    { "type": "text", "md": "Here are the parts of the body. Touch each one as you say it:\n\n- **Head**\n- **Eyes**\n- **Nose**\n- **Mouth**\n- **Ear**\n- **Neck**\n- **Shoulder**\n- **Chest**\n- **Arm**\n- **Elbow**\n- **Wrist**\n- **Hand**\n- **Fingers**\n- **Stomach**\n- **Leg**\n- **Knee**\n- **Foot**\n- **Toes**" },
+    { "type": "callout", "variant": "tip", "md": "**Practice:** Ask someone to name a body part, and touch it as fast as you can!" }
+  ],
+  "quiz": [
+    { "q": "What do you use to see?", "options": ["Eyes", "Ears", "Nose", "Mouth"], "answer": 0, "explain": "You see with your eyes." },
+    { "q": "What do you use to hear?", "options": ["Eyes", "Ears", "Nose", "Mouth"], "answer": 1, "explain": "You hear with your ears." },
+    { "q": "What is the part between your hand and your arm?", "options": ["Elbow", "Knee", "Wrist", "Ankle"], "answer": 2, "explain": "The wrist connects your hand to your arm." },
+    { "q": "What are the parts at the bottom of your feet called?", "options": ["Fingers", "Toes", "Heels", "Palms"], "answer": 1, "explain": "The parts at the bottom of your feet are called toes." }
+  ],
+  "passMark": 70,
+  "next": null
+}

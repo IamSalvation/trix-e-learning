@@ -1,0 +1,27 @@
+﻿{
+  "id": "p1-english-u17-m03",
+  "unit": 17,
+  "unitTitle": "Queen Momata and Nevene",
+  "title": "Food, Medicine & Health",
+  "class": "Primary 1",
+  "subject": "English Language",
+  "objectives": ["Name foods that are good for the body", "Identify things that harm the body"],
+  "blocks": [
+    { "type": "heading", "level": 2, "text": "Things That Are Good for the Body" },
+    { "type": "image", "src": "/assets/p1-english/u17/food-medicine.svg", "alt": "Food and medicine", "caption": "Food and medicine are good for the body." },
+    { "type": "text", "md": "Food is good for the body. Examples:\n\n- Rice\n- Yam\n- Fruits\n- Vegetables (like ewedu and okra)\n- Garri\n- Fufu\n- Beans\n\nBeans contain **protein**, which helps us grow well and strong." },
+    { "type": "text", "md": "Medicine is also good for the body when we are ill. Examples:\n\n- Worm medicine\n- Malaria medicine like **ACT** (Anti-malarial Combination Therapy)" },
+    { "type": "heading", "level": 2, "text": "Things That Are NOT Good for the Body" },
+    { "type": "text", "md": "Some things are dangerous to the body:\n\n- **Sand and chalk** (do not eat them!)\n- **Cigarettes** — they destroy the lungs\n- **Hard drugs** like cocaine, heroin, and marijuana — they destroy lives\n- **Alcohol** — not good for young people's bodies" },
+    { "type": "callout", "variant": "tip", "md": "**Remember:** Eat healthy food. Take medicine only when a doctor or parent gives it to you. Never touch cigarettes, drugs, or alcohol." }
+  ],
+  "quiz": [
+    { "q": "Which of these foods is good for the body?", "options": ["Sand", "Rice", "Chalk", "Cigarettes"], "answer": 1, "explain": "Rice is a healthy food for the body." },
+    { "q": "What does ACT medicine treat?", "options": ["Headache", "Malaria", "Cough", "Stomach ache"], "answer": 1, "explain": "ACT stands for Anti-malarial Combination Therapy." },
+    { "q": "What do cigarettes destroy?", "options": ["The hands", "The lungs", "The legs", "The eyes"], "answer": 1, "explain": "Cigarettes destroy the lungs." },
+    { "q": "Which of these is a hard drug?", "options": ["Rice", "Marijuana", "Beans", "Yam"], "answer": 1, "explain": "Marijuana is a hard drug — never touch it." },
+    { "q": "Why is protein good for the body?", "options": ["It makes you tall", "It makes you grow well and strong", "It makes you sleepy", "It makes you laugh"], "answer": 1, "explain": "Protein helps the body grow well and strong." }
+  ],
+  "passMark": 70,
+  "next": null
+}

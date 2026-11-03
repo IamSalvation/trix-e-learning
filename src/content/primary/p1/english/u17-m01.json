@@ -1,0 +1,26 @@
+﻿{
+  "id": "p1-english-u17-m01",
+  "unit": 17,
+  "unitTitle": "Queen Momata and Nevene",
+  "title": "Months of the Year & Queen Momata",
+  "class": "Primary 1",
+  "subject": "English Language",
+  "objectives": ["Recite the months of the year poem", "Read and understand a story about a queen"],
+  "blocks": [
+    { "type": "heading", "level": 2, "text": "Months of the Year" },
+    { "type": "text", "md": "**Poem: Thirty Days Hath September**\n\n*Thirty days hath September,*\n*April, June, and November;*\n*February has twenty-eight alone,*\n*All the rest have thirty-one,*\n*Excepting leap year, that's the time*\n*When February's days are twenty-nine.*" },
+    { "type": "callout", "variant": "tip", "md": "**Remember:** There are 12 months in a year. September, April, June, and November have 30 days. February has 28 days (or 29 in a leap year). All the others have 31 days." },
+    { "type": "heading", "level": 2, "text": "Queen Momata and Nevene" },
+    { "type": "image", "src": "/assets/p1-english/u17/momata.svg", "alt": "Queen Momata and a snake", "caption": "Queen Momata and the mysterious Nevene." },
+    { "type": "text", "md": "Momata became the queen of Andofa after her father died as there was no male child to inherit the throne. She liked good things of life and wanted the most handsome and richest man to marry her as the first and only wife. The villagers were confused because a young and handsome bachelor could not possibly be the richest person in the community.\n\nThen the story got to the land of the spirits. One of the most handsome of the snake spirits turned himself into a very handsome young man and took the name Nevene. He was six foot tall, fair and had black hair. He came to Momata to ask for her hand in marriage as he was both handsome and rich. Queen Momata ordered that the biggest feast ever should begin immediately.\n\nNevene sat and enjoyed the comfort of the palace, ate the best food, and stood up to go.\n\n'You are going nowhere,' she shouted. 'You are my chosen husband!'\n\n'Yes, but I must go to tell my people that I have got a queen as a wife,' Nevene replied.\n\n'I will come with you,' she replied, 'because I do not want you to disappear from my sight.'\n\n'Where I live you cannot enter and where I am going you will never be there,' Nevene said.\n\n'I will go with you no matter where. Whatever happens to you must happen to me. I will never let you go,' she cried.\n\nAll the villagers gathered to watch their queen pack her belongings and follow Nevene. She told the villagers, 'We shall come back here after we settle his people.'\n\nQueen Momata and Nevene disappeared into the darkness. When they both got to the river bank, Nevene turned himself into a snake once again, swallowed Momata and glided slowly into the river. Since then, the Andofa kingdom hadn't seen Momata." }
+  ],
+  "quiz": [
+    { "q": "How many months have 30 days?", "options": ["Three", "Four", "Five", "Six"], "answer": 1, "explain": "September, April, June, and November all have 30 days." },
+    { "q": "How many days does February have in a normal year?", "options": ["28", "29", "30", "31"], "answer": 0, "explain": "February has 28 days, or 29 in a leap year." },
+    { "q": "Why did Momata become queen?", "options": ["She was the eldest child", "Her father had no male child", "She won a battle", "The villagers voted for her"], "answer": 1, "explain": "There was no male child to inherit the throne." },
+    { "q": "What name did the snake spirit take?", "options": ["Momata", "Nevene", "Andofa", "Adebayo"], "answer": 1, "explain": "The snake spirit took the name Nevene." },
+    { "q": "What happened when they got to the river bank?", "options": ["They got married", "Nevene turned into a snake and swallowed Momata", "They found a palace", "The villagers came to rescue them"], "answer": 1, "explain": "Nevene turned back into a snake and swallowed Momata." }
+  ],
+  "passMark": 70,
+  "next": null
+}
