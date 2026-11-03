@@ -1,5 +1,6 @@
 ﻿import { curriculum } from '../lib/curriculum';
 import { navigate } from '../lib/router';
+import { isLessonComplete } from '../lib/progress';
 import './Screens.css';
 
 export default function LessonList({ classId, subjectId }) {
@@ -19,6 +20,8 @@ export default function LessonList({ classId, subjectId }) {
 
       <div className='lesson-list'>
         {subj.lessons.map(function (lesson, i) {
+          const completed = isLessonComplete(classId, subjectId, lesson.id);
+
           return (
             <button
               key={lesson.id}
@@ -27,6 +30,9 @@ export default function LessonList({ classId, subjectId }) {
             >
               <span className='lesson-num'>{i + 1}</span>
               <span className='lesson-title'>{lesson.title}</span>
+              {completed && (
+                <span className='completed-badge' title='Completed'>✓</span>
+              )}
               <span className='chevron'>→</span>
             </button>
           );

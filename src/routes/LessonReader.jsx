@@ -1,12 +1,22 @@
 ﻿import { useState } from 'react';
 import { curriculum } from '../lib/curriculum';
 import { navigate } from '../lib/router';
+import { markLessonComplete, isLessonComplete } from '../lib/progress';
 import './LessonReader.css';
 
 export default function LessonReader({ lesson }) {
   const [quizStarted, setQuizStarted] = useState(false);
   const [answers, setAnswers] = useState({});
   const [submitted, setSubmitted] = useState(false);
+
+  // Check if this lesson was already completed when the component loads
+  const [alreadyCompleted, setAlreadyCompleted] = useState(() => {
+    const route = window.location.hash.replace(/^#\/?/, '').split('/');
+    if (route[0] === 'class' && route[2] === 'subject' && route[4] === 'lesson') {
+      return isLessonComplete(route[1], route[3], route[5]);
+    }
+    return false;
+  });
 
   const handleAnswer = (qIndex, oIndex) => {
     if (submitted) return;
@@ -25,12 +35,32 @@ export default function LessonReader({ lesson }) {
   const passed = score >= lesson.passMark;
   const allAnswered = Object.keys(answers).length === lesson.quiz.length;
 
+  const handleSubmit = () => {
+    setSubmitted(true);
+    const newScore = calculateScore();
+
+    // If they passed, save their progress!
+    if (newScore >= lesson.passMark) {
+      const route = window.location.hash.replace(/^#\/?/, '').split('/');
+      if (route[0] === 'class' && route[2] === 'subject' && route[4] === 'lesson') {
+        markLessonComplete(route[1], route[3], route[5]);
+        setAlreadyCompleted(true);
+      }
+    }
+  };
+
   return (
     <div className="lesson-container">
       <header className="lesson-header">
         <span className="unit-badge">Unit {lesson.unit}</span>
         <h1>{lesson.unitTitle}</h1>
         <p className="lesson-title">{lesson.title}</p>
+
+        {alreadyCompleted && (
+          <div className="completed-banner">
+            ✓ You have already completed this lesson
+          </div>
+        )}
 
         {lesson.objectives?.length > 0 && (
           <div className="objectives">
@@ -134,7 +164,7 @@ export default function LessonReader({ lesson }) {
 
             {!submitted && (
               <button
-                onClick={() => setSubmitted(true)}
+                onClick={handleSubmit}
                 className="btn-primary"
                 disabled={!allAnswered}
               >
@@ -161,8 +191,6 @@ function NextLessonButton({ lesson }) {
   let currentClass = null;
   let currentSubject = null;
 
-  // Smart matching: check if the lesson ID contains the curriculum ID,
-  // or if they match exactly.
   const matchesLesson = (curriculumLesson) => {
     return (
       lesson.id === curriculumLesson.id ||
@@ -171,7 +199,6 @@ function NextLessonButton({ lesson }) {
     );
   };
 
-  // Find the class and subject that contains this lesson
   for (const cls of curriculum.classes) {
     for (const subj of cls.subjects) {
       const found = subj.lessons.some(matchesLesson);
@@ -186,11 +213,9 @@ function NextLessonButton({ lesson }) {
 
   if (!currentClass || !currentSubject) return null;
 
-  // Find the index of the current lesson
   const currentIndex = currentSubject.lessons.findIndex(matchesLesson);
   const nextLesson = currentSubject.lessons[currentIndex + 1];
 
-  // If there is no next lesson, show the "finished" button
   if (!nextLesson) {
     return (
       <button
@@ -203,7 +228,6 @@ function NextLessonButton({ lesson }) {
     );
   }
 
-  // Otherwise, show the "Next Lesson" button
   return (
     <button
       className="btn-primary"

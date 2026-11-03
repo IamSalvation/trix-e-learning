@@ -248,3 +248,14 @@
   margin: 0;
   font-size: 0.95rem;
 }
+.completed-banner {
+  margin-top: 12px;
+  padding: 10px 14px;
+  background: #f0fdf4;
+  border: 1px solid #16a34a;
+  border-radius: 8px;
+  color: #166534;
+  font-weight: 600;
+  font-size: 0.9rem;
+  text-align: center;
+}
