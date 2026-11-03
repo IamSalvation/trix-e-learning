@@ -1,0 +1,30 @@
+﻿{
+  "id": "p1-english-u14-m03",
+  "unit": 14,
+  "unitTitle": "The Stubborn Donkey",
+  "title": "Expressing Farewell",
+  "class": "Primary 1",
+  "subject": "English Language",
+  "objectives": ["Say goodbye politely when leaving", "Respond appropriately to farewells"],
+  "blocks": [
+    { "type": "heading", "level": 2, "text": "Saying Goodbye" },
+    { "type": "image", "src": "/assets/p1-english/u14/farewell.svg", "alt": "Children saying goodbye", "caption": "Wave goodbye when you leave." },
+    { "type": "text", "md": "When you leave a place or someone leaves, you say **'Goodbye'** or **'Bye-bye'**." },
+    { "type": "dialogue", "lines": [
+      { "speaker": "Teacher", "text": "You can go home now. Goodbye, Aisha." },
+      { "speaker": "Aisha", "text": "Goodbye, sir." },
+      { "speaker": "Teacher", "text": "The lesson is over. Goodbye, children." },
+      { "speaker": "Class", "text": "Goodbye, Mr. Jackson." },
+      { "speaker": "Jibril", "text": "I love the story, Mallam Idris." },
+      { "speaker": "Mallam Idris", "text": "Good. You have to go now. Bye-bye, Jibril." }
+    ]},
+    { "type": "callout", "variant": "tip", "md": "**Remember:** Always say goodbye politely. You can wave your hand as well." }
+  ],
+  "quiz": [
+    { "q": "What do you say when leaving?", "options": ["Good morning", "Goodbye", "Thank you", "Please"], "answer": 1, "explain": "We say 'Goodbye' when leaving." },
+    { "q": "What did the class say when the lesson ended?", "options": ["Thank you", "Goodbye, Mr. Jackson", "Hello, Mr. Jackson", "Nothing"], "answer": 1, "explain": "The class said 'Goodbye, Mr. Jackson'." },
+    { "q": "When should you say goodbye?", "options": ["When you arrive", "When you leave", "When you are eating", "When you are sleeping"], "answer": 1, "explain": "You say goodbye when leaving a place." }
+  ],
+  "passMark": 70,
+  "next": null
+}

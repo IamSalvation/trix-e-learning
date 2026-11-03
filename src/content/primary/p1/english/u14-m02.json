@@ -1,0 +1,33 @@
+﻿{
+  "id": "p1-english-u14-m02",
+  "unit": 14,
+  "unitTitle": "The Stubborn Donkey",
+  "title": "Expressing Gratitude",
+  "class": "Primary 1",
+  "subject": "English Language",
+  "objectives": ["Express gratitude using 'Thank you'", "Respond politely when someone helps you"],
+  "blocks": [
+    { "type": "heading", "level": 2, "text": "Saying Thank You" },
+    { "type": "image", "src": "/assets/p1-english/u14/gratitude.svg", "alt": "A child bringing a chair for the teacher", "caption": "We say 'Thank you' when someone helps us." },
+    { "type": "text", "md": "When someone helps you or gives you something, you should say **'Thank you'**. It is polite and shows respect." },
+    { "type": "dialogue", "lines": [
+      { "speaker": "Teacher", "text": "Emeka, kindly bring that chair here." },
+      { "speaker": "Emeka", "text": "Here it is sir." },
+      { "speaker": "Teacher", "text": "Thank you." },
+      { "speaker": "Mrs. Adebayo", "text": "Kunle, please switch on the light." },
+      { "speaker": "Kunle", "text": "Yes, mummy. It is on now." },
+      { "speaker": "Mrs. Adebayo", "text": "Thank you." },
+      { "speaker": "Teacher", "text": "Akpan, distribute the books to everyone." },
+      { "speaker": "Akpan", "text": "Yes sir. I will." },
+      { "speaker": "Teacher", "text": "Thank you." }
+    ]},
+    { "type": "callout", "variant": "tip", "md": "**Remember:** Always say **'Thank you'** when someone does something kind for you." }
+  ],
+  "quiz": [
+    { "q": "What should you say when someone helps you?", "options": ["Go away", "Thank you", "Nothing", "Give me more"], "answer": 1, "explain": "We always say 'Thank you' to show gratitude." },
+    { "q": "What did Emeka bring for the teacher?", "options": ["A book", "A chair", "A pen", "Water"], "answer": 1, "explain": "The teacher asked him to bring a chair." },
+    { "q": "What did Mrs. Adebayo ask Kunle to do?", "options": ["Close the door", "Switch on the light", "Bring a chair", "Read a book"], "answer": 1, "explain": "She asked him to switch on the light." }
+  ],
+  "passMark": 70,
+  "next": null
+}

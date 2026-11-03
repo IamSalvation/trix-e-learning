@@ -39,8 +39,16 @@
             { "id": "u10-m02", "title": "Where is it? (Placing Objects)", "json": "u10-m02.json" },
             { "id": "u11-m01", "title": "Two Foolish Goats", "json": "u11-m01.json" },
             { "id": "u11-m02", "title": "Basic Reading Skills", "json": "u11-m02.json" },
+            { "id": "u11-m03", "title": "Basic Writing Skills", "json": "u11-m03.json" },
+            { "id": "u11-m04", "title": "Poem: Bow, Wow, Wow & Counting", "json": "u11-m04.json" },
             { "id": "u12-m01", "title": "The Lion and the Soldier Ants", "json": "u12-m01.json" },
-            { "id": "u13-m01", "title": "The Elephant and his Master", "json": "u13-m01.json" }
+            { "id": "u13-m01", "title": "The Elephant and his Master", "json": "u13-m01.json" },
+            { "id": "u13-m02", "title": "Expressing Habitual Actions", "json": "u13-m02.json" },
+            { "id": "u14-m01", "title": "The Stubborn Donkey", "json": "u14-m01.json" },
+            { "id": "u14-m02", "title": "Expressing Gratitude", "json": "u14-m02.json" },
+            { "id": "u14-m03", "title": "Expressing Farewell", "json": "u14-m03.json" },
+            { "id": "u14-m04", "title": "Expressing Continuous Action", "json": "u14-m04.json" },
+            { "id": "u14-m05", "title": "Continuous Action Practice", "json": "u14-m05.json" }
           ]
         }
       ]
@@ -50,4 +58,6 @@
     { "id": "p4", "name": "Primary 4", "color": "#dc2626", "subjects": [] }
   ]
 }
+
+
 

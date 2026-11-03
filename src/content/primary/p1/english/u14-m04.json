@@ -1,0 +1,33 @@
+﻿{
+  "id": "p1-english-u14-m04",
+  "unit": 14,
+  "unitTitle": "The Stubborn Donkey",
+  "title": "Expressing Continuous Action",
+  "class": "Primary 1",
+  "subject": "English Language",
+  "objectives": ["Describe actions happening right now using -ing verbs", "Answer 'What is ___ doing?' questions"],
+  "blocks": [
+    { "type": "heading", "level": 2, "text": "What is happening now?" },
+    { "type": "image", "src": "/assets/p1-english/u14/continuous.svg", "alt": "A teacher writing on the board", "caption": "What is the teacher doing?" },
+    { "type": "text", "md": "We use **'is'** or **'are'** + verb + **'ing'** to show an action happening right now." },
+    { "type": "dialogue", "lines": [
+      { "speaker": "Teacher", "text": "What is the teacher doing?" },
+      { "speaker": "Pupil", "text": "The teacher is writing on the board." },
+      { "speaker": "Teacher", "text": "What is the boy doing?" },
+      { "speaker": "Pupil", "text": "The boy is crying." },
+      { "speaker": "Teacher", "text": "What are the girls doing?" },
+      { "speaker": "Pupil", "text": "The girls are playing handball." },
+      { "speaker": "Teacher", "text": "What is the girl doing?" },
+      { "speaker": "Pupil", "text": "The girl is reading a book." }
+    ]},
+    { "type": "callout", "variant": "tip", "md": "**Rule:** For one person, use **'is'** + verb-ing. For more than one, use **'are'** + verb-ing." }
+  ],
+  "quiz": [
+    { "q": "What is the teacher doing?", "options": ["Reading a book", "Writing on the board", "Sleeping", "Eating"], "answer": 1, "explain": "The teacher is writing on the board." },
+    { "q": "What is the boy doing?", "options": ["Laughing", "Crying", "Playing", "Reading"], "answer": 1, "explain": "The boy is crying." },
+    { "q": "What are the girls doing?", "options": ["Reading", "Playing handball", "Writing", "Sleeping"], "answer": 1, "explain": "The girls are playing handball." },
+    { "q": "What is the girl doing?", "options": ["Playing", "Reading a book", "Writing", "Eating"], "answer": 1, "explain": "The girl is reading a book." }
+  ],
+  "passMark": 70,
+  "next": null
+}

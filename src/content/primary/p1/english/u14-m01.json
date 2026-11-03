@@ -1,0 +1,24 @@
+﻿{
+  "id": "p1-english-u14-m01",
+  "unit": 14,
+  "unitTitle": "The Stubborn Donkey",
+  "title": "The Stubborn Donkey",
+  "class": "Primary 1",
+  "subject": "English Language",
+  "objectives": ["Read and understand a story about jealousy and disobedience", "Answer comprehension questions"],
+  "blocks": [
+    { "type": "heading", "level": 2, "text": "The Stubborn Donkey" },
+    { "type": "image", "src": "/assets/p1-english/u14/donkey.svg", "alt": "A farmer with a donkey", "caption": "Hassan and his favourite donkey, Matuta." },
+    { "type": "text", "md": "Hassan was a farmer who lived in Dambata. He had many animals in his flock but he liked the donkey called Matuta the most. Being the biggest, Hassan always rode on Matuta to important occasions like naming ceremonies. He used the other donkeys as beasts of burden for the farm. The other animals in the flock were either to be eaten or to be sold. These animals were jealous of Matuta which did no work but had the best love and care.\n\nOne day, all the other animals came to Matuta and pretended to play with him. They all told him that they loved him so much but he did not know. Matuta listened to them with attention.\n\n'Our master is a very good man,' the oldest pig lied.\n\n'Yes,' agreed the other animals.\n\n'We want you to help us in getting our master to treat us as he treats you,' they begged.\n\n'Yes, I will do that,' Matuta promised them.\n\n'If he refuses to hear you, what would you do??' they asked Matuta.\n\n'I will throw him down at a very important occasion so as to disgrace him.'\n\n'That is good,' the other animals replied.\n\nMatuta came home and went to Hassan. He did not know how to begin or what to say. Hasan rubbed his back and sent him back into the stable.\n\nOne day, Matuta carried Hassan to a naming ceremony in the village. Matuta decided to disgrace his master in the presence of everybody. He turned around and ran like a mad dog, shook his body and threw Hassan flat on the ground. All the people came to help Hassan. Immediately, Matuta ran away to report to the other animals about this incidence but all of them denied to hear and blamed him for disgracing their master. When the master returned, he caned Matuta. From that day onwards, Matuta was treated like other beast of burden." },
+    { "type": "callout", "variant": "tip", "md": "**The Lesson:** Be careful of people who pretend to be your friend. Jealousy can lead you astray." }
+  ],
+  "quiz": [
+    { "q": "Where did Hassan live?", "options": ["Lagos", "Dambata", "Kano", "Abuja"], "answer": 1, "explain": "The story says Hassan lived in Dambata." },
+    { "q": "What was the name of the animal Hassan liked the most?", "options": ["The goat", "The pig", "The donkey named Matuta", "The horse"], "answer": 2, "explain": "Hassan liked the donkey called Matuta the most." },
+    { "q": "Why were the other animals jealous?", "options": ["Matuta ate all the food", "Matuta did no work but had the best love and care", "Matuta was the strongest", "Matuta was the smallest"], "answer": 1, "explain": "They were jealous because Matuta had the best love and care without doing any work." },
+    { "q": "How did Matuta disgrace his master?", "options": ["He bit him", "He ran and threw Hassan flat on the ground", "He refused to eat", "He ran away"], "answer": 1, "explain": "Matuta ran like a mad dog and threw Hassan on the ground." },
+    { "q": "What did the master do when he came back home?", "options": ["He forgave Matuta", "He gave Matuta food", "He caned Matuta", "He sold Matuta"], "answer": 2, "explain": "The master caned Matuta and treated him like the other beasts of burden." }
+  ],
+  "passMark": 70,
+  "next": null
+}
