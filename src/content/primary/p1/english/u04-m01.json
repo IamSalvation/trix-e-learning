@@ -6,9 +6,8 @@
   "class": "Primary 1",
   "subject": "English Language",
   "objectives": [
-    "Listen to and retell a short story about friendship",
-    "Understand when to use 'a' and when to use 'an'",
-    "Identify words that start with vowels (a, e, i, o, u)"
+    "Read and understand a story about friendship",
+    "Use 'a' and 'an' correctly"
   ],
   "blocks": [
     {
@@ -24,7 +23,7 @@
     },
     {
       "type": "text",
-      "md": "One day, a farmer named **Okon** checked his traps. He saw that an animal was caught inside!\n\nHe called his friend **Akan** to help him look.\n\nAkan looked closely and shouted, *'It is a large snake! And this type sprays!'*\n\nOkon said, *'Hold it by the tail.'*\n\n*'The trap caught it by the tail!'* Akan replied.\n\n*'Then catch it by the head,'* said Okon.\n\n*'Do you want it to bite me?'* Akan asked.\n\nThey argued until the snake finally wriggled free and crawled away into the bushes.\n\n**The Lesson:** A true friend does not put his friend in danger."
+      "md": "Once upon a time Okon, a farmer, went to check his traps. As he went near one of the traps, he noticed something caught in the trap which he could not see clearly. He called his friend, Akan, to help him remove the catch from the trap. Akan realised that the animal in the trap was a large snake which had gone to hide behind the stem of the trap.\n\n'It is a large snake and this type spits!' Akan shouted.\n\n'Hold it by the tail,' Okon answered.\n\n'The trap caught it by the tail!' Akan replied.\n\n'Then catch it by the head,' replied Okon.\n\n'Do you want it to bite me?' Akan asked.\n\n'This snake does not bite, it only spits into people's eyes,' answered Okon.\n\n'Oh, ho! You want me to be blind?' Akan answered. 'It is your trap. So go ahead and take your catch.'\n\n'I know now that you are not a good friend,' Okon said.\n\n'You are a true friend who wants me to be hurt,' Akan replied.\n\nThe two men stood there looking at the large beast until it struggled out of the trap and crawled away into the jungle."
     },
     {
       "type": "heading",
@@ -33,53 +32,42 @@
     },
     {
       "type": "text",
-      "md": "Look at the words below. Notice how we use **'a'** before some words, but **'an'** before others.\n\n- **A** pen\n- **A** car\n- **A** bicycle\n- **An** egg\n- **An** ink bottle\n- **An** aeroplane\n- **An** ant\n- **An** elephant"
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "md": "**The Rule:** Use **'an'** when the next word starts with a vowel sound (A, E, I, O, U). Use **'a'** for all other letters."
-    },
-    {
-      "type": "heading",
-      "level": 2,
-      "text": "Letters of the Alphabet"
-    },
-    {
-      "type": "text",
-      "md": "Practice reading these letters:\n\n- Aa (An apple)\n- Bb (A ball)\n- Cc (A cat)\n- Dd (A dog)\n- Ee (An egg)\n- Ff (A flower)"
+      "md": "Use **'an'** when the next word starts with a vowel sound (A, E, I, O, U). Use **'a'** for all other letters.\n\n- **A** pen\n- **A** car\n- **An** egg\n- **An** ink bottle"
     }
   ],
   "quiz": [
     {
       "q": "What job does Okon do in the story?",
-      "options": ["A teacher", "A farmer", "A driver", "A doctor"],
+      "options": [
+        "A teacher",
+        "A farmer",
+        "A driver",
+        "A doctor"
+      ],
       "answer": 1,
       "explain": "The story says Okon is a farmer."
     },
     {
       "q": "What was caught in the trap?",
-      "options": ["A dog", "A bird", "A large snake", "A rat"],
+      "options": [
+        "A dog",
+        "A bird",
+        "A large snake",
+        "A rat"
+      ],
       "answer": 2,
-      "explain": "Akan looked closely and saw it was a large snake."
-    },
-    {
-      "q": "Which word goes with 'a'?",
-      "options": ["Egg", "Elephant", "Car", "Ink bottle"],
-      "answer": 2,
-      "explain": "We say 'a car' because 'c' is not a vowel."
+      "explain": "Akan saw it was a large snake."
     },
     {
       "q": "Which word goes with 'an'?",
-      "options": ["Pen", "Aeroplane", "Table", "Cat"],
+      "options": [
+        "Pen",
+        "Aeroplane",
+        "Table",
+        "Cat"
+      ],
       "answer": 1,
       "explain": "We say 'an aeroplane' because 'a' is a vowel."
-    },
-    {
-      "q": "Fill in the blank: I saw ___ insect.",
-      "options": ["a", "an", "the", "two"],
-      "answer": 1,
-      "explain": "'Insect' starts with 'i', so we use 'an'."
     }
   ],
   "passMark": 70,
