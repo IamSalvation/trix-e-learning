@@ -1,500 +1,1717 @@
 ﻿{
-  "book": "AM HIGH ENGLISH LANGUAGE 1",
-  "publisher": "BumbleBee Publishing",
-  "class": "Primary 1",
-  "subject": "English Language",
-  "units": [
-    {
-      "unit": 1,
-      "unitTitle": "Simple Greetings at School",
-      "pages": [
-        {
-          "page": 8,
-          "sections": [
-            {
-              "title": "Simple Greetings at School",
-              "dialogue": [
-                { "speaker": "Teacher", "line": "Good morning, class." },
-                { "speaker": "Pupils", "line": "Good morning, sir." },
-                { "speaker": "Teacher", "line": "How are you all this morning?" },
-                { "speaker": "Pupils", "line": "We are all fine, thank you sir." },
-                { "speaker": "Teacher", "line": "Please, sit down." },
-                { "speaker": "Pupils", "line": "Thank you, sir." },
-                { "speaker": "Teacher", "line": "How are you, Ayo?" },
-                { "speaker": "Ayo", "line": "I am fine, sir, thank you." },
-                { "speaker": "Teacher", "line": "And you, Kunle?" },
-                { "speaker": "Kunle", "line": "I am fine, sir." }
-              ],
-              "illustrations": [
-                "A teacher standing at the front of a classroom facing seated pupils in uniform"
+    "book":  "AM HIGH ENGLISH LANGUAGE 1",
+    "publisher":  "BumbleBee Publishing",
+    "class":  "Primary 1",
+    "subject":  "English Language",
+    "units":  [
+                  {
+                      "unit":  1,
+                      "unitTitle":  "Simple Greetings at School",
+                      "pages":  [
+                                    {
+                                        "page":  8,
+                                        "sections":  [
+                                                         {
+                                                             "title":  "Simple Greetings at School",
+                                                             "dialogue":  [
+                                                                              {
+                                                                                  "speaker":  "Teacher",
+                                                                                  "line":  "Good morning, class."
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Pupils",
+                                                                                  "line":  "Good morning, sir."
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Teacher",
+                                                                                  "line":  "How are you all this morning?"
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Pupils",
+                                                                                  "line":  "We are all fine, thank you sir."
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Teacher",
+                                                                                  "line":  "Please, sit down."
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Pupils",
+                                                                                  "line":  "Thank you, sir."
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Teacher",
+                                                                                  "line":  "How are you, Ayo?"
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Ayo",
+                                                                                  "line":  "I am fine, sir, thank you."
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Teacher",
+                                                                                  "line":  "And you, Kunle?"
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Kunle",
+                                                                                  "line":  "I am fine, sir."
+                                                                              }
+                                                                          ],
+                                                             "illustrations":  [
+                                                                                   "A teacher standing at the front of a classroom facing seated pupils in uniform"
+                                                                               ]
+                                                         }
+                                                     ]
+                                    },
+                                    {
+                                        "page":  9,
+                                        "sections":  [
+                                                         {
+                                                             "title":  "More Classroom Greetings",
+                                                             "dialogue":  [
+                                                                              {
+                                                                                  "speaker":  "Teacher",
+                                                                                  "line":  "How are you, Jide?"
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Jide",
+                                                                                  "line":  "I am fine, sir."
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Teacher",
+                                                                                  "line":  "Akpan, did you sleep well?"
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Akpan",
+                                                                                  "line":  "Yes, I did, thank you, sir."
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Teacher",
+                                                                                  "line":  "Emeka, how do you do?"
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Emeka",
+                                                                                  "line":  "How do you do, sir?"
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Teacher",
+                                                                                  "line":  "How do you do, Ngozi?"
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Ngozi",
+                                                                                  "line":  "How do you do, too, sir? Thank you."
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Teacher",
+                                                                                  "line":  "Mohammed, the day will be bright today, don\u0027t you think so?"
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Mohammed",
+                                                                                  "line":  "And hot too as well."
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Teacher",
+                                                                                  "line":  "Aisha, you are wearing beautiful braids today."
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Aisha",
+                                                                                  "line":  "Thank you, sir."
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Teacher",
+                                                                                  "line":  "Did you rest well last night, Jibril?"
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Jibril",
+                                                                                  "line":  "Yes, I did sir."
+                                                                              }
+                                                                          ],
+                                                             "illustrations":  [
+                                                                                   "Teacher interacting with pupils seated in a classroom"
+                                                                               ]
+                                                         },
+                                                         {
+                                                             "title":  "Simple Greetings at School Assembly",
+                                                             "dialogue":  [
+                                                                              {
+                                                                                  "speaker":  "Headmaster",
+                                                                                  "line":  "How are you all, dear children?"
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Pupils",
+                                                                                  "line":  "We are fine, sir."
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Headmaster",
+                                                                                  "line":  "It is nice to see you all today."
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Pupils",
+                                                                                  "line":  "Thank you, sir."
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Headmaster",
+                                                                                  "line":  "Today is the first day of a new term."
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Pupils",
+                                                                                  "line":  "Yes, sir."
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Headmaster",
+                                                                                  "line":  "Are you all ready to work hard?"
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Pupils",
+                                                                                  "line":  "Yes, sir."
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Headmaster",
+                                                                                  "line":  "I congratulate all the winners of the match."
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Pupils",
+                                                                                  "line":  "Thank you sir."
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Headmaster",
+                                                                                  "line":  "You all can go back to your classes. Have a wonderful day."
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Pupils",
+                                                                                  "line":  "Thank you, sir."
+                                                                              }
+                                                                          ],
+                                                             "illustrations":  [
+                                                                                   "Headmaster speaking on a stage/podium to pupils standing in rows at assembly"
+                                                                               ]
+                                                         }
+                                                     ]
+                                    },
+                                    {
+                                        "page":  10,
+                                        "sections":  [
+                                                         {
+                                                             "title":  "Simple Greetings in the Afternoon",
+                                                             "dialogue":  [
+                                                                              {
+                                                                                  "speaker":  "Ayo",
+                                                                                  "line":  "Emeka, good afternoon. How are you?"
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Emeka",
+                                                                                  "line":  "Good afternoon, Ayo. I am fine. Have you done your homework?"
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Ayo",
+                                                                                  "line":  "Yes. Is your brother well now?"
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Emeka",
+                                                                                  "line":  "Yes, he is fine now."
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Ayo",
+                                                                                  "line":  "Jibril was looking for you during the break."
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Emeka",
+                                                                                  "line":  "I saw him. He wanted to get his homework book."
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Ayo",
+                                                                                  "line":  "Did he want to help Aisha?"
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Emeka",
+                                                                                  "line":  "Perhaps. That will be kind of him."
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Ayo",
+                                                                                  "line":  "It is very hot today."
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Emeka",
+                                                                                  "line":  "Yes, it is. We have to go inside now."
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Ayo",
+                                                                                  "line":  "Yes. See you after school."
+                                                                              }
+                                                                          ],
+                                                             "illustrations":  [
+                                                                                   "Schoolgirls with backpacks walking, and a girl in a school uniform in the foreground",
+                                                                                   "A boy leaning on a tree talking to a girl seated on a bench"
+                                                                               ]
+                                                         }
+                                                     ]
+                                    },
+                                    {
+                                        "page":  11,
+                                        "sections":  [
+                                                         {
+                                                             "title":  "Simple Greetings in the Evening",
+                                                             "dialogue":  [
+                                                                              {
+                                                                                  "speaker":  "Teacher",
+                                                                                  "line":  "Good evening, children."
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Pupils",
+                                                                                  "line":  "Good evening, sir."
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Teacher",
+                                                                                  "line":  "Are you all ready to play football?"
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Pupils",
+                                                                                  "line":  "Yes, sir."
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Teacher",
+                                                                                  "line":  "Let us choose our team captains first."
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Pupils",
+                                                                                  "line":  "Yes, sir."
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Teacher",
+                                                                                  "line":  "Akpan, pick five boys for your team."
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Akpan",
+                                                                                  "line":  "Yes, sir.",
+                                                                                  "action":  "Goes on to choose the members."
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Teacher",
+                                                                                  "line":  "Jide, pick your team."
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Jide",
+                                                                                  "line":  "Yes, sir."
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Teacher",
+                                                                                  "line":  "Did you all enjoy the game today?"
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Pupils",
+                                                                                  "line":  "Yes, sir."
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Teacher",
+                                                                                  "line":  "Good night, children. See you all tomorrow."
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Pupils",
+                                                                                  "line":  "Good night, sir."
+                                                                              }
+                                                                          ],
+                                                             "illustrations":  [
+                                                                                   "A teacher facing a line of pupils in yellow and orange football kits, with a ball at their feet",
+                                                                                   "Pupils raising their hands while the teacher holds a football"
+                                                                               ]
+                                                         },
+                                                         {
+                                                             "title":  "Simple Greetings at Home",
+                                                             "dialogue":  [
+                                                                              {
+                                                                                  "speaker":  "Ayo",
+                                                                                  "line":  "Good morning, dad."
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Mr. Adebayo",
+                                                                                  "line":  "Good morning, Ayo. Did you sleep well?"
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Ayo",
+                                                                                  "line":  "Yes, dad, I slept well. Thank you. Good morning, mummy."
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Mrs. Adebayo",
+                                                                                  "line":  "Good morning my dear. Is Kunle still sleeping?"
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Ayo",
+                                                                                  "line":  "No, he isn\u0027t, mum."
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Mrs. Adebayo",
+                                                                                  "line":  "Please, go and find out from his room."
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Ayo",
+                                                                                  "line":  "Yes, mum."
+                                                                              }
+                                                                          ],
+                                                             "illustrations":  [
+                                                                                   "A family scene in a living room: father, mother, and a child talking"
+                                                                               ]
+                                                         }
+                                                     ]
+                                    },
+                                    {
+                                        "page":  12,
+                                        "sections":  [
+                                                         {
+                                                             "title":  "Simple Greetings in the Community",
+                                                             "dialogue":  [
+                                                                              {
+                                                                                  "speaker":  "Mallam Idris",
+                                                                                  "line":  "Good evening, children."
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Children",
+                                                                                  "line":  "Good evening, Mallam."
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Mallam Idris",
+                                                                                  "line":  "You have come early to play today."
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Children",
+                                                                                  "line":  "Yes, Mallam."
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Mallam Idris",
+                                                                                  "line":  "Aisha, how is your school?"
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Aisha",
+                                                                                  "line":  "It\u0027s fine, Mallam. Thank you."
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Mallam Idris",
+                                                                                  "line":  "Is Mohammed also doing well at school?"
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Aisha",
+                                                                                  "line":  "Yes, he is."
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Mallam Idris",
+                                                                                  "line":  "Where is Jibril?"
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Aisha",
+                                                                                  "line":  "He is coming along with us, Mallam."
+                                                                              }
+                                                                          ],
+                                                             "illustrations":  [
+                                                                                   "Two adults seated outdoors on benches in a village setting, with children nearby"
+                                                                               ]
+                                                         }
+                                                     ]
+                                    }
+                                ]
+                  },
+                  {
+                      "unit":  2,
+                      "unitTitle":  "Identification of Persons",
+                      "pages":  [
+                                    {
+                                        "page":  16,
+                                        "sections":  [
+                                                         {
+                                                             "title":  "Identification of Persons",
+                                                             "dialogue":  [
+                                                                              {
+                                                                                  "speaker":  "Teacher",
+                                                                                  "line":  "My name is Mr. Jackson.",
+                                                                                  "action":  "Points to a pupil."
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Teacher",
+                                                                                  "line":  "What\u0027s your name?"
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Pupil",
+                                                                                  "line":  "My name is Aisha."
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Teacher",
+                                                                                  "line":  "What is the name of the pupil sitting next to you?"
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Pupil",
+                                                                                  "line":  "His name is Khunle."
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Teacher",
+                                                                                  "line":  "What is his name?",
+                                                                                  "action":  "Points to another pupil."
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Pupil",
+                                                                                  "line":  "His name is Emeka."
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Teacher",
+                                                                                  "line":  "What\u0027s your name?",
+                                                                                  "action":  "Points to some other pupil."
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Pupil",
+                                                                                  "line":  "My name is Ayo."
+                                                                              }
+                                                                          ],
+                                                             "illustrations":  [
+                                                                                   "A male teacher pointing to a pupil standing by a desk",
+                                                                                   "A female teacher pointing at pupils in a classroom"
+                                                                               ]
+                                                         }
+                                                     ]
+                                    },
+                                    {
+                                        "page":  17,
+                                        "sections":  [
+                                                         {
+                                                             "title":  "More Identification of Persons",
+                                                             "dialogue":  [
+                                                                              {
+                                                                                  "speaker":  "Teacher",
+                                                                                  "line":  "Kunle, what is her name?",
+                                                                                  "action":  "Points at Ngozi."
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Kunle",
+                                                                                  "line":  "Her name is Ngozi."
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Teacher",
+                                                                                  "line":  "What is your name?",
+                                                                                  "action":  "Points at Mohammed."
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Mohammed",
+                                                                                  "line":  "My name is Mohammed."
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Teacher",
+                                                                                  "line":  "Aisha, what is the name of the pupil in the first row?"
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Aisha",
+                                                                                  "line":  "Her name is Ngozi."
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Teacher",
+                                                                                  "line":  "What did I ask Aisha?",
+                                                                                  "action":  "Points to Jide."
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Jide",
+                                                                                  "line":  "You asked the name of the pupil in the first row."
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Teacher",
+                                                                                  "line":  "Jibril, what is the name of the Headmaster?"
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Jibril",
+                                                                                  "line":  "The Headmaster\u0027s name is Mr. Terver, sir."
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Teacher",
+                                                                                  "line":  "What\u0027s your sister\u0027s name?",
+                                                                                  "action":  "Points to Mohammed."
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Mohammed",
+                                                                                  "line":  "My sister\u0027s name is Halima."
+                                                                              }
+                                                                          ],
+                                                             "illustrations":  [
+                                                                                   "Teacher pointing at pupils in the classroom",
+                                                                                   "Teacher talking to a small group of pupils (Mohammed, Aisha, Ngozi, Jide)"
+                                                                               ]
+                                                         }
+                                                     ]
+                                    }
+                                ]
+                  },
+                  {
+                      "unit":  3,
+                      "unitTitle":  "The Dog and The Tortoise",
+                      "pages":  [
+                                    {
+                                        "page":  18,
+                                        "sections":  [
+                                                         {
+                                                             "title":  "The Dog and the Tortoise",
+                                                             "dialogue":  [
+                                                                              {
+                                                                                  "narrator":  true,
+                                                                                  "line":  "Once upon a time, a tortoise called out a dog for a race."
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Tortoise",
+                                                                                  "line":  "I can run faster than you."
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Dog",
+                                                                                  "line":  "You? You must be joking! Even in my sleep, you cannot run faster than me."
+                                                                              },
+                                                                              {
+                                                                                  "narrator":  true,
+                                                                                  "line":  "The tortoise planned to prepare large chunks of delicious meat with fat bones. He deliberately dropped the pieces of meat along the paths of the race thinking that the dog would smell the meat and get attracted to them."
+                                                                              }
+                                                                          ],
+                                                             "illustrations":  [
+                                                                                   "A large dog standing next to a small tortoise on a green field"
+                                                                               ]
+                                                         }
+                                                     ]
+                                    },
+                                    {
+                                        "page":  19,
+                                        "sections":  [
+                                                         {
+                                                             "title":  "The Race",
+                                                             "dialogue":  [
+                                                                              {
+                                                                                  "narrator":  true,
+                                                                                  "line":  "On the day of their race, the other animals gathered to watch the most interesting race. As soon as the race started, the dog flew past the tortoise with high speed while the tortoise picked his steps as slowly and clumsily as he could."
+                                                                              },
+                                                                              {
+                                                                                  "narrator":  true,
+                                                                                  "line":  "Soon, the dog saw a chunk of meat on the way."
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Dog",
+                                                                                  "line":  "I will take a bite of this tasty meat before that slowcoach comes here."
+                                                                              },
+                                                                              {
+                                                                                  "narrator":  true,
+                                                                                  "line":  "As soon as he finished eating that meat, a few paces ahead he saw another piece on his path. So he slowed down and stopped to eat each piece. When the dog finally reached the finishing line, he met the tortoise there. He was surprised to see the tortoise before him and all the other animals praising the tortoise for winning the race."
+                                                                              }
+                                                                          ],
+                                                             "illustrations":  [
+                                                                                   "The tortoise at the finish line surrounded by other animals, the dog arriving in surprise"
+                                                                               ]
+                                                         }
+                                                     ]
+                                    },
+                                    {
+                                        "page":  19,
+                                        "sections_continued":  [
+                                                                   {
+                                                                       "title":  "Questions",
+                                                                       "questions":  [
+                                                                                         "Which are the animals that ran a race against each other?",
+                                                                                         "Why was this race the most interesting for other animals?",
+                                                                                         "What attracted the dog to the pieces of meat?",
+                                                                                         "Why did the tortoise prepare the pieces of meat?",
+                                                                                         "Who won the race?",
+                                                                                         "Who do you think is greedy between the dog and the tortoise?",
+                                                                                         "Give three lessons you have learnt from this story."
+                                                                                     ]
+                                                                   },
+                                                                   {
+                                                                       "title":  "Identification of Objects",
+                                                                       "objects":  [
+                                                                                       {
+                                                                                           "word":  "a plate",
+                                                                                           "description":  "a flat dish used for eating"
+                                                                                       },
+                                                                                       {
+                                                                                           "word":  "a spoon",
+                                                                                           "description":  "a utensil used to eat"
+                                                                                       }
+                                                                                   ]
+                                                                   }
+                                                               ]
+                                    },
+                                    {
+                                        "page":  20,
+                                        "sections":  [
+                                                         {
+                                                             "title":  "Objects Around Us",
+                                                             "objects":  [
+                                                                             {
+                                                                                 "word":  "a pot",
+                                                                                 "description":  "used for cooking"
+                                                                             },
+                                                                             {
+                                                                                 "word":  "a mat",
+                                                                                 "description":  "a woven floor covering to sit on"
+                                                                             },
+                                                                             {
+                                                                                 "word":  "a bed",
+                                                                                 "description":  "used for sleeping"
+                                                                             },
+                                                                             {
+                                                                                 "word":  "a pillow",
+                                                                                 "description":  "for resting your head"
+                                                                             },
+                                                                             {
+                                                                                 "word":  "a table",
+                                                                                 "description":  "used for eating or working"
+                                                                             },
+                                                                             {
+                                                                                 "word":  "a door",
+                                                                                 "description":  "used to enter a room"
+                                                                             }
+                                                                         ],
+                                                             "illustrations":  [
+                                                                                   "Six objects: a pot, a mat, a bed, a pillow, a table, and a door"
+                                                                               ]
+                                                         }
+                                                     ]
+                                    },
+                                    {
+                                        "page":  21,
+                                        "sections":  [
+                                                         {
+                                                             "title":  "More Objects (A vs An)",
+                                                             "objects":  [
+                                                                             {
+                                                                                 "word":  "a pen",
+                                                                                 "article":  "a"
+                                                                             },
+                                                                             {
+                                                                                 "word":  "a car",
+                                                                                 "article":  "a"
+                                                                             },
+                                                                             {
+                                                                                 "word":  "a bicycle",
+                                                                                 "article":  "a"
+                                                                             },
+                                                                             {
+                                                                                 "word":  "an egg",
+                                                                                 "article":  "an"
+                                                                             },
+                                                                             {
+                                                                                 "word":  "an ink bottle",
+                                                                                 "article":  "an"
+                                                                             },
+                                                                             {
+                                                                                 "word":  "an aeroplane",
+                                                                                 "article":  "an"
+                                                                             }
+                                                                         ]
+                                                         }
+                                                     ]
+                                    },
+                                    {
+                                        "page":  22,
+                                        "sections":  [
+                                                         {
+                                                             "title":  "More Objects Starting with Vowels",
+                                                             "objects":  [
+                                                                             {
+                                                                                 "word":  "an ant",
+                                                                                 "article":  "an"
+                                                                             },
+                                                                             {
+                                                                                 "word":  "an antelope",
+                                                                                 "article":  "an"
+                                                                             },
+                                                                             {
+                                                                                 "word":  "an eagle",
+                                                                                 "article":  "an"
+                                                                             },
+                                                                             {
+                                                                                 "word":  "an elephant",
+                                                                                 "article":  "an"
+                                                                             },
+                                                                             {
+                                                                                 "word":  "an eraser",
+                                                                                 "article":  "an"
+                                                                             },
+                                                                             {
+                                                                                 "word":  "an envelope",
+                                                                                 "article":  "an"
+                                                                             },
+                                                                             {
+                                                                                 "word":  "an insect",
+                                                                                 "article":  "an"
+                                                                             },
+                                                                             {
+                                                                                 "word":  "an exercise book",
+                                                                                 "article":  "an"
+                                                                             }
+                                                                         ]
+                                                         }
+                                                     ]
+                                    },
+                                    {
+                                        "page":  23,
+                                        "sections":  [
+                                                         {
+                                                             "title":  "Activity: What is this?",
+                                                             "activity":  [
+                                                                              {
+                                                                                  "question":  "What is this?",
+                                                                                  "image":  "a chair",
+                                                                                  "answer":  "It is a chair."
+                                                                              },
+                                                                              {
+                                                                                  "question":  "What is this?",
+                                                                                  "image":  "an egg",
+                                                                                  "answer":  "It is an egg."
+                                                                              },
+                                                                              {
+                                                                                  "question":  "What is this?",
+                                                                                  "image":  "an ink bottle",
+                                                                                  "answer":  "It is an ink bottle."
+                                                                              },
+                                                                              {
+                                                                                  "question":  "What is this?",
+                                                                                  "image":  "a car",
+                                                                                  "answer":  "It is a car."
+                                                                              },
+                                                                              {
+                                                                                  "question":  "What is this?",
+                                                                                  "image":  "an elephant",
+                                                                                  "answer":  "It is an elephant."
+                                                                              }
+                                                                          ]
+                                                         }
+                                                     ]
+                                    },
+                                    {
+                                        "page":  24,
+                                        "sections":  [
+                                                         {
+                                                             "title":  "Activity: What is this? (continued)",
+                                                             "activity":  [
+                                                                              {
+                                                                                  "question":  "What is this?",
+                                                                                  "image":  "a rat",
+                                                                                  "answer":  "It is a rat."
+                                                                              },
+                                                                              {
+                                                                                  "question":  "What is this?",
+                                                                                  "image":  "an owl",
+                                                                                  "answer":  "It is an owl."
+                                                                              },
+                                                                              {
+                                                                                  "question":  "What is this?",
+                                                                                  "image":  "an insect (beetle)",
+                                                                                  "answer":  "It is an insect."
+                                                                              },
+                                                                              {
+                                                                                  "question":  "What is this?",
+                                                                                  "image":  "a cat",
+                                                                                  "answer":  "It is a cat."
+                                                                              },
+                                                                              {
+                                                                                  "question":  "What is this?",
+                                                                                  "image":  "a house",
+                                                                                  "answer":  "It is a house."
+                                                                              }
+                                                                          ]
+                                                         }
+                                                     ]
+                                    },
+                                    {
+                                        "page":  25,
+                                        "sections":  [
+                                                         {
+                                                             "title":  "Letters of the Alphabet (A–H)",
+                                                             "letters":  [
+                                                                             {
+                                                                                 "letter":  "Aa",
+                                                                                 "word":  "An apple"
+                                                                             },
+                                                                             {
+                                                                                 "letter":  "Bb",
+                                                                                 "word":  "A ball"
+                                                                             },
+                                                                             {
+                                                                                 "letter":  "Cc",
+                                                                                 "word":  "A cat"
+                                                                             },
+                                                                             {
+                                                                                 "letter":  "Dd",
+                                                                                 "word":  "A dog"
+                                                                             },
+                                                                             {
+                                                                                 "letter":  "Ee",
+                                                                                 "word":  "An egg"
+                                                                             },
+                                                                             {
+                                                                                 "letter":  "Ff",
+                                                                                 "word":  "A flower"
+                                                                             },
+                                                                             {
+                                                                                 "letter":  "Gg",
+                                                                                 "word":  "A goat"
+                                                                             },
+                                                                             {
+                                                                                 "letter":  "Hh",
+                                                                                 "word":  "A house"
+                                                                             }
+                                                                         ]
+                                                         }
+                                                     ]
+                                    }
+                                ]
+                  },
+                  {
+                      "unit":  4,
+                      "unitTitle":  "Okon and Akan",
+                      "pages":  [
+                                    {
+                                        "page":  26,
+                                        "sections":  [
+                                                         {
+                                                             "title":  "Okon and Akan",
+                                                             "dialogue":  [
+                                                                              {
+                                                                                  "narrator":  true,
+                                                                                  "line":  "Once upon a time Okon, a farmer, went to check his traps. As he went near one of the traps, he noticed something caught in the trap which he could not see clearly. He called his friend, Akan, to help him remove the catch from the trap. Akan realised that the animal in the trap was a large snake which had gone to hide behind the stem of the trap."
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Akan",
+                                                                                  "line":  "It is a large snake and this type spits!"
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Okon",
+                                                                                  "line":  "Hold it by the tail."
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Akan",
+                                                                                  "line":  "The trap caught it by the tail!"
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Okon",
+                                                                                  "line":  "Then catch it by the head."
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Akan",
+                                                                                  "line":  "Do you want it to bite me?"
+                                                                              }
+                                                                          ],
+                                                             "illustrations":  [
+                                                                                   "Two men (Okon and Akan) standing near a wooden fence by a small building"
+                                                                               ]
+                                                         }
+                                                     ]
+                                    },
+                                    {
+                                        "page":  27,
+                                        "sections":  [
+                                                         {
+                                                             "title":  "Okon and Akan (continued)",
+                                                             "dialogue":  [
+                                                                              {
+                                                                                  "speaker":  "Okon",
+                                                                                  "line":  "This snake does not bite, it only spits into people\u0027s eyes."
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Akan",
+                                                                                  "line":  "Oh, ho! You want me to be blind? It is your trap. So go ahead and take your catch."
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Okon",
+                                                                                  "line":  "I know now that you are not a good friend."
+                                                                              },
+                                                                              {
+                                                                                  "speaker":  "Akan",
+                                                                                  "line":  "You are a true friend who wants me to be hurt."
+                                                                              },
+                                                                              {
+                                                                                  "narrator":  true,
+                                                                                  "line":  "The two men stood there looking at the large beast until it struggled out of the trap and crawled away into the jungle."
+                                                                              }
+                                                                          ],
+                                                             "questions":  [
+                                                                               "What job does Okon do?",
+                                                                               "Who was his friend?",
+                                                                               "What did the trap catch?",
+                                                                               "Why did Okon ask Akan to remove it from the trap?",
+                                                                               "Who do you think is a true friend in the story?",
+                                                                               "What is the moral of the story?"
+                                                                           ],
+                                                             "listening_words":  [
+                                                                                     "This",
+                                                                                     "These",
+                                                                                     "Now",
+                                                                                     "Know",
+                                                                                     "Blind",
+                                                                                     "Blend",
+                                                                                     "It",
+                                                                                     "Eat",
+                                                                                     "See",
+                                                                                     "Sit",
+                                                                                     "Hide",
+                                                                                     "Hard",
+                                                                                     "Tail",
+                                                                                     "Tell",
+                                                                                     "Could",
+                                                                                     "Cold",
+                                                                                     "Which",
+                                                                                     "Wish",
+                                                                                     "Hurt",
+                                                                                     "Hot"
+                                                                                 ]
+                                                         }
+                                                     ]
+                                    },
+                                    {
+                                        "page":  28,
+                                        "sections":  [
+                                                         {
+                                                             "title":  "Listen and Say",
+                                                             "sentences":  [
+                                                                               {
+                                                                                   "text":  "This is a ship.",
+                                                                                   "image":  "ship"
+                                                                               },
+                                                                               {
+                                                                                   "text":  "That is a sheep.",
+                                                                                   "image":  "sheep"
+                                                                               },
+                                                                               {
+                                                                                   "text":  "This is a floor.",
+                                                                                   "image":  "floor"
+                                                                               },
+                                                                               {
+                                                                                   "text":  "That is a flower.",
+                                                                                   "image":  "flower"
+                                                                               },
+                                                                               {
+                                                                                   "text":  "This is a toy.",
+                                                                                   "image":  "toy"
+                                                                               },
+                                                                               {
+                                                                                   "text":  "That is a fowl.",
+                                                                                   "image":  "fowl"
+                                                                               },
+                                                                               {
+                                                                                   "text":  "This is a dog.",
+                                                                                   "image":  "dog"
+                                                                               },
+                                                                               {
+                                                                                   "text":  "That is a pot.",
+                                                                                   "image":  "pot"
+                                                                               },
+                                                                               {
+                                                                                   "text":  "Okon is in the farm.",
+                                                                                   "image":  "Okon in the farm"
+                                                                               },
+                                                                               {
+                                                                                   "text":  "His palm is big.",
+                                                                                   "image":  "a man pointing at his palm"
+                                                                               }
+                                                                           ]
+                                                         }
+                                                     ]
+                                    },
+                                    {
+                                        "page":  29,
+                                        "sections":  [
+                                                         {
+                                                             "title":  "Reading Practice",
+                                                             "sentences":  [
+                                                                               {
+                                                                                   "text":  "The boys have caps on their heads.",
+                                                                                   "image":  "boys with caps"
+                                                                               },
+                                                                               {
+                                                                                   "text":  "The villagers live in huts.",
+                                                                                   "image":  "huts in a village"
+                                                                               },
+                                                                               {
+                                                                                   "text":  "The children are playing in the park.",
+                                                                                   "image":  "children on a swing set"
+                                                                               },
+                                                                               {
+                                                                                   "text":  "The fan is on the table.",
+                                                                                   "image":  "a table fan on a wooden table"
+                                                                               }
+                                                                           ]
+                                                         }
+                                                     ]
+                                    },
+                                    {
+                                        "page":  30,
+                                        "sections":  [
+                                                         {
+                                                             "title":  "Letters of the Alphabet (I–P)",
+                                                             "letters":  [
+                                                                             {
+                                                                                 "letter":  "Ii",
+                                                                                 "word":  "an iron"
+                                                                             },
+                                                                             {
+                                                                                 "letter":  "Jj",
+                                                                                 "word":  "a jug"
+                                                                             },
+                                                                             {
+                                                                                 "letter":  "Kk",
+                                                                                 "word":  "a key"
+                                                                             },
+                                                                             {
+                                                                                 "letter":  "Ll",
+                                                                                 "word":  "a lion"
+                                                                             },
+                                                                             {
+                                                                                 "letter":  "Mm",
+                                                                                 "word":  "a man"
+                                                                             },
+                                                                             {
+                                                                                 "letter":  "Nn",
+                                                                                 "word":  "a nurse"
+                                                                             },
+                                                                             {
+                                                                                 "letter":  "Oo",
+                                                                                 "word":  "an orange"
+                                                                             },
+                                                                             {
+                                                                                 "letter":  "Pp",
+                                                                                 "word":  "a palm"
+                                                                             }
+                                                                         ]
+                                                         }
+                                                     ]
+                                    }
+                                ]
+                  },
+                  {
+                      "pages":  [
+                                    {
+                                        "page":  31,
+                                        "sections":  [
+                                                         {
+                                                             "title":  "Kabir and the Black Bag",
+                                                             "dialogue":  [
+                                                                              {
+                                                                                  "line":  "One bright morning, Kabir was going to his father\u0027s farm near which is located near their thatched house. On his way to the farm, he was thinking of the number of yam heaps he would have to make before noon. Then he would have to quickly bathe and rush to the local school that usually start at three.",
+                                                                                  "narrator":  true
+                                                                              },
+                                                                              {
+                                                                                  "line":  "He did not know if his mother would be able to give him food that day. He was only sure of the meal in the evening.",
+                                                                                  "narrator":  true
+                                                                              }
+                                                                          ],
+                                                             "illustrations":  [
+                                                                                   "Kabir walking to the farm, thinking about yams"
+                                                                               ]
+                                                         }
+                                                     ]
+                                    },
+                                    {
+                                        "page":  32,
+                                        "sections":  [
+                                                         {
+                                                             "questions":  [
+                                                                               "When was Kabir going to the farm?",
+                                                                               "What did he want to do there?",
+                                                                               "When would he return home?",
+                                                                               "Where would he go after returning from the farm?",
+                                                                               "What did he see under the leaves?",
+                                                                               "Why did he check the bag?",
+                                                                               "Why did he not take the bag home?",
+                                                                               "Why were the policemen amazed?",
+                                                                               "How did the owner of the bag pay Kabir back?",
+                                                                               "What did you learn from this story?"
+                                                                           ],
+                                                             "title":  "The Black Bag",
+                                                             "dialogue":  [
+                                                                              {
+                                                                                  "line":  "Before Kabir went to the big kolanut tree that was very closeby to his father\u0027s farm, he noticed a black bag under the low leaves beside the path.",
+                                                                                  "narrator":  true
+                                                                              },
+                                                                              {
+                                                                                  "line":  "What could this be?",
+                                                                                  "speaker":  "Kabir"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "He ran to the farm without looking back. When he was coming back, he noticed that the black bag was still there.",
+                                                                                  "narrator":  true
+                                                                              },
+                                                                              {
+                                                                                  "line":  "It must belong to someone. He must have been forgotten there. I must see what is inside. Perhaps I can get a clue of who the owner is.",
+                                                                                  "speaker":  "Kabir"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "Kabir carefully opened the bag and found bundles of money neatly tied together with strong strings. He had never seen that much money in his entire life. He picked the bag and ran to the police station to handover the bag with money. The policemen were amazed at the honesty of a poor boy. Soon, the police found the owner of the bag. The man was so pleased with Kabir that he decided to pay his school fees.",
+                                                                                  "narrator":  true
+                                                                              }
+                                                                          ],
+                                                             "illustrations":  [
+                                                                                   "Kabir finding a black bag under leaves",
+                                                                                   "Kabir handing the bag to the police"
+                                                                               ]
+                                                         }
+                                                     ]
+                                    }
+                                ],
+                      "unitTitle":  "Kabir and the Black Bag",
+                      "unit":  5
+                  },
+                  {
+                      "pages":  [
+                                    {
+                                        "page":  33,
+                                        "sections":  [
+                                                         {
+                                                             "poem":  [
+                                                                          "What is mine is mine, And what is yours is yours. If I crave that which is yours, I know for sure my will is sought."
+                                                                      ],
+                                                             "title":  "Discuss \u0026 Recite",
+                                                             "text":  [
+                                                                          "If you find something that belongs to another person what will you do with it?"
+                                                                      ]
+                                                         },
+                                                         {
+                                                             "title":  "Using articles \u0027a\u0027 and \u0027an\u0027",
+                                                             "dialogue":  [
+                                                                              {
+                                                                                  "line":  "This is a pan. Is this a pan?",
+                                                                                  "speaker":  "Teacher"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "Yes, it is a pan.",
+                                                                                  "speaker":  "Pupil"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "This is a man. Is this a man?",
+                                                                                  "speaker":  "Teacher"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "Yes, this is a man.",
+                                                                                  "speaker":  "Pupil"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "This is a woman. Is this a man?",
+                                                                                  "speaker":  "Teacher"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "No, this is a woman.",
+                                                                                  "speaker":  "Pupil"
+                                                                              }
+                                                                          ],
+                                                             "illustrations":  [
+                                                                                   "A pan",
+                                                                                   "A man",
+                                                                                   "A woman"
+                                                                               ]
+                                                         }
+                                                     ]
+                                    },
+                                    {
+                                        "page":  34,
+                                        "sections":  [
+                                                         {
+                                                             "title":  "Listen and repeat (continued)",
+                                                             "dialogue":  [
+                                                                              {
+                                                                                  "line":  "What is this? Is this a flower?",
+                                                                                  "speaker":  "Teacher"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "Yes, it is a flower.",
+                                                                                  "speaker":  "Pupil"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "What is this? Is it a toy?",
+                                                                                  "speaker":  "Teacher"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "Yes, it is a toy.",
+                                                                                  "speaker":  "Pupil"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "This is an insect. Is this is a goat?",
+                                                                                  "speaker":  "Teacher"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "No, it is an insect.",
+                                                                                  "speaker":  "Pupil"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "This is an empty pot. What is this?",
+                                                                                  "speaker":  "Teacher"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "It is an empty pot.",
+                                                                                  "speaker":  "Pupil"
+                                                                              }
+                                                                          ],
+                                                             "illustrations":  [
+                                                                                   "A flower",
+                                                                                   "A toy",
+                                                                                   "An insect",
+                                                                                   "An empty pot"
+                                                                               ]
+                                                         }
+                                                     ]
+                                    },
+                                    {
+                                        "page":  35,
+                                        "sections":  [
+                                                         {
+                                                             "title":  "Listen and repeat (continued)",
+                                                             "dialogue":  [
+                                                                              {
+                                                                                  "line":  "This is a house. Is this a hut?",
+                                                                                  "speaker":  "Teacher"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "No, it is a house.",
+                                                                                  "speaker":  "Pupil"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "Ngozi is eating an orange. Is she eating an apple?",
+                                                                                  "speaker":  "Teacher"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "No, she is eating an orange.",
+                                                                                  "speaker":  "Pupil"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "This is an aeroplane. What is this?",
+                                                                                  "speaker":  "Teacher"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "It is an aeroplane.",
+                                                                                  "speaker":  "Pupil"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "This is a pencil. Is it an eraser?",
+                                                                                  "speaker":  "Teacher"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "No, it is a pencil.",
+                                                                                  "speaker":  "Pupil"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "Emeka eats an egg everyday. What does Emeka eat everyday?",
+                                                                                  "speaker":  "Teacher"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "Emeka eats an egg everyday.",
+                                                                                  "speaker":  "Pupil"
+                                                                              }
+                                                                          ],
+                                                             "illustrations":  [
+                                                                                   "A house",
+                                                                                   "An orange",
+                                                                                   "An aeroplane",
+                                                                                   "A pencil",
+                                                                                   "An egg"
+                                                                               ]
+                                                         }
+                                                     ]
+                                    },
+                                    {
+                                        "page":  36,
+                                        "sections":  [
+                                                         {
+                                                             "title":  "Letters of the Alphabet (Q-Z)",
+                                                             "illustrations":  [
+                                                                                   "Images of all the words"
+                                                                               ],
+                                                             "letters":  [
+                                                                             {
+                                                                                 "word":  "A queen",
+                                                                                 "letter":  "Qq"
+                                                                             },
+                                                                             {
+                                                                                 "word":  "A rabbit",
+                                                                                 "letter":  "Rr"
+                                                                             },
+                                                                             {
+                                                                                 "word":  "A stallion",
+                                                                                 "letter":  "Ss"
+                                                                             },
+                                                                             {
+                                                                                 "word":  "A turtle",
+                                                                                 "letter":  "Tt"
+                                                                             },
+                                                                             {
+                                                                                 "word":  "A umbrella",
+                                                                                 "letter":  "Uu"
+                                                                             },
+                                                                             {
+                                                                                 "word":  "A van",
+                                                                                 "letter":  "Vv"
+                                                                             },
+                                                                             {
+                                                                                 "word":  "A woman",
+                                                                                 "letter":  "Ww"
+                                                                             },
+                                                                             {
+                                                                                 "word":  "A xylophone",
+                                                                                 "letter":  "Xx"
+                                                                             },
+                                                                             {
+                                                                                 "word":  "A yam",
+                                                                                 "letter":  "Yy"
+                                                                             },
+                                                                             {
+                                                                                 "word":  "A zebra",
+                                                                                 "letter":  "Zz"
+                                                                             }
+                                                                         ]
+                                                         }
+                                                     ]
+                                    },
+                                    {
+                                        "page":  37,
+                                        "sections":  [
+                                                         {
+                                                             "title":  "The Caterpillar and its Palace (Story)",
+                                                             "dialogue":  [
+                                                                              {
+                                                                                  "line":  "Once upon a time, all the animals used to live together. One day they found a palace in the jungle that they thought that nobody was living in it. The big animals like lions, tigers, hippopotamuses, elephants, and even smaller animals like the antelopes and squirrels started to argue among themselves about who was the most powerful and the bravest and the fittest to live in the palace.",
+                                                                                  "narrator":  true
+                                                                              },
+                                                                              {
+                                                                                  "line":  "As they continued to argue, they heard a loud voice from the palace saying;",
+                                                                                  "narrator":  true
+                                                                              },
+                                                                              {
+                                                                                  "line":  "I have ridden on elephants and rhinoceroses and lions and tigers and have broken their backs. I have proved to them that they are not as strong as they claimed. And the birds are afraid of me even though they can fly, I make their lives miserable if they come close to me. And so, if you dare enter this palace, be prepared for your death. But if you wish to dare death, make sure you do not come inside the palace with any bird.",
+                                                                                  "speaker":  "Voice"
+                                                                              }
+                                                                          ],
+                                                             "illustrations":  [
+                                                                                   "Animals outside a palace in the jungle"
+                                                                               ]
+                                                         }
+                                                     ]
+                                    },
+                                    {
+                                        "page":  38,
+                                        "sections":  [
+                                                         {
+                                                             "questions":  [
+                                                                               "What did the animals find in the jungle?",
+                                                                               "What did the big animals want to do?",
+                                                                               "What made them afraid?",
+                                                                               "Why were they frightened?",
+                                                                               "Why did the voice say that the animals should not come in with any bird?",
+                                                                               "Who lived in the palace?",
+                                                                               "What lesson do we learn from this story?"
+                                                                           ],
+                                                             "title":  "The Caterpillar (Conclusion)",
+                                                             "dialogue":  [
+                                                                              {
+                                                                                  "line":  "The animals got frightened. They all ran away and did not live together again. From that day onwards, the caterpillar lived peacefully all alone in its big palace, the cocoon.",
+                                                                                  "narrator":  true
+                                                                              }
+                                                                          ]
+                                                         },
+                                                         {
+                                                             "title":  "More on Simple Commands",
+                                                             "dialogue":  [
+                                                                              {
+                                                                                  "line":  "Jibril, open the door.",
+                                                                                  "speaker":  "Teacher"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "Mohammed, pick that ball.",
+                                                                                  "speaker":  "Teacher"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "Aisha, give me that pencil.",
+                                                                                  "speaker":  "Teacher"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "Kunle, switch on the fan.",
+                                                                                  "speaker":  "Emeka"
+                                                                              }
+                                                                          ],
+                                                             "illustrations":  [
+                                                                                   "Teacher pointing at door",
+                                                                                   "Boy picking ball",
+                                                                                   "Girl giving pencil",
+                                                                                   "Boy switching on fan"
+                                                                               ]
+                                                         }
+                                                     ]
+                                    },
+                                    {
+                                        "page":  39,
+                                        "sections":  [
+                                                         {
+                                                             "title":  "More Commands (continued)",
+                                                             "dialogue":  [
+                                                                              {
+                                                                                  "line":  "Ngozi, clean the board.",
+                                                                                  "speaker":  "Akpan"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "Jibril, give me that pencil.",
+                                                                                  "speaker":  "Jide"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "Aisha, take the bag from the floor.",
+                                                                                  "speaker":  "Ayo"
+                                                                              }
+                                                                          ],
+                                                             "illustrations":  [
+                                                                                   "Boy asking girl to clean board",
+                                                                                   "Boy asking for pencil",
+                                                                                   "Boy asking girl to pick up bag"
+                                                                               ]
+                                                         },
+                                                         {
+                                                             "title":  "Identifying Colours",
+                                                             "illustrations":  [
+                                                                                   "A rainbow"
+                                                                               ],
+                                                             "text":  [
+                                                                          "Colours of the rainbow: R for Red, O for Orange, Y for Yellow, G for Green, B for Blue, I for Indigo, V for Violet"
+                                                                      ]
+                                                         }
+                                                     ]
+                                    },
+                                    {
+                                        "page":  40,
+                                        "sections":  [
+                                                         {
+                                                             "title":  "Colours (continued)",
+                                                             "dialogue":  [
+                                                                              {
+                                                                                  "line":  "What colour is the grass?",
+                                                                                  "speaker":  "Teacher"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "The grass is green.",
+                                                                                  "speaker":  "Pupil"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "What colour is the sky?",
+                                                                                  "speaker":  "Teacher"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "The sky is blue.",
+                                                                                  "speaker":  "Pupil"
+                                                                              }
+                                                                          ],
+                                                             "illustrations":  [
+                                                                                   "Red cap",
+                                                                                   "Green bowl",
+                                                                                   "Blue skirt",
+                                                                                   "Brown bag",
+                                                                                   "Yellow scarf",
+                                                                                   "Black shoes",
+                                                                                   "Grey ball",
+                                                                                   "Green grass",
+                                                                                   "Blue sky"
+                                                                               ],
+                                                             "text":  [
+                                                                          "1. This is a red cap.",
+                                                                          "2. This is a green bowl.",
+                                                                          "3. This is a blue skirt.",
+                                                                          "4. This is a brown bag.",
+                                                                          "5. This is a yellow scarf.",
+                                                                          "6. This is a pair of black shoes.",
+                                                                          "7. This is a grey ball."
+                                                                      ]
+                                                         }
+                                                     ]
+                                    },
+                                    {
+                                        "page":  41,
+                                        "sections":  [
+                                                         {
+                                                             "title":  "Colours (continued)",
+                                                             "dialogue":  [
+                                                                              {
+                                                                                  "line":  "What colour is the rose flower?",
+                                                                                  "speaker":  "Teacher"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "The rose is red.",
+                                                                                  "speaker":  "Pupil"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "What colour is the sun flower?",
+                                                                                  "speaker":  "Teacher"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "The sunflower is yellow.",
+                                                                                  "speaker":  "Pupil"
+                                                                              }
+                                                                          ],
+                                                             "illustrations":  [
+                                                                                   "Red rose",
+                                                                                   "Yellow sunflower"
+                                                                               ]
+                                                         }
+                                                     ]
+                                    }
+                                ],
+                      "unitTitle":  "The Caterpillar and its Palace",
+                      "unit":  6
+                  },
+                  {
+                      "pages":  [
+                                    {
+                                        "page":  42,
+                                        "sections":  [
+                                                         {
+                                                             "title":  "The Sleeping Old Lilly",
+                                                             "dialogue":  [
+                                                                              {
+                                                                                  "line":  "Mark and Lilly have lived in the same street for over thirty years. Now they both are seventy years old, and now they talk about the good things they have done for their town.",
+                                                                                  "narrator":  true
+                                                                              },
+                                                                              {
+                                                                                  "line":  "One day, there was a heavy rain in the village. Mark thought that his friend, Lilly had gone to the farm. He rushed off to the farm without checking if Lilly was at home. But Lilly had been enjoying his sleep at home while Mark was searching for him all over the farmlands. In his bid to find where his friend was, Mark started shouting, \u0027Lilly, where",
+                                                                                  "narrator":  true
+                                                                              }
+                                                                          ],
+                                                             "illustrations":  [
+                                                                                   "Two old men sitting outside a hut"
+                                                                               ]
+                                                         }
+                                                     ]
+                                    },
+                                    {
+                                        "page":  43,
+                                        "sections":  [
+                                                         {
+                                                             "questions":  [
+                                                                               "How many years have Mark and Lilly been living together?",
+                                                                               "How old are they now?",
+                                                                               "Why did Mark run to the farm in the rain?",
+                                                                               "What had Lilly been doing at home?",
+                                                                               "Why was Lilly angry?",
+                                                                               "Why were the villagers also angry with Lilly?"
+                                                                           ],
+                                                             "title":  "The Sleeping Old Lilly (Conclusion)",
+                                                             "dialogue":  [
+                                                                              {
+                                                                                  "line":  "are you?\u0027 He called so loudly that all the villagers ran out under the heavy rain because they thought that the flood had carried Lilly away.",
+                                                                                  "narrator":  true
+                                                                              },
+                                                                              {
+                                                                                  "line":  "The noise of the villagers and of Mark woke Lilly from his deep sleep. Lilly was angry and he told all the villagers that he had gone to heaven in his sleep and was talking with God when their noise woke him up. And the villagers were also very angry with Lilly.",
+                                                                                  "narrator":  true
+                                                                              }
+                                                                          ]
+                                                         },
+                                                         {
+                                                             "title":  "Indicating Plurals",
+                                                             "dialogue":  [
+                                                                              {
+                                                                                  "line":  "This is a green pen.",
+                                                                                  "speaker":  "Teacher"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "These are five green pens.",
+                                                                                  "speaker":  "Teacher"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "This is a black bag.",
+                                                                                  "speaker":  "Teacher"
+                                                                              }
+                                                                          ],
+                                                             "illustrations":  [
+                                                                                   "One green pen",
+                                                                                   "Five green pens",
+                                                                                   "One black bag"
+                                                                               ]
+                                                         }
+                                                     ]
+                                    },
+                                    {
+                                        "page":  44,
+                                        "sections":  [
+                                                         {
+                                                             "title":  "Indicating Plurals (continued)",
+                                                             "dialogue":  [
+                                                                              {
+                                                                                  "line":  "These are five black bags.",
+                                                                                  "speaker":  "Teacher"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "That is a pair of black shoe.",
+                                                                                  "speaker":  "Teacher"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "Those are six pairs of black shoes.",
+                                                                                  "speaker":  "Teacher"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "This orange is yellow.",
+                                                                                  "speaker":  "Teacher"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "These four oranges are yellow.",
+                                                                                  "speaker":  "Teacher"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "That is a blue book.",
+                                                                                  "speaker":  "Teacher"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "Those are five blue books.",
+                                                                                  "speaker":  "Teacher"
+                                                                              }
+                                                                          ],
+                                                             "illustrations":  [
+                                                                                   "Five black bags",
+                                                                                   "A pair of black shoes",
+                                                                                   "Six pairs of shoes",
+                                                                                   "One yellow orange",
+                                                                                   "Four yellow oranges",
+                                                                                   "One blue book",
+                                                                                   "Five blue books"
+                                                                               ]
+                                                         }
+                                                     ]
+                                    },
+                                    {
+                                        "page":  45,
+                                        "sections":  [
+                                                         {
+                                                             "title":  "Activity: Counting",
+                                                             "dialogue":  [
+                                                                              {
+                                                                                  "line":  "How many brown pails are there?",
+                                                                                  "speaker":  "Teacher"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "There are one brown pail.",
+                                                                                  "speaker":  "Pupil"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "How many blue shirts are there?",
+                                                                                  "speaker":  "Teacher"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "There are...",
+                                                                                  "speaker":  "Pupil"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "How many yellow dolls are there?",
+                                                                                  "speaker":  "Teacher"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "There are...",
+                                                                                  "speaker":  "Pupil"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "How many red toys are there?",
+                                                                                  "speaker":  "Teacher"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "There is...",
+                                                                                  "speaker":  "Pupil"
+                                                                              }
+                                                                          ],
+                                                             "illustrations":  [
+                                                                                   "Brown pails",
+                                                                                   "Blue shirts",
+                                                                                   "Yellow dolls",
+                                                                                   "Red toys"
+                                                                               ]
+                                                         }
+                                                     ]
+                                    }
+                                ],
+                      "unitTitle":  "The Sleeping Old Lilly",
+                      "unit":  7
+                  }
               ]
-            }
-          ]
-        },
-        {
-          "page": 9,
-          "sections": [
-            {
-              "title": "More Classroom Greetings",
-              "dialogue": [
-                { "speaker": "Teacher", "line": "How are you, Jide?" },
-                { "speaker": "Jide", "line": "I am fine, sir." },
-                { "speaker": "Teacher", "line": "Akpan, did you sleep well?" },
-                { "speaker": "Akpan", "line": "Yes, I did, thank you, sir." },
-                { "speaker": "Teacher", "line": "Emeka, how do you do?" },
-                { "speaker": "Emeka", "line": "How do you do, sir?" },
-                { "speaker": "Teacher", "line": "How do you do, Ngozi?" },
-                { "speaker": "Ngozi", "line": "How do you do, too, sir? Thank you." },
-                { "speaker": "Teacher", "line": "Mohammed, the day will be bright today, don't you think so?" },
-                { "speaker": "Mohammed", "line": "And hot too as well." },
-                { "speaker": "Teacher", "line": "Aisha, you are wearing beautiful braids today." },
-                { "speaker": "Aisha", "line": "Thank you, sir." },
-                { "speaker": "Teacher", "line": "Did you rest well last night, Jibril?" },
-                { "speaker": "Jibril", "line": "Yes, I did sir." }
-              ],
-              "illustrations": [
-                "Teacher interacting with pupils seated in a classroom"
-              ]
-            },
-            {
-              "title": "Simple Greetings at School Assembly",
-              "dialogue": [
-                { "speaker": "Headmaster", "line": "How are you all, dear children?" },
-                { "speaker": "Pupils", "line": "We are fine, sir." },
-                { "speaker": "Headmaster", "line": "It is nice to see you all today." },
-                { "speaker": "Pupils", "line": "Thank you, sir." },
-                { "speaker": "Headmaster", "line": "Today is the first day of a new term." },
-                { "speaker": "Pupils", "line": "Yes, sir." },
-                { "speaker": "Headmaster", "line": "Are you all ready to work hard?" },
-                { "speaker": "Pupils", "line": "Yes, sir." },
-                { "speaker": "Headmaster", "line": "I congratulate all the winners of the match." },
-                { "speaker": "Pupils", "line": "Thank you sir." },
-                { "speaker": "Headmaster", "line": "You all can go back to your classes. Have a wonderful day." },
-                { "speaker": "Pupils", "line": "Thank you, sir." }
-              ],
-              "illustrations": [
-                "Headmaster speaking on a stage/podium to pupils standing in rows at assembly"
-              ]
-            }
-          ]
-        },
-        {
-          "page": 10,
-          "sections": [
-            {
-              "title": "Simple Greetings in the Afternoon",
-              "dialogue": [
-                { "speaker": "Ayo", "line": "Emeka, good afternoon. How are you?" },
-                { "speaker": "Emeka", "line": "Good afternoon, Ayo. I am fine. Have you done your homework?" },
-                { "speaker": "Ayo", "line": "Yes. Is your brother well now?" },
-                { "speaker": "Emeka", "line": "Yes, he is fine now." },
-                { "speaker": "Ayo", "line": "Jibril was looking for you during the break." },
-                { "speaker": "Emeka", "line": "I saw him. He wanted to get his homework book." },
-                { "speaker": "Ayo", "line": "Did he want to help Aisha?" },
-                { "speaker": "Emeka", "line": "Perhaps. That will be kind of him." },
-                { "speaker": "Ayo", "line": "It is very hot today." },
-                { "speaker": "Emeka", "line": "Yes, it is. We have to go inside now." },
-                { "speaker": "Ayo", "line": "Yes. See you after school." }
-              ],
-              "illustrations": [
-                "Schoolgirls with backpacks walking, and a girl in a school uniform in the foreground",
-                "A boy leaning on a tree talking to a girl seated on a bench"
-              ]
-            }
-          ]
-        },
-        {
-          "page": 11,
-          "sections": [
-            {
-              "title": "Simple Greetings in the Evening",
-              "dialogue": [
-                { "speaker": "Teacher", "line": "Good evening, children." },
-                { "speaker": "Pupils", "line": "Good evening, sir." },
-                { "speaker": "Teacher", "line": "Are you all ready to play football?" },
-                { "speaker": "Pupils", "line": "Yes, sir." },
-                { "speaker": "Teacher", "line": "Let us choose our team captains first." },
-                { "speaker": "Pupils", "line": "Yes, sir." },
-                { "speaker": "Teacher", "line": "Akpan, pick five boys for your team." },
-                { "speaker": "Akpan", "line": "Yes, sir.", "action": "Goes on to choose the members." },
-                { "speaker": "Teacher", "line": "Jide, pick your team." },
-                { "speaker": "Jide", "line": "Yes, sir." },
-                { "speaker": "Teacher", "line": "Did you all enjoy the game today?" },
-                { "speaker": "Pupils", "line": "Yes, sir." },
-                { "speaker": "Teacher", "line": "Good night, children. See you all tomorrow." },
-                { "speaker": "Pupils", "line": "Good night, sir." }
-              ],
-              "illustrations": [
-                "A teacher facing a line of pupils in yellow and orange football kits, with a ball at their feet",
-                "Pupils raising their hands while the teacher holds a football"
-              ]
-            },
-            {
-              "title": "Simple Greetings at Home",
-              "dialogue": [
-                { "speaker": "Ayo", "line": "Good morning, dad." },
-                { "speaker": "Mr. Adebayo", "line": "Good morning, Ayo. Did you sleep well?" },
-                { "speaker": "Ayo", "line": "Yes, dad, I slept well. Thank you. Good morning, mummy." },
-                { "speaker": "Mrs. Adebayo", "line": "Good morning my dear. Is Kunle still sleeping?" },
-                { "speaker": "Ayo", "line": "No, he isn't, mum." },
-                { "speaker": "Mrs. Adebayo", "line": "Please, go and find out from his room." },
-                { "speaker": "Ayo", "line": "Yes, mum." }
-              ],
-              "illustrations": [
-                "A family scene in a living room: father, mother, and a child talking"
-              ]
-            }
-          ]
-        },
-        {
-          "page": 12,
-          "sections": [
-            {
-              "title": "Simple Greetings in the Community",
-              "dialogue": [
-                { "speaker": "Mallam Idris", "line": "Good evening, children." },
-                { "speaker": "Children", "line": "Good evening, Mallam." },
-                { "speaker": "Mallam Idris", "line": "You have come early to play today." },
-                { "speaker": "Children", "line": "Yes, Mallam." },
-                { "speaker": "Mallam Idris", "line": "Aisha, how is your school?" },
-                { "speaker": "Aisha", "line": "It's fine, Mallam. Thank you." },
-                { "speaker": "Mallam Idris", "line": "Is Mohammed also doing well at school?" },
-                { "speaker": "Aisha", "line": "Yes, he is." },
-                { "speaker": "Mallam Idris", "line": "Where is Jibril?" },
-                { "speaker": "Aisha", "line": "He is coming along with us, Mallam." }
-              ],
-              "illustrations": [
-                "Two adults seated outdoors on benches in a village setting, with children nearby"
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "unit": 2,
-      "unitTitle": "Identification of Persons",
-      "pages": [
-        {
-          "page": 16,
-          "sections": [
-            {
-              "title": "Identification of Persons",
-              "dialogue": [
-                { "speaker": "Teacher", "line": "My name is Mr. Jackson.", "action": "Points to a pupil." },
-                { "speaker": "Teacher", "line": "What's your name?" },
-                { "speaker": "Pupil", "line": "My name is Aisha." },
-                { "speaker": "Teacher", "line": "What is the name of the pupil sitting next to you?" },
-                { "speaker": "Pupil", "line": "His name is Khunle." },
-                { "speaker": "Teacher", "line": "What is his name?", "action": "Points to another pupil." },
-                { "speaker": "Pupil", "line": "His name is Emeka." },
-                { "speaker": "Teacher", "line": "What's your name?", "action": "Points to some other pupil." },
-                { "speaker": "Pupil", "line": "My name is Ayo." }
-              ],
-              "illustrations": [
-                "A male teacher pointing to a pupil standing by a desk",
-                "A female teacher pointing at pupils in a classroom"
-              ]
-            }
-          ]
-        },
-        {
-          "page": 17,
-          "sections": [
-            {
-              "title": "More Identification of Persons",
-              "dialogue": [
-                { "speaker": "Teacher", "line": "Kunle, what is her name?", "action": "Points at Ngozi." },
-                { "speaker": "Kunle", "line": "Her name is Ngozi." },
-                { "speaker": "Teacher", "line": "What is your name?", "action": "Points at Mohammed." },
-                { "speaker": "Mohammed", "line": "My name is Mohammed." },
-                { "speaker": "Teacher", "line": "Aisha, what is the name of the pupil in the first row?" },
-                { "speaker": "Aisha", "line": "Her name is Ngozi." },
-                { "speaker": "Teacher", "line": "What did I ask Aisha?", "action": "Points to Jide." },
-                { "speaker": "Jide", "line": "You asked the name of the pupil in the first row." },
-                { "speaker": "Teacher", "line": "Jibril, what is the name of the Headmaster?" },
-                { "speaker": "Jibril", "line": "The Headmaster's name is Mr. Terver, sir." },
-                { "speaker": "Teacher", "line": "What's your sister's name?", "action": "Points to Mohammed." },
-                { "speaker": "Mohammed", "line": "My sister's name is Halima." }
-              ],
-              "illustrations": [
-                "Teacher pointing at pupils in the classroom",
-                "Teacher talking to a small group of pupils (Mohammed, Aisha, Ngozi, Jide)"
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "unit": 3,
-      "unitTitle": "The Dog and The Tortoise",
-      "pages": [
-        {
-          "page": 18,
-          "sections": [
-            {
-              "title": "The Dog and the Tortoise",
-              "dialogue": [
-                { "narrator": true, "line": "Once upon a time, a tortoise called out a dog for a race." },
-                { "speaker": "Tortoise", "line": "I can run faster than you." },
-                { "speaker": "Dog", "line": "You? You must be joking! Even in my sleep, you cannot run faster than me." },
-                { "narrator": true, "line": "The tortoise planned to prepare large chunks of delicious meat with fat bones. He deliberately dropped the pieces of meat along the paths of the race thinking that the dog would smell the meat and get attracted to them." }
-              ],
-              "illustrations": [
-                "A large dog standing next to a small tortoise on a green field"
-              ]
-            }
-          ]
-        },
-        {
-          "page": 19,
-          "sections": [
-            {
-              "title": "The Race",
-              "dialogue": [
-                { "narrator": true, "line": "On the day of their race, the other animals gathered to watch the most interesting race. As soon as the race started, the dog flew past the tortoise with high speed while the tortoise picked his steps as slowly and clumsily as he could." },
-                { "narrator": true, "line": "Soon, the dog saw a chunk of meat on the way." },
-                { "speaker": "Dog", "line": "I will take a bite of this tasty meat before that slowcoach comes here." },
-                { "narrator": true, "line": "As soon as he finished eating that meat, a few paces ahead he saw another piece on his path. So he slowed down and stopped to eat each piece. When the dog finally reached the finishing line, he met the tortoise there. He was surprised to see the tortoise before him and all the other animals praising the tortoise for winning the race." }
-              ],
-              "illustrations": [
-                "The tortoise at the finish line surrounded by other animals, the dog arriving in surprise"
-              ]
-            }
-          ]
-        },
-        {
-          "page": 19,
-          "sections_continued": [
-            {
-              "title": "Questions",
-              "questions": [
-                "Which are the animals that ran a race against each other?",
-                "Why was this race the most interesting for other animals?",
-                "What attracted the dog to the pieces of meat?",
-                "Why did the tortoise prepare the pieces of meat?",
-                "Who won the race?",
-                "Who do you think is greedy between the dog and the tortoise?",
-                "Give three lessons you have learnt from this story."
-              ]
-            },
-            {
-              "title": "Identification of Objects",
-              "objects": [
-                { "word": "a plate", "description": "a flat dish used for eating" },
-                { "word": "a spoon", "description": "a utensil used to eat" }
-              ]
-            }
-          ]
-        },
-        {
-          "page": 20,
-          "sections": [
-            {
-              "title": "Objects Around Us",
-              "objects": [
-                { "word": "a pot", "description": "used for cooking" },
-                { "word": "a mat", "description": "a woven floor covering to sit on" },
-                { "word": "a bed", "description": "used for sleeping" },
-                { "word": "a pillow", "description": "for resting your head" },
-                { "word": "a table", "description": "used for eating or working" },
-                { "word": "a door", "description": "used to enter a room" }
-              ],
-              "illustrations": [
-                "Six objects: a pot, a mat, a bed, a pillow, a table, and a door"
-              ]
-            }
-          ]
-        },
-        {
-          "page": 21,
-          "sections": [
-            {
-              "title": "More Objects (A vs An)",
-              "objects": [
-                { "word": "a pen", "article": "a" },
-                { "word": "a car", "article": "a" },
-                { "word": "a bicycle", "article": "a" },
-                { "word": "an egg", "article": "an" },
-                { "word": "an ink bottle", "article": "an" },
-                { "word": "an aeroplane", "article": "an" }
-              ]
-            }
-          ]
-        },
-        {
-          "page": 22,
-          "sections": [
-            {
-              "title": "More Objects Starting with Vowels",
-              "objects": [
-                { "word": "an ant", "article": "an" },
-                { "word": "an antelope", "article": "an" },
-                { "word": "an eagle", "article": "an" },
-                { "word": "an elephant", "article": "an" },
-                { "word": "an eraser", "article": "an" },
-                { "word": "an envelope", "article": "an" },
-                { "word": "an insect", "article": "an" },
-                { "word": "an exercise book", "article": "an" }
-              ]
-            }
-          ]
-        },
-        {
-          "page": 23,
-          "sections": [
-            {
-              "title": "Activity: What is this?",
-              "activity": [
-                { "question": "What is this?", "image": "a chair", "answer": "It is a chair." },
-                { "question": "What is this?", "image": "an egg", "answer": "It is an egg." },
-                { "question": "What is this?", "image": "an ink bottle", "answer": "It is an ink bottle." },
-                { "question": "What is this?", "image": "a car", "answer": "It is a car." },
-                { "question": "What is this?", "image": "an elephant", "answer": "It is an elephant." }
-              ]
-            }
-          ]
-        },
-        {
-          "page": 24,
-          "sections": [
-            {
-              "title": "Activity: What is this? (continued)",
-              "activity": [
-                { "question": "What is this?", "image": "a rat", "answer": "It is a rat." },
-                { "question": "What is this?", "image": "an owl", "answer": "It is an owl." },
-                { "question": "What is this?", "image": "an insect (beetle)", "answer": "It is an insect." },
-                { "question": "What is this?", "image": "a cat", "answer": "It is a cat." },
-                { "question": "What is this?", "image": "a house", "answer": "It is a house." }
-              ]
-            }
-          ]
-        },
-        {
-          "page": 25,
-          "sections": [
-            {
-              "title": "Letters of the Alphabet (A–H)",
-              "letters": [
-                { "letter": "Aa", "word": "An apple" },
-                { "letter": "Bb", "word": "A ball" },
-                { "letter": "Cc", "word": "A cat" },
-                { "letter": "Dd", "word": "A dog" },
-                { "letter": "Ee", "word": "An egg" },
-                { "letter": "Ff", "word": "A flower" },
-                { "letter": "Gg", "word": "A goat" },
-                { "letter": "Hh", "word": "A house" }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "unit": 4,
-      "unitTitle": "Okon and Akan",
-      "pages": [
-        {
-          "page": 26,
-          "sections": [
-            {
-              "title": "Okon and Akan",
-              "dialogue": [
-                { "narrator": true, "line": "Once upon a time Okon, a farmer, went to check his traps. As he went near one of the traps, he noticed something caught in the trap which he could not see clearly. He called his friend, Akan, to help him remove the catch from the trap. Akan realised that the animal in the trap was a large snake which had gone to hide behind the stem of the trap." },
-                { "speaker": "Akan", "line": "It is a large snake and this type spits!" },
-                { "speaker": "Okon", "line": "Hold it by the tail." },
-                { "speaker": "Akan", "line": "The trap caught it by the tail!" },
-                { "speaker": "Okon", "line": "Then catch it by the head." },
-                { "speaker": "Akan", "line": "Do you want it to bite me?" }
-              ],
-              "illustrations": [
-                "Two men (Okon and Akan) standing near a wooden fence by a small building"
-              ]
-            }
-          ]
-        },
-        {
-          "page": 27,
-          "sections": [
-            {
-              "title": "Okon and Akan (continued)",
-              "dialogue": [
-                { "speaker": "Okon", "line": "This snake does not bite, it only spits into people's eyes." },
-                { "speaker": "Akan", "line": "Oh, ho! You want me to be blind? It is your trap. So go ahead and take your catch." },
-                { "speaker": "Okon", "line": "I know now that you are not a good friend." },
-                { "speaker": "Akan", "line": "You are a true friend who wants me to be hurt." },
-                { "narrator": true, "line": "The two men stood there looking at the large beast until it struggled out of the trap and crawled away into the jungle." }
-              ],
-              "questions": [
-                "What job does Okon do?",
-                "Who was his friend?",
-                "What did the trap catch?",
-                "Why did Okon ask Akan to remove it from the trap?",
-                "Who do you think is a true friend in the story?",
-                "What is the moral of the story?"
-              ],
-              "listening_words": [
-                "This", "These", "Now", "Know", "Blind", "Blend", "It", "Eat",
-                "See", "Sit", "Hide", "Hard", "Tail", "Tell", "Could", "Cold",
-                "Which", "Wish", "Hurt", "Hot"
-              ]
-            }
-          ]
-        },
-        {
-          "page": 28,
-          "sections": [
-            {
-              "title": "Listen and Say",
-              "sentences": [
-                { "text": "This is a ship.", "image": "ship" },
-                { "text": "That is a sheep.", "image": "sheep" },
-                { "text": "This is a floor.", "image": "floor" },
-                { "text": "That is a flower.", "image": "flower" },
-                { "text": "This is a toy.", "image": "toy" },
-                { "text": "That is a fowl.", "image": "fowl" },
-                { "text": "This is a dog.", "image": "dog" },
-                { "text": "That is a pot.", "image": "pot" },
-                { "text": "Okon is in the farm.", "image": "Okon in the farm" },
-                { "text": "His palm is big.", "image": "a man pointing at his palm" }
-              ]
-            }
-          ]
-        },
-        {
-          "page": 29,
-          "sections": [
-            {
-              "title": "Reading Practice",
-              "sentences": [
-                { "text": "The boys have caps on their heads.", "image": "boys with caps" },
-                { "text": "The villagers live in huts.", "image": "huts in a village" },
-                { "text": "The children are playing in the park.", "image": "children on a swing set" },
-                { "text": "The fan is on the table.", "image": "a table fan on a wooden table" }
-              ]
-            }
-          ]
-        },
-        {
-          "page": 30,
-          "sections": [
-            {
-              "title": "Letters of the Alphabet (I–P)",
-              "letters": [
-                { "letter": "Ii", "word": "an iron" },
-                { "letter": "Jj", "word": "a jug" },
-                { "letter": "Kk", "word": "a key" },
-                { "letter": "Ll", "word": "a lion" },
-                { "letter": "Mm", "word": "a man" },
-                { "letter": "Nn", "word": "a nurse" },
-                { "letter": "Oo", "word": "an orange" },
-                { "letter": "Pp", "word": "a palm" }
-              ]
-            }
-          ]
-        }
-      ]
-    }
-  ]
 }
