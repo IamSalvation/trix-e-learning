@@ -25,6 +25,11 @@ import p1EnglishU08M01 from '../content/primary/p1/english/u08-m01.json';
 import p1EnglishU08M02 from '../content/primary/p1/english/u08-m02.json';
 import p1EnglishU09M01 from '../content/primary/p1/english/u09-m01.json';
 import p1EnglishU10M01 from '../content/primary/p1/english/u10-m01.json';
+import p1EnglishU10M02 from '../content/primary/p1/english/u10-m02.json';
+import p1EnglishU11M01 from '../content/primary/p1/english/u11-m01.json';
+import p1EnglishU11M02 from '../content/primary/p1/english/u11-m02.json';
+import p1EnglishU12M01 from '../content/primary/p1/english/u12-m01.json';
+import p1EnglishU13M01 from '../content/primary/p1/english/u13-m01.json';
 
 export const lessonDataMap = {
   'p1/english/u01-m01': p1EnglishU01M01,
@@ -52,10 +57,16 @@ export const lessonDataMap = {
   'p1/english/u08-m01': p1EnglishU08M01,
   'p1/english/u08-m02': p1EnglishU08M02,
   'p1/english/u09-m01': p1EnglishU09M01,
-  'p1/english/u10-m01': p1EnglishU10M01,
+    'p1/english/u10-m01': p1EnglishU10M01,
+  'p1/english/u10-m02': p1EnglishU10M02,
+  'p1/english/u11-m01': p1EnglishU11M01,
+  'p1/english/u11-m02': p1EnglishU11M02,
+  'p1/english/u12-m01': p1EnglishU12M01,
+  'p1/english/u13-m01': p1EnglishU13M01,
 };
 
 export function getLesson(classId, subjectId, lessonId) {
   const key = classId + '/' + subjectId + '/' + lessonId;
   return lessonDataMap[key] || null;
 }
+

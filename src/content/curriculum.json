@@ -35,7 +35,12 @@
             { "id": "u08-m01", "title": "The Fox and the Cock", "json": "u08-m01.json" },
             { "id": "u08-m02", "title": "Indicating Sizes and Length", "json": "u08-m02.json" },
             { "id": "u09-m01", "title": "Fat Head, Thin Legs & Wants", "json": "u09-m01.json" },
-            { "id": "u10-m01", "title": "The Fishwoman & Placing Objects", "json": "u10-m01.json" }
+            { "id": "u10-m01", "title": "The Fishwoman & Placing Objects", "json": "u10-m01.json" },
+            { "id": "u10-m02", "title": "Where is it? (Placing Objects)", "json": "u10-m02.json" },
+            { "id": "u11-m01", "title": "Two Foolish Goats", "json": "u11-m01.json" },
+            { "id": "u11-m02", "title": "Basic Reading Skills", "json": "u11-m02.json" },
+            { "id": "u12-m01", "title": "The Lion and the Soldier Ants", "json": "u12-m01.json" },
+            { "id": "u13-m01", "title": "The Elephant and his Master", "json": "u13-m01.json" }
           ]
         }
       ]
@@ -45,3 +50,4 @@
     { "id": "p4", "name": "Primary 4", "color": "#dc2626", "subjects": [] }
   ]
 }
+
