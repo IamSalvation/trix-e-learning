@@ -1712,6 +1712,624 @@
                                 ],
                       "unitTitle":  "The Sleeping Old Lilly",
                       "unit":  7
+                  },
+                  {
+                      "pages":  [
+                                    {
+                                        "page":  46,
+                                        "sections":  [
+                                                         {
+                                                             "poem":  [
+                                                                          "Once I saw a little bird",
+                                                                          "Come hop, hop, hop;",
+                                                                          "So I cried, \u0027Little bird,",
+                                                                          "Will you stop, stop, stop?\u0027",
+                                                                          "And was going to the window",
+                                                                          "To say, \u0027How do you do?\u0027",
+                                                                          "But he shook his little tail,",
+                                                                          "And far away he flew."
+                                                                      ],
+                                                             "title":  "Poem: Once I Saw a Little Bird",
+                                                             "questions":  [
+                                                                               "What did the poet see?",
+                                                                               "What was the bird doing?",
+                                                                               "What did the poet ask the bird to do?",
+                                                                               "What happened before the poet could greet the bird?"
+                                                                           ],
+                                                             "illustrations":  [
+                                                                                   "A child looking out a window at a flying bird"
+                                                                               ]
+                                                         }
+                                                     ]
+                                    },
+                                    {
+                                        "page":  47,
+                                        "sections":  [
+                                                         {
+                                                             "poem":  [
+                                                                          "Baa, baa, black sheep,",
+                                                                          "Have you any wool?",
+                                                                          "Yes sir, yes sir,",
+                                                                          "Three bags full;",
+                                                                          "One for my master,",
+                                                                          "One for my dame,",
+                                                                          "And one for the little boy",
+                                                                          "who lives in our lane."
+                                                                      ],
+                                                             "title":  "Poem: Baa, Baa, Black Sheep",
+                                                             "questions":  [
+                                                                               "What does the black sheep have?",
+                                                                               "How many bags of it does she have?",
+                                                                               "Who does the sheep want to give the bags to?",
+                                                                               "Who is the last person mentioned in the rhymes and where does he live?"
+                                                                           ],
+                                                             "illustrations":  [
+                                                                                   "A black sheep standing in a field"
+                                                                               ]
+                                                         }
+                                                     ]
+                                    },
+                                    {
+                                        "page":  48,
+                                        "sections":  [
+                                                         {
+                                                             "title":  "The Fox and the Cock (Story)",
+                                                             "dialogue":  [
+                                                                              {
+                                                                                  "line":  "Many years ago, all the animals lived together except the fox. He said that unless he was made their king, no animal would be safe. So all the other animals planned to have a meeting on what they were going to do to tame or beg him.",
+                                                                                  "narrator":  true
+                                                                              },
+                                                                              {
+                                                                                  "line":  "On the agreed day for the meeting, all the animals met in the jungle square where all important decisions were usually taken. The animal who was asked to speak first then started.",
+                                                                                  "narrator":  true
+                                                                              },
+                                                                              {
+                                                                                  "line":  "We shall decide on what we shall do in order to make the fox happy.",
+                                                                                  "speaker":  "Speaker"
+                                                                              }
+                                                                          ],
+                                                             "illustrations":  [
+                                                                                   "A fox standing next to a cock"
+                                                                               ]
+                                                         }
+                                                     ]
+                                    },
+                                    {
+                                        "page":  49,
+                                        "sections":  [
+                                                         {
+                                                             "questions":  [
+                                                                               "What did the fox want the animals to make him?",
+                                                                               "Why did the animals plan for a meeting?",
+                                                                               "Who is the friend of the cock?",
+                                                                               "What did the animals agree that the fox can start to do?"
+                                                                           ],
+                                                             "title":  "The Fox and the Cock (Conclusion)",
+                                                             "dialogue":  [
+                                                                              {
+                                                                                  "line":  "The tortoise, who was a friend to the cock, told the meeting that the cock could not come but he would accept any decision of the other animals.",
+                                                                                  "narrator":  true
+                                                                              },
+                                                                              {
+                                                                                  "line":  "As the cock is not here, we shall tell the fox to take and eat up any cock he finds anywhere and at any time.",
+                                                                                  "speaker":  "Speaker"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "All the animals agreed, and ever since then the cock and his relations became the easiest prey for the fox.",
+                                                                                  "narrator":  true
+                                                                              }
+                                                                          ]
+                                                         },
+                                                         {
+                                                             "title":  "Expressing Possession",
+                                                             "dialogue":  [
+                                                                              {
+                                                                                  "line":  "This is my pen.",
+                                                                                  "speaker":  "Teacher"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "That is your book.",
+                                                                                  "speaker":  "Teacher"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "This is her pencil.",
+                                                                                  "speaker":  "Teacher"
+                                                                              }
+                                                                          ],
+                                                             "illustrations":  [
+                                                                                   "Teacher pointing to a boy\u0027s pen",
+                                                                                   "Teacher pointing to a girl\u0027s book",
+                                                                                   "Teacher pointing to a girl\u0027s pencil"
+                                                                               ]
+                                                         }
+                                                     ]
+                                    },
+                                    {
+                                        "page":  50,
+                                        "sections":  [
+                                                         {
+                                                             "title":  "Expressing Possession (continued)",
+                                                             "dialogue":  [
+                                                                              {
+                                                                                  "line":  "That is his eraser.",
+                                                                                  "speaker":  "Teacher"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "This is my ruler.",
+                                                                                  "speaker":  "Jide"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "That is not your ball.",
+                                                                                  "speaker":  "Akpan"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "Give me my shoes.",
+                                                                                  "speaker":  "Emeka"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "My mother lost her purse.",
+                                                                                  "speaker":  "Aisha"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "Do you know his name?",
+                                                                                  "speaker":  "Jibril"
+                                                                              }
+                                                                          ],
+                                                             "illustrations":  [
+                                                                                   "Boy holding ruler",
+                                                                                   "Two boys fighting over ball",
+                                                                                   "Boy holding a box of shoes",
+                                                                                   "Girls talking",
+                                                                                   "Boys talking"
+                                                                               ]
+                                                         }
+                                                     ]
+                                    },
+                                    {
+                                        "page":  51,
+                                        "sections":  [
+                                                         {
+                                                             "title":  "Indicating Sizes and Length",
+                                                             "dialogue":  [
+                                                                              {
+                                                                                  "line":  "This table is big. That table is small.",
+                                                                                  "speaker":  "Teacher"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "This stick is long. That stick is short.",
+                                                                                  "speaker":  "Teacher"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "This is a thin boy.",
+                                                                                  "speaker":  "Mohammed"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "That is a fat ram.",
+                                                                                  "speaker":  "Kunle"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "That is a long pair of trousers.",
+                                                                                  "speaker":  "Ngozi"
+                                                                              }
+                                                                          ],
+                                                             "illustrations":  [
+                                                                                   "Big table",
+                                                                                   "Small table",
+                                                                                   "Long stick",
+                                                                                   "Short stick",
+                                                                                   "Thin boy",
+                                                                                   "Fat ram",
+                                                                                   "Long trousers",
+                                                                                   "Short trousers"
+                                                                               ]
+                                                         }
+                                                     ]
+                                    },
+                                    {
+                                        "page":  52,
+                                        "sections":  [
+                                                         {
+                                                             "title":  "Indicating Sizes and Length (continued)",
+                                                             "dialogue":  [
+                                                                              {
+                                                                                  "line":  "Mr. Jackson is a tall man.",
+                                                                                  "speaker":  "Akpan"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "My mother is a short woman.",
+                                                                                  "speaker":  "Jide"
+                                                                              }
+                                                                          ],
+                                                             "illustrations":  [
+                                                                                   "Tall man",
+                                                                                   "Short woman"
+                                                                               ]
+                                                         }
+                                                     ]
+                                    }
+                                ],
+                      "unitTitle":  "The Fox and the Cock",
+                      "unit":  8
+                  },
+                  {
+                      "pages":  [
+                                    {
+                                        "page":  53,
+                                        "sections":  [
+                                                         {
+                                                             "title":  "Fat Head, Thin Legs, and Fat Cheeks",
+                                                             "dialogue":  [
+                                                                              {
+                                                                                  "line":  "Once upon a time, there lived three boys in a far village called Notedu. These boys were friends. They planned to steal mangoes from a farm close to their village on a work-free day when the owner of the mango trees would be sleeping at home.",
+                                                                                  "narrator":  true
+                                                                              }
+                                                                          ],
+                                                             "illustrations":  [
+                                                                                   "Three boys standing together"
+                                                                               ]
+                                                         }
+                                                     ]
+                                    },
+                                    {
+                                        "page":  54,
+                                        "sections":  [
+                                                         {
+                                                             "questions":  [
+                                                                               "What is the name of the village?",
+                                                                               "What are the names of the boys?",
+                                                                               "What did they plan to do?",
+                                                                               "When did they plan to do this?",
+                                                                               "How did the mangoes drop on the ground?",
+                                                                               "What are the two lessons you learn from this story?"
+                                                                           ],
+                                                             "title":  "The Boys and the Mangoes",
+                                                             "dialogue":  [
+                                                                              {
+                                                                                  "line":  "When they got to the mango field, Fat Head said that he would be the one to climb the tree. The two others agreed with him. So, he climbed the tree and started shaking the branches. All the ripe mangoes began to drop one by one. After some time, Fat Head looked down from the height to see that Thin Legs and Fat Cheeks were hiding any mangoes. As he did so, his heavy head suddenly fell off from his body. Fat Cheeks began to laugh loudly that his cheeks burst open. Out of fear, Thin Legs began to run back home in order to say what had happened to the other two. But before he could reach home, his legs broke.",
+                                                                                  "narrator":  true
+                                                                              },
+                                                                              {
+                                                                                  "line":  "At the end, none of them ate the mangoes and none got home to tell the story of what happened to Fat Head, Thin Legs and Fat Cheeks.",
+                                                                                  "narrator":  true
+                                                                              }
+                                                                          ]
+                                                         },
+                                                         {
+                                                             "title":  "Expressing Personal Wants and Feelings",
+                                                             "dialogue":  [
+                                                                              {
+                                                                                  "line":  "I like rice. What do you like, Mohammed?",
+                                                                                  "speaker":  "Jide"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "I do not like rice. I like bread.",
+                                                                                  "speaker":  "Mohammed"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "Which subject do you really like, Mohammed?",
+                                                                                  "speaker":  "Jide"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "I find English easier than Primary Science.",
+                                                                                  "speaker":  "Mohammed"
+                                                                              }
+                                                                          ],
+                                                             "illustrations":  [
+                                                                                   "Three boys talking"
+                                                                               ]
+                                                         }
+                                                     ]
+                                    },
+                                    {
+                                        "page":  55,
+                                        "sections":  [
+                                                         {
+                                                             "title":  "Expressing Wants (continued)",
+                                                             "dialogue":  [
+                                                                              {
+                                                                                  "line":  "I love to hear my father sing.",
+                                                                                  "speaker":  "Aisha"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "My father does not sing; he likes to whistle.",
+                                                                                  "speaker":  "Ngozi"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "I smile when I hear his voice.",
+                                                                                  "speaker":  "Aisha"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "I do not like people whistling.",
+                                                                                  "speaker":  "Ngozi"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "I need to buy a new pencil.",
+                                                                                  "speaker":  "Emeka"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "I don\u0027t need to buy a new pencil. I want a sharpener.",
+                                                                                  "speaker":  "Kunle"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "You always want sharpeners!",
+                                                                                  "speaker":  "Emeka"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "Yes, because I like their different shapes and colour.",
+                                                                                  "speaker":  "Kunle"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "I love my country.",
+                                                                                  "speaker":  "Akpan"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "I love the weather here most.",
+                                                                                  "speaker":  "Ayo"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "I love the people most.",
+                                                                                  "speaker":  "Akpan"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "The weather is not too cold.",
+                                                                                  "speaker":  "Ayo"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "I am happy when I see the different clothes that people wear.",
+                                                                                  "speaker":  "Akpan"
+                                                                              }
+                                                                          ],
+                                                             "illustrations":  [
+                                                                                   "Girls talking",
+                                                                                   "Boys talking about pencil",
+                                                                                   "Boys talking about country"
+                                                                               ]
+                                                         }
+                                                     ]
+                                    },
+                                    {
+                                        "page":  56,
+                                        "sections":  [
+                                                         {
+                                                             "title":  "Expressing Wants (Activity)",
+                                                             "dialogue":  [
+                                                                              {
+                                                                                  "line":  "What do you like?",
+                                                                                  "speaker":  "Teacher"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "I like ...",
+                                                                                  "speaker":  "Pupil"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "What don\u0027t you like?",
+                                                                                  "speaker":  "Teacher"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "I don\u0027t like ...",
+                                                                                  "speaker":  "Pupil"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "What makes you happy?",
+                                                                                  "speaker":  "Teacher"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "I am happy when I see people ...",
+                                                                                  "speaker":  "Pupil"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "What doesn\u0027t make you happy?",
+                                                                                  "speaker":  "Teacher"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "I am not happy if ...",
+                                                                                  "speaker":  "Pupil"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "Where do you wish to visit in Nigeria?",
+                                                                                  "speaker":  "Teacher"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "I wish to visit ...",
+                                                                                  "speaker":  "Pupil"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "What makes you want to go to school daily?",
+                                                                                  "speaker":  "Teacher"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "I want to go to school daily to see ...",
+                                                                                  "speaker":  "Pupil"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "Emeka, why do you like Jibril?",
+                                                                                  "speaker":  "Teacher"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "I like Jibril because he ...",
+                                                                                  "speaker":  "Emeka"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "Akpan, why do you like things with green colour?",
+                                                                                  "speaker":  "Teacher"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "I like things with green colour because ...",
+                                                                                  "speaker":  "Akpan"
+                                                                              }
+                                                                          ],
+                                                             "illustrations":  [
+                                                                                   "Teacher talking to a pupil at a desk"
+                                                                               ]
+                                                         }
+                                                     ]
+                                    }
+                                ],
+                      "unitTitle":  "Fat Head, Thin Legs, and Fat Cheeks",
+                      "unit":  9
+                  },
+                  {
+                      "pages":  [
+                                    {
+                                        "page":  57,
+                                        "sections":  [
+                                                         {
+                                                             "title":  "The Fishwoman (Story)",
+                                                             "dialogue":  [
+                                                                              {
+                                                                                  "line":  "A very long time ago, there lived a mermaid in the depths of the River Niger. The natives of Oma heard that she always came out at night but no one believed this story.",
+                                                                                  "narrator":  true
+                                                                              },
+                                                                              {
+                                                                                  "line":  "One dark night, Odika was walking down from Ebu, a nearby village. When he was walking close to the river, he heard some beautiful Allor Music coming out of the waters. He stopped to enjoy and learn the music so that it could be played when he was going to get the new title. He stepped forward a little closer. There was a huge mermaid near the river bank. She was very beautiful and her body shone as if there were lights all over her body. On seeing that Odika was not afraid. The mermaid turned and commanded him to come closer to her. Odika walked closer to the mermaid.",
+                                                                                  "narrator":  true
+                                                                              }
+                                                                          ],
+                                                             "illustrations":  [
+                                                                                   "A woman sitting next to a basket of fish"
+                                                                               ]
+                                                         }
+                                                     ]
+                                    },
+                                    {
+                                        "page":  58,
+                                        "sections":  [
+                                                         {
+                                                             "questions":  [
+                                                                               "Where did the mermaid live?",
+                                                                               "What did the villagers hear of this mermaid?",
+                                                                               "What did Odika do when he heard the music?",
+                                                                               "Why did the mermaid make Odika rich?",
+                                                                               "Where would Odika get the wealth?"
+                                                                           ],
+                                                             "title":  "The Fishwoman (Questions \u0026 Placing Objects)"
+                                                         },
+                                                         {
+                                                             "title":  "Placing Persons and Objects",
+                                                             "dialogue":  [
+                                                                              {
+                                                                                  "line":  "The book is on the table.",
+                                                                                  "speaker":  "Teacher"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "The knife is in the tray.",
+                                                                                  "speaker":  "Teacher"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "The cows are in the field.",
+                                                                                  "speaker":  "Teacher"
+                                                                              }
+                                                                          ],
+                                                             "illustrations":  [
+                                                                                   "Book on a table",
+                                                                                   "Knives in a tray",
+                                                                                   "Cows in a field"
+                                                                               ]
+                                                         }
+                                                     ]
+                                    },
+                                    {
+                                        "page":  59,
+                                        "sections":  [
+                                                         {
+                                                             "title":  "Placing Objects (continued)",
+                                                             "dialogue":  [
+                                                                              {
+                                                                                  "line":  "The ruler is on the desk.",
+                                                                                  "speaker":  "Teacher"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "The pen is in my pocket.",
+                                                                                  "speaker":  "Teacher"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "The pupils are in the class.",
+                                                                                  "speaker":  "Teacher"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "The cup is near the kettle.",
+                                                                                  "speaker":  "Teacher"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "Mummy is in the kitchen.",
+                                                                                  "speaker":  "Teacher"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "The pupils are outside the classroom.",
+                                                                                  "speaker":  "Teacher"
+                                                                              }
+                                                                          ],
+                                                             "illustrations":  [
+                                                                                   "Ruler on a desk",
+                                                                                   "Pen in a pocket",
+                                                                                   "Pupils in a class",
+                                                                                   "Cup near a kettle",
+                                                                                   "Mummy in the kitchen",
+                                                                                   "Pupils outside the classroom"
+                                                                               ]
+                                                         }
+                                                     ]
+                                    },
+                                    {
+                                        "page":  60,
+                                        "sections":  [
+                                                         {
+                                                             "title":  "Where is it? (Activity)",
+                                                             "dialogue":  [
+                                                                              {
+                                                                                  "line":  "Where is the cat?",
+                                                                                  "speaker":  "Teacher"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "The cat is under the table.",
+                                                                                  "speaker":  "Pupil"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "Where is the drinking water?",
+                                                                                  "speaker":  "Teacher"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "The drinking water is in the bottle.",
+                                                                                  "speaker":  "Pupil"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "Where is David?",
+                                                                                  "speaker":  "Teacher"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "David is playing in the field.",
+                                                                                  "speaker":  "Pupil"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "Where are the eggs?",
+                                                                                  "speaker":  "Teacher"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "The eggs are in the basket.",
+                                                                                  "speaker":  "Pupil"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "Where is the teacher\u0027s car?",
+                                                                                  "speaker":  "Teacher"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "The teacher\u0027s car is under the almond tree.",
+                                                                                  "speaker":  "Pupil"
+                                                                              }
+                                                                          ],
+                                                             "illustrations":  [
+                                                                                   "Cat under a table",
+                                                                                   "Water bottle",
+                                                                                   "Boy playing in field",
+                                                                                   "Eggs in a basket",
+                                                                                   "Car under a tree"
+                                                                               ]
+                                                         }
+                                                     ]
+                                    }
+                                ],
+                      "unitTitle":  "The Fishwoman",
+                      "unit":  10
                   }
               ]
 }
