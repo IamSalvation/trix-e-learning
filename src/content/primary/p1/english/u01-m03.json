@@ -1,0 +1,73 @@
+﻿{
+  "id": "p1-english-u01-m03",
+  "unit": 1,
+  "unitTitle": "Simple Greetings at School",
+  "title": "Greetings in the Afternoon",
+  "class": "Primary 1",
+  "subject": "English Language",
+  "objectives": [
+    "Greet someone politely in the afternoon",
+    "Have a short conversation with a friend",
+    "Use 'See you' when saying goodbye"
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Good Afternoon, Friend"
+    },
+    {
+      "type": "text",
+      "md": "In the afternoon, we say **\"Good afternoon\"**. When we leave, we say **\"See you after school\"** or **\"See you tomorrow\"**."
+    },
+    {
+      "type": "image",
+      "src": "/assets/p1-english/u01/afternoon-greeting.svg",
+      "alt": "Two pupils greeting each other in the afternoon",
+      "caption": "Ayo and Emeka greet each other after class."
+    },
+    {
+      "type": "dialogue",
+      "lines": [
+        { "speaker": "Ayo",    "text": "Emeka, good afternoon. How are you?" },
+        { "speaker": "Emeka",  "text": "Good afternoon, Ayo. I am fine. Have you done your homework?" },
+        { "speaker": "Ayo",    "text": "Yes. Is your brother well now?" },
+        { "speaker": "Emeka",  "text": "Yes, he is fine now." },
+        { "speaker": "Ayo",    "text": "Jibril was looking for you during the break." },
+        { "speaker": "Emeka",  "text": "I saw him. He wanted his homework book." },
+        { "speaker": "Ayo",    "text": "Did he want to help Aisha?" },
+        { "speaker": "Emeka",  "text": "Perhaps. That is kind of him." },
+        { "speaker": "Ayo",    "text": "It is very hot today." },
+        { "speaker": "Emeka",  "text": "Yes, it is. We should go inside now." },
+        { "speaker": "Ayo",    "text": "Yes. See you after school." }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "md": "**Remember:** In the afternoon we say **'Good afternoon'** — not **'Good morning'**. Save that for the start of the day!"
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What greeting do you use in the afternoon?",
+      "options": ["Good morning", "Good afternoon", "Good evening", "Good night"],
+      "answer": 1,
+      "explain": "After 12 noon, we say 'Good afternoon'."
+    },
+    {
+      "q": "How does Ayo say goodbye to Emeka?",
+      "options": ["See you after school", "Good morning", "Please sit down", "My name is Ayo"],
+      "answer": 0,
+      "explain": "Ayo says 'See you after school' to say goodbye politely."
+    },
+    {
+      "q": "Aisha is a girl. Which is correct?",
+      "options": ["His name is Aisha", "Her name is Aisha", "Its name is Aisha", "Them name is Aisha"],
+      "answer": 1,
+      "explain": "Use 'Her' for a girl."
+    }
+  ],
+  "passMark": 70,
+  "next": null
+}
