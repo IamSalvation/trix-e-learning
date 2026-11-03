@@ -22,11 +22,14 @@
             { "id": "u03-m01", "title": "The Dog and The Tortoise", "json": "u03-m01.json" },
             { "id": "u03-m02", "title": "Objects and 'A' vs 'An'", "json": "u03-m02.json" },
             { "id": "u03-m03", "title": "Letters of the Alphabet (A-H)", "json": "u03-m03.json" },
+            { "id": "u03-m04", "title": "Activity: What is this?", "json": "u03-m04.json" },
             { "id": "u04-m01", "title": "Okon and Akan", "json": "u04-m01.json" },
             { "id": "u04-m02", "title": "Listen and Say", "json": "u04-m02.json" },
             { "id": "u04-m03", "title": "Letters of the Alphabet (Q-Z)", "json": "u04-m03.json" },
             { "id": "u05-m01", "title": "Kabir and the Black Bag", "json": "u05-m01.json" },
             { "id": "u06-m01", "title": "The Caterpillar and its Palace", "json": "u06-m01.json" },
+            { "id": "u06-m02", "title": "More on Simple Commands", "json": "u06-m02.json" },
+            { "id": "u06-m03", "title": "Identifying Colours", "json": "u06-m03.json" },
             { "id": "u07-m01", "title": "The Sleeping Old Lilly", "json": "u07-m01.json" },
             { "id": "u07-m02", "title": "Indicating Plurals", "json": "u07-m02.json" }
           ]
