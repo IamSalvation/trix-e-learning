@@ -1,0 +1,84 @@
+﻿{
+  "id": "p1-english-u03-m01",
+  "unit": 3,
+  "unitTitle": "The Dog and The Tortoise",
+  "title": "The Race & Objects Around Us",
+  "class": "Primary 1",
+  "subject": "English Language",
+  "objectives": [
+    "Listen to and retell a short story",
+    "Understand the lesson of the story",
+    "Identify common objects around you"
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "The Dog and The Tortoise"
+    },
+    {
+      "type": "image",
+      "src": "/assets/p1-english/u03/dog-tortoise-race.svg",
+      "alt": "A dog and a tortoise at the finish line of a race",
+      "caption": "The tortoise wins the race!"
+    },
+    {
+      "type": "text",
+      "md": "Long ago, **Tortoise** challenged **Dog** to a race.\n\n*'I can run faster than you,'* said Tortoise.\n\n*'You? You must be joking!'* laughed Dog.\n\nBut Tortoise had a plan. He placed pieces of **delicious meat** along the path. Dog loved meat!\n\nWhen the race started, Dog ran very fast. But then he smelled the meat. He stopped to eat. He ate one piece, then another, and another.\n\nBy the time Dog reached the finish line, Tortoise was already there — **waiting and smiling**.\n\nAll the animals clapped for Tortoise."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "md": "**The lesson:** Do not be greedy. Being slow and steady can win against being fast and careless."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Objects Around Us"
+    },
+    {
+      "type": "text",
+      "md": "Here are some common objects you will find in a home. Say each one aloud:\n\n- A **plate** (you eat from it)\n- A **spoon** (you use it to eat)\n- A **pot** (you cook in it)\n- A **mat** (you sit on it)\n- A **bed** (you sleep on it)\n- A **pillow** (you rest your head on it)\n- A **table** (you eat or write on it)\n- A **door** (you walk through it)"
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Who did Tortoise race against?",
+      "options": ["A cat", "A dog", "A bird", "A fish"],
+      "answer": 1,
+      "explain": "Tortoise raced against Dog."
+    },
+    {
+      "q": "Why did Dog stop during the race?",
+      "options": ["He was tired", "He was thirsty", "He stopped to eat meat", "He was sleeping"],
+      "answer": 2,
+      "explain": "Dog stopped to eat the delicious meat Tortoise left on the path."
+    },
+    {
+      "q": "Who won the race?",
+      "options": ["The dog", "The tortoise", "They tied", "The other animals"],
+      "answer": 1,
+      "explain": "The tortoise won because the dog was distracted by the meat."
+    },
+    {
+      "q": "What is the lesson of the story?",
+      "options": ["Running fast is always best", "Always eat meat", "Do not be greedy; slow and steady can win", "Never race"],
+      "answer": 2,
+      "explain": "The story teaches us that greed can make us lose, and slow and steady can win."
+    },
+    {
+      "q": "Which of these do you sleep on?",
+      "options": ["A plate", "A pot", "A bed", "A spoon"],
+      "answer": 2,
+      "explain": "You sleep on a bed."
+    },
+    {
+      "q": "Which of these do you eat from?",
+      "options": ["A door", "A pillow", "A mat", "A plate"],
+      "answer": 3,
+      "explain": "You eat food from a plate."
+    }
+  ],
+  "passMark": 70,
+  "next": null
+}

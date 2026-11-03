@@ -259,3 +259,28 @@
   font-size: 0.9rem;
   text-align: center;
 }
+
+.block-text {
+  margin: 20px 0;
+  font-size: 1.05rem;
+  line-height: 1.7;
+  color: var(--ink);
+}
+
+.block-text p {
+  margin: 0 0 16px;
+}
+
+.block-text p:last-child {
+  margin-bottom: 0;
+}
+
+.block-text strong {
+  color: var(--brand);
+  font-weight: 700;
+}
+
+.block-text em {
+  font-style: italic;
+  color: #4b5563;
+}

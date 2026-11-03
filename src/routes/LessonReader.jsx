@@ -79,6 +79,13 @@ export default function LessonReader({ lesson }) {
           if (block.type === 'heading') {
             return <h2 key={i} className="block-heading">{block.text}</h2>;
           }
+          if (block.type === 'text') {
+            return (
+              <div key={i} className="block-text">
+                <div dangerouslySetInnerHTML={{ __html: formatMarkdown(block.md) }} />
+              </div>
+            );
+          }
           if (block.type === 'image') {
             return (
               <figure key={i} className="block-image">
@@ -184,7 +191,18 @@ export default function LessonReader({ lesson }) {
 
 function formatMarkdown(text) {
   if (!text) return '';
-  return text.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
+  // Split into paragraphs by double newlines, then handle formatting
+  const paragraphs = text.split('\n\n');
+  const formatted = paragraphs.map(p => {
+    return p
+      // Bold: **text**
+      .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
+      // Italic: *text*
+      .replace(/(^|[^*])\*([^*]+?)\*(?!\*)/g, '$1<em>$2</em>')
+      // Single newlines to breaks
+      .replace(/\n/g, '<br />');
+  });
+  return formatted.map(p => `<p>${p}</p>`).join('');
 }
 
 function NextLessonButton({ lesson }) {
