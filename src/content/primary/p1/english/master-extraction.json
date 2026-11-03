@@ -2326,10 +2326,596 @@
                                                                                ]
                                                          }
                                                      ]
+                                    },
+                                    {
+                                        "page":  61,
+                                        "sections":  [
+                                                         {
+                                                             "title":  "Where is it? (Continued)",
+                                                             "dialogue":  [
+                                                                              {
+                                                                                  "line":  "Where is the bird?",
+                                                                                  "speaker":  "Teacher"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "The bird is sitting in the tree.",
+                                                                                  "speaker":  "Pupil"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "Where is the lion?",
+                                                                                  "speaker":  "Teacher"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "The lion is in the bush.",
+                                                                                  "speaker":  "Pupil"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "Where is the leopard?",
+                                                                                  "speaker":  "Teacher"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "The leopard is on the branch of a tree.",
+                                                                                  "speaker":  "Pupil"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "Where is the old man?",
+                                                                                  "speaker":  "Teacher"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "The old man is sitting outside his house.",
+                                                                                  "speaker":  "Pupil"
+                                                                              }
+                                                                          ],
+                                                             "illustrations":  [
+                                                                                   "A bird in a tree",
+                                                                                   "A lion in the bush",
+                                                                                   "A leopard on a tree branch",
+                                                                                   "An old man sitting outside"
+                                                                               ]
+                                                         }
+                                                     ]
+                                    },
+                                    {
+                                        "page":  62,
+                                        "sections":  [
+                                                         {
+                                                             "title":  "Listen and Say",
+                                                             "dialogue":  [
+                                                                              {
+                                                                                  "line":  "Many pictures are on the walls of the classroom.",
+                                                                                  "narrator":  true
+                                                                              },
+                                                                              {
+                                                                                  "line":  "The cat is sitting on the old mat.",
+                                                                                  "narrator":  true
+                                                                              },
+                                                                              {
+                                                                                  "line":  "The old woman is working in the farm.",
+                                                                                  "narrator":  true
+                                                                              }
+                                                                          ],
+                                                             "illustrations":  [
+                                                                                   "Pictures on a classroom wall",
+                                                                                   "A cat sitting on a mat",
+                                                                                   "An old woman working on a farm"
+                                                                               ]
+                                                         }
+                                                     ]
                                     }
                                 ],
                       "unitTitle":  "The Fishwoman",
                       "unit":  10
+                  },
+                  {
+                      "pages":  [
+                                    {
+                                        "page":  63,
+                                        "sections":  [
+                                                         {
+                                                             "title":  "Two Foolish Goats (Story)",
+                                                             "dialogue":  [
+                                                                              {
+                                                                                  "line":  "Two goats were running away from their greedy masters and met each other in the middle of the log of wood that the villagers on either side of the stream used as a bridge. None of them wanted to go back as they found it difficult to walk backwards. They were not wise enough to think on how to cross that narrow log. Then they started to argue.",
+                                                                                  "narrator":  true
+                                                                              }
+                                                                          ],
+                                                             "illustrations":  [
+                                                                                   "Two goats facing each other on a log over a stream"
+                                                                               ]
+                                                         }
+                                                     ]
+                                    },
+                                    {
+                                        "page":  64,
+                                        "sections":  [
+                                                         {
+                                                             "questions":  [
+                                                                               "Who were the two goats running away from?",
+                                                                               "Why did no one want to go back when they met on the bridge?",
+                                                                               "What did they start to do?",
+                                                                               "What was worse thing they started to do then?",
+                                                                               "What happened to both of them?",
+                                                                               "What lesson did you learn from this story?"
+                                                                           ],
+                                                             "title":  "Two Foolish Goats (Conclusion)",
+                                                             "dialogue":  [
+                                                                              {
+                                                                                  "line":  "I got here first.",
+                                                                                  "speaker":  "Goat 1"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "Really, I got here first.",
+                                                                                  "speaker":  "Goat 2"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "Give way.",
+                                                                                  "speaker":  "Goat 1"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "No, you give way.",
+                                                                                  "speaker":  "Goat 2"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "If you don\u0027t move, I will push you.",
+                                                                                  "speaker":  "Goat 1"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "Try and see.",
+                                                                                  "speaker":  "Goat 2"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "I will kick you.",
+                                                                                  "speaker":  "Goat 1"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "And I will crack you.",
+                                                                                  "speaker":  "Goat 2"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "None was ready to give way. And then they started to fight with each other. The log of wood was not wide enough for both of them to walk at a time and so they fell into the stream. As the goats were not good swimmers, they both drowned.",
+                                                                                  "narrator":  true
+                                                                              }
+                                                                          ]
+                                                         },
+                                                         {
+                                                             "title":  "Basic Reading Skills",
+                                                             "dialogue":  [
+                                                                              {
+                                                                                  "line":  "The sitting position for reading is as shown below.",
+                                                                                  "speaker":  "Teacher"
+                                                                              }
+                                                                          ],
+                                                             "illustrations":  [
+                                                                                   "A boy sitting upright at a desk to read"
+                                                                               ]
+                                                         }
+                                                     ]
+                                    },
+                                    {
+                                        "page":  65,
+                                        "sections":  [
+                                                         {
+                                                             "title":  "Basic Reading Skills (Continued)",
+                                                             "dialogue":  [
+                                                                              {
+                                                                                  "line":  "While reading move only your eyes and not your head.",
+                                                                                  "speaker":  "Teacher"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "The book is placed flat on the desk or held in the LEFT palm with the fingers place on the book as shown in the picture.",
+                                                                                  "narrator":  true
+                                                                              },
+                                                                              {
+                                                                                  "line":  "The book should be held about 10 centimetres from the eyes as shown in the picture.",
+                                                                                  "narrator":  true
+                                                                              }
+                                                                          ],
+                                                             "illustrations":  [
+                                                                                   "A boy reading without moving his head",
+                                                                                   "A boy holding an English book"
+                                                                               ]
+                                                         }
+                                                     ]
+                                    },
+                                    {
+                                        "page":  66,
+                                        "sections":  [
+                                                         {
+                                                             "text":  [
+                                                                          "Count from 20 to 40.",
+                                                                          "Count from 41 to 60.",
+                                                                          "Count from 61 to 80."
+                                                                      ],
+                                                             "title":  "Count"
+                                                         }
+                                                     ]
+                                    }
+                                ],
+                      "unitTitle":  "Two Foolish Goats",
+                      "unit":  11
+                  },
+                  {
+                      "pages":  [
+                                    {
+                                        "page":  67,
+                                        "sections":  [
+                                                         {
+                                                             "title":  "The Lion and the Soldier Ants (Story)",
+                                                             "dialogue":  [
+                                                                              {
+                                                                                  "line":  "The lion claimed that he was the king of all the animals. He took joy in roaring so that all the animals would continue to get afraid of him. The smaller animals and the soldier ants were thinking of what to do with the lion.",
+                                                                                  "narrator":  true
+                                                                              },
+                                                                              {
+                                                                                  "line":  "Let us enter his den at night.",
+                                                                                  "speaker":  "Head Soldier Ant"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "Yes, that is right. We shall teach him a lesson.",
+                                                                                  "speaker":  "Mother Soldier Ant"
+                                                                              }
+                                                                          ],
+                                                             "illustrations":  [
+                                                                                   "A lion roaring",
+                                                                                   "Soldier ants planning"
+                                                                               ]
+                                                         }
+                                                     ]
+                                    },
+                                    {
+                                        "page":  68,
+                                        "sections":  [
+                                                         {
+                                                             "questions":  [
+                                                                               "How did the lion always make the smaller animals afraid?",
+                                                                               "What did the soldier ants plan to do?",
+                                                                               "Who led the attack on the lion?",
+                                                                               "What did they want the lion to say?",
+                                                                               "When did the lion say he was not the king of all the animals?",
+                                                                               "What thing about lion did you learn from this story?"
+                                                                           ],
+                                                             "title":  "The Lion and the Soldier Ants (Conclusion)",
+                                                             "dialogue":  [
+                                                                              {
+                                                                                  "line":  "We shall attack him the way we work. Some of you will enter his nostrils, some his ears, some his eyes and others will swarm all over his body. Bite him everywhere until he says that he is no longer the king of all animals. Do you hear me?",
+                                                                                  "speaker":  "Mother Soldier Ant"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "Yes.",
+                                                                                  "speaker":  "Soldier Ants"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "On that night, millions of soldier ants attacked the lion and started to bite him fiercely.",
+                                                                                  "narrator":  true
+                                                                              },
+                                                                              {
+                                                                                  "line":  "Oh Lion. Don\u0027t get proud of yourself. If you agree that you are no longer the king of all animals then we will set you free.",
+                                                                                  "speaker":  "Mother Soldier Ant"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "I am the king of all animals.",
+                                                                                  "speaker":  "Lion"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "Then we shall eat you raw. Children, eat as much of the lion as you like. He is very stubborn.",
+                                                                                  "speaker":  "Mother Soldier Ant"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "I am still the king of all animals.",
+                                                                                  "speaker":  "Lion"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "When the soldier ants had eaten off all the flesh in the stomach and back of the lion, the lion cried that he is no longer the king of all the animals. He had only hair on his head. And that is why the lion has a mane.",
+                                                                                  "narrator":  true
+                                                                              }
+                                                                          ]
+                                                         }
+                                                     ]
+                                    },
+                                    {
+                                        "page":  69,
+                                        "sections":  [
+                                                         {
+                                                             "text":  [
+                                                                          "Copy the signs below.",
+                                                                          "Writing Letters of the Alphabet: ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+                                                                          "abcdefghijklmnopqrstuvwxyz"
+                                                                      ],
+                                                             "title":  "Basic Writing Skills"
+                                                         }
+                                                     ]
+                                    },
+                                    {
+                                        "page":  70,
+                                        "sections":  [
+                                                         {
+                                                             "text":  [
+                                                                          "The quick brown fox jumps over the lazy dog.",
+                                                                          "THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG"
+                                                                      ],
+                                                             "title":  "Copy"
+                                                         },
+                                                         {
+                                                             "dialogue":  [
+                                                                              {
+                                                                                  "line":  "What noise does a lion make?",
+                                                                                  "speaker":  "Teacher"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "A lion roars.",
+                                                                                  "speaker":  "Pupil"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "What noise does a cat make?",
+                                                                                  "speaker":  "Teacher"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "A cat miaows.",
+                                                                                  "speaker":  "Pupil"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "What noise does a dog make?",
+                                                                                  "speaker":  "Teacher"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "A dog barks.",
+                                                                                  "speaker":  "Pupil"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "What noise does a horse make?",
+                                                                                  "speaker":  "Teacher"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "A horse neighs.",
+                                                                                  "speaker":  "Pupil"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "What noise does an elephant make?",
+                                                                                  "speaker":  "Teacher"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "An elephant trumpets.",
+                                                                                  "speaker":  "Pupil"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "What noise does a cock make?",
+                                                                                  "speaker":  "Teacher"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "A cock crows.",
+                                                                                  "speaker":  "Pupil"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "What noise does a hen make?",
+                                                                                  "speaker":  "Teacher"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "A hen cackles.",
+                                                                                  "speaker":  "Pupil"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "What noise does a goat make?",
+                                                                                  "speaker":  "Teacher"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "A goat bleats.",
+                                                                                  "speaker":  "Pupil"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "What noise does a pig make?",
+                                                                                  "speaker":  "Teacher"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "A pig grunts.",
+                                                                                  "speaker":  "Pupil"
+                                                                              }
+                                                                          ],
+                                                             "title":  "Sounds and Noises of Some Animals"
+                                                         }
+                                                     ]
+                                    },
+                                    {
+                                        "page":  71,
+                                        "sections":  [
+                                                         {
+                                                             "dialogue":  [
+                                                                              {
+                                                                                  "line":  "What noise does a frog make?",
+                                                                                  "speaker":  "Teacher"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "A frog croaks.",
+                                                                                  "speaker":  "Pupil"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "What noise does a cow make?",
+                                                                                  "speaker":  "Teacher"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "A cow moos.",
+                                                                                  "speaker":  "Pupil"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "What noise does a sheep make?",
+                                                                                  "speaker":  "Teacher"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "A sheep baas.",
+                                                                                  "speaker":  "Pupil"
+                                                                              }
+                                                                          ],
+                                                             "title":  "Sounds and Noises (Continued)"
+                                                         },
+                                                         {
+                                                             "poem":  [
+                                                                          "Bow, wow, wow,",
+                                                                          "Whose dog art thou?",
+                                                                          "Little Tom Tinker\u0027s dog",
+                                                                          "Bow, wow, wow."
+                                                                      ],
+                                                             "title":  "Poem: Bow, Wow, Wow"
+                                                         }
+                                                     ]
+                                    }
+                                ],
+                      "unitTitle":  "The Lion and the Soldier Ants",
+                      "unit":  12
+                  },
+                  {
+                      "pages":  [
+                                    {
+                                        "page":  72,
+                                        "sections":  [
+                                                         {
+                                                             "title":  "The Elephant and his Master (Story)",
+                                                             "dialogue":  [
+                                                                              {
+                                                                                  "line":  "In a far village of Sambesi, there lived a family of twenty elephants and their master called Hamsaki. Hamsaki had a wife and five children who made the elephants do all kinds of work on the farm, and for other villagers who wanted some fast jobs to be done.",
+                                                                                  "narrator":  true
+                                                                              },
+                                                                              {
+                                                                                  "line":  "The human beings we work for, are much smaller than us in size. Why should we be serving them? From today, any human being who comes here will be made to serve us.",
+                                                                                  "speaker":  "Mother Elephant"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "How can you do that?",
+                                                                                  "speaker":  "Young Elephant"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "Never mind. I will put my weight on the first person who comes here and then I will force others to do what I demand or I will crush that person with just one stamping.",
+                                                                                  "speaker":  "Mother Elephant"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "I see. I did not know that we have such huge power to make Hamsaki serve us.",
+                                                                                  "speaker":  "Young Elephant"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "On that morning it was Hamsaki who came there first. The mother elephant placed him on the floor and put his left foot on his chest while waiting for the other members of the family to come out. But Hamsaki died due to the heavy weight of the elephant\u0027s foot.",
+                                                                                  "narrator":  true
+                                                                              }
+                                                                          ],
+                                                             "illustrations":  [
+                                                                                   "Hamsaki standing next to a large elephant"
+                                                                               ]
+                                                         }
+                                                     ]
+                                    },
+                                    {
+                                        "page":  73,
+                                        "sections":  [
+                                                         {
+                                                             "questions":  [
+                                                                               "How many elephants were there in the family?",
+                                                                               "In which village were they all living?",
+                                                                               "What did the elephants want human beings to do?",
+                                                                               "Who was the first to come out in the morning?",
+                                                                               "What happened when mother elephant placed her leg on him?",
+                                                                               "What did the other members of the family do?"
+                                                                           ],
+                                                             "title":  "The Elephant and his Master (Conclusion)",
+                                                             "dialogue":  [
+                                                                              {
+                                                                                  "line":  "On seeing this, the members of Hamsaki\u0027s family got frightened and they ran away to another village. The elephants did not have anyone to feed them any more. And as from that day onwards, elephants became wild animals.",
+                                                                                  "narrator":  true
+                                                                              }
+                                                                          ]
+                                                         },
+                                                         {
+                                                             "text":  [
+                                                                          "Count from 81 to 100."
+                                                                      ],
+                                                             "title":  "Count"
+                                                         },
+                                                         {
+                                                             "dialogue":  [
+                                                                              {
+                                                                                  "line":  "I come to school every day. I walk to the market everyday. John eats every day. He eats everyday. It rains everyday in August. Mother cooks every day. She cooks every day. The girls jump around every day during break time. They jump around every day during break time.",
+                                                                                  "speaker":  "Teacher"
+                                                                              }
+                                                                          ],
+                                                             "title":  "Expressing Habitual Actions"
+                                                         }
+                                                     ]
+                                    },
+                                    {
+                                        "page":  74,
+                                        "sections":  [
+                                                         {
+                                                             "title":  "Expressing Habitual Actions (Practice)",
+                                                             "dialogue":  [
+                                                                              {
+                                                                                  "line":  "Jibril, what do you do every day?",
+                                                                                  "speaker":  "Teacher"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "I water the plants every day.",
+                                                                                  "speaker":  "Jibril"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "Akpan, what does Jibril do every day?",
+                                                                                  "speaker":  "Teacher"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "He waters the plants every day.",
+                                                                                  "speaker":  "Akpan"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "Ngozi, what do you do every day?",
+                                                                                  "speaker":  "Teacher"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "I visit my grandmother every day.",
+                                                                                  "speaker":  "Ngozi"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "Jide, what does Ngozi do every day?",
+                                                                                  "speaker":  "Teacher"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "She visits her grandmother every day.",
+                                                                                  "speaker":  "Jide"
+                                                                              }
+                                                                          ],
+                                                             "illustrations":  [
+                                                                                   "Children watering plants",
+                                                                                   "Girl visiting grandmother"
+                                                                               ]
+                                                         }
+                                                     ]
+                                    },
+                                    {
+                                        "page":  75,
+                                        "sections":  [
+                                                         {
+                                                             "title":  "Expressing Habitual Actions (Continued)",
+                                                             "dialogue":  [
+                                                                              {
+                                                                                  "line":  "Kunle, what do the boys do every day after school?",
+                                                                                  "speaker":  "Teacher"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "They play football every day after school.",
+                                                                                  "speaker":  "Kunle"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "Ayo, where does your father go every morning?",
+                                                                                  "speaker":  "Teacher"
+                                                                              },
+                                                                              {
+                                                                                  "line":  "My father goes to his office every morning.",
+                                                                                  "speaker":  "Ayo"
+                                                                              }
+                                                                          ],
+                                                             "illustrations":  [
+                                                                                   "Boys playing football",
+                                                                                   "Father going to the office"
+                                                                               ]
+                                                         }
+                                                     ]
+                                    }
+                                ],
+                      "unitTitle":  "The Elephant and his Master",
+                      "unit":  13
                   }
               ]
 }
