@@ -1,0 +1,15 @@
+﻿:root {
+  --brand: #0284c7;
+  --brand-light: #e0f2fe;
+  --success: #16a34a;
+  --success-bg: #f0fdf4;
+  --danger: #dc2626;
+  --danger-bg: #fef2f2;
+  --tip: #f59e0b;
+  --tip-bg: #fffbeb;
+  --ink: #1a1a1a;
+  --ink-muted: #666;
+  --line: #e5e7eb;
+  --surface: #f8fafc;
+  --radius: 12px;
+}

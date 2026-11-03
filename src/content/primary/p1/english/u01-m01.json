@@ -1,0 +1,79 @@
+﻿{
+  "id": "p1-english-u01-m01",
+  "unit": 1,
+  "unitTitle": "Simple Greetings at School",
+  "title": "Greeting the Teacher",
+  "class": "Primary 1",
+  "subject": "English Language",
+  "objectives": [
+    "Greet the teacher politely in the morning",
+    "Respond correctly when the teacher asks 'How are you?'",
+    "Use the word 'sir' or 'ma' when talking to a teacher"
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Good Morning, Class!"
+    },
+    {
+      "type": "image",
+      "src": "/assets/p1-english/u01/classroom-morning.svg",
+      "alt": "A teacher greeting students in a classroom",
+      "caption": "The teacher greets the class in the morning."
+    },
+    {
+      "type": "dialogue",
+      "lines": [
+        { "speaker": "Teacher", "text": "Good morning, class." },
+        { "speaker": "Pupils",  "text": "Good morning, sir." },
+        { "speaker": "Teacher", "text": "How are you all this morning?" },
+        { "speaker": "Pupils",  "text": "We are all fine, thank you sir." },
+        { "speaker": "Teacher", "text": "Please, sit down." },
+        { "speaker": "Pupils",  "text": "Thank you, sir." },
+        { "speaker": "Teacher", "text": "How are you, Ayo?" },
+        { "speaker": "Ayo",     "text": "I am fine, sir, thank you." },
+        { "speaker": "Teacher", "text": "And you, Kunle?" },
+        { "speaker": "Kunle",   "text": "I am fine, sir." }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "md": "**Remember:** When you talk to a male teacher, call him **'sir'**. When you talk to a female teacher, call her **'ma'**."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What do you say when you see your teacher in the morning?",
+      "options": [
+        "Good evening, sir.",
+        "Good morning, sir.",
+        "Good afternoon, sir.",
+        "Goodbye, sir."
+      ],
+      "answer": 1,
+      "explain": "In the morning, we say 'Good morning'."
+    },
+    {
+      "q": "If your teacher asks 'How are you?', what is the best answer?",
+      "options": [
+        "I am fine, thank you.",
+        "My name is Ayo.",
+        "Good morning.",
+        "Sit down."
+      ],
+      "answer": 0,
+      "explain": "When someone asks how you are, you say 'I am fine, thank you.'"
+    },
+    {
+      "q": "A male teacher is called:",
+      "options": ["Ma", "Sir", "Madam", "Brother"],
+      "answer": 1,
+      "explain": "We call a male teacher 'Sir'."
+    }
+  ],
+  "passMark": 70,
+  "next": "p1-english-u01-m02"
+}
+

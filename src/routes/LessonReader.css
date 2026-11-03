@@ -1,0 +1,250 @@
+﻿.lesson-container {
+  max-width: 640px;
+  margin: 0 auto;
+  padding: 20px 16px 80px;
+}
+
+.lesson-header {
+  margin-bottom: 28px;
+  padding-bottom: 20px;
+  border-bottom: 2px solid var(--line);
+}
+
+.unit-badge {
+  display: inline-block;
+  background: var(--brand-light);
+  color: var(--brand);
+  padding: 4px 12px;
+  border-radius: 99px;
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-bottom: 10px;
+}
+
+.lesson-header h1 {
+  font-size: 1.5rem;
+  margin: 0 0 4px;
+  line-height: 1.25;
+}
+
+.lesson-title {
+  font-size: 1.05rem;
+  color: var(--ink-muted);
+  margin: 0;
+}
+
+.objectives {
+  margin-top: 16px;
+  padding: 14px 18px;
+  background: var(--surface);
+  border-radius: var(--radius);
+}
+
+.objectives h3 {
+  margin: 0 0 8px;
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--ink-muted);
+}
+
+.objectives ul {
+  margin: 0;
+  padding-left: 20px;
+}
+
+.objectives li {
+  margin-bottom: 4px;
+  font-size: 0.95rem;
+}
+
+.block-heading {
+  font-size: 1.25rem;
+  margin: 28px 0 12px;
+  color: var(--brand);
+}
+
+.block-image {
+  margin: 20px 0;
+  text-align: center;
+}
+
+.block-image img {
+  border-radius: var(--radius);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  margin: 0 auto;
+}
+
+.block-image figcaption {
+  font-size: 0.85rem;
+  color: var(--ink-muted);
+  margin-top: 8px;
+  font-style: italic;
+}
+
+.block-dialogue {
+  background: var(--surface);
+  border-left: 4px solid #38bdf8;
+  padding: 16px 18px;
+  border-radius: 0 var(--radius) var(--radius) 0;
+  margin: 20px 0;
+}
+
+.dialogue-line {
+  margin-bottom: 10px;
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.dialogue-line:last-child {
+  margin-bottom: 0;
+}
+
+.speaker {
+  font-weight: 700;
+  color: var(--brand);
+  white-space: nowrap;
+}
+
+.text {
+  flex: 1;
+  min-width: 0;
+}
+
+.block-callout {
+  padding: 16px 18px;
+  border-radius: var(--radius);
+  margin: 20px 0;
+  background: var(--tip-bg);
+  border-left: 4px solid var(--tip);
+}
+
+.quiz-prompt {
+  text-align: center;
+  margin-top: 40px;
+  padding: 28px 20px;
+  background: var(--success-bg);
+  border-radius: var(--radius);
+}
+
+.quiz-prompt h3 {
+  margin: 0 0 16px;
+}
+
+.quiz-section {
+  margin-top: 40px;
+  border-top: 2px dashed var(--line);
+  padding-top: 28px;
+}
+
+.quiz-section h3 {
+  margin: 0 0 20px;
+}
+
+.quiz-question {
+  margin-bottom: 28px;
+}
+
+.question-text {
+  font-weight: 600;
+  margin: 0 0 12px;
+}
+
+.options {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.option-btn {
+  padding: 14px 16px;
+  border: 2px solid var(--line);
+  border-radius: 10px;
+  background: #fff;
+  font-size: 1rem;
+  text-align: left;
+  cursor: pointer;
+  transition: all 0.15s;
+  min-height: 52px;
+}
+
+.option-btn:not(:disabled):hover {
+  border-color: var(--brand);
+}
+
+.option-btn.selected {
+  border-color: var(--brand);
+  background: var(--brand-light);
+}
+
+.option-btn.correct {
+  border-color: var(--success);
+  background: var(--success-bg);
+}
+
+.option-btn.wrong {
+  border-color: var(--danger);
+  background: var(--danger-bg);
+}
+
+.option-btn:disabled {
+  cursor: default;
+}
+
+.explain {
+  margin: 10px 0 0;
+  font-size: 0.9rem;
+  color: #444;
+  background: var(--surface);
+  padding: 10px 14px;
+  border-radius: 8px;
+}
+
+.btn-primary {
+  background: var(--brand);
+  color: #fff;
+  border: none;
+  padding: 16px 24px;
+  border-radius: 10px;
+  font-size: 1rem;
+  font-weight: 700;
+  width: 100%;
+  cursor: pointer;
+  margin-top: 20px;
+  min-height: 52px;
+}
+
+.btn-primary:disabled {
+  background: #cbd5e1;
+  cursor: not-allowed;
+}
+
+.quiz-result {
+  padding: 18px;
+  border-radius: var(--radius);
+  margin-bottom: 24px;
+  text-align: center;
+}
+
+.quiz-result.pass {
+  background: var(--success-bg);
+  border: 1px solid var(--success);
+}
+
+.quiz-result.fail {
+  background: var(--danger-bg);
+  border: 1px solid var(--danger);
+}
+
+.quiz-result h4 {
+  margin: 0 0 6px;
+  font-size: 1.1rem;
+}
+
+.quiz-result p {
+  margin: 0;
+  font-size: 0.95rem;
+}

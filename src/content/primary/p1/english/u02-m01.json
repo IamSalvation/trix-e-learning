@@ -1,0 +1,66 @@
+﻿{
+  "id": "p1-english-u02-m01",
+  "unit": 2,
+  "unitTitle": "Identification of Persons",
+  "title": "Introducing Yourself and Others",
+  "class": "Primary 1",
+  "subject": "English Language",
+  "objectives": [
+    "Introduce yourself using 'My name is...'",
+    "Introduce another person using 'His name is...' or 'Her name is...'",
+    "Respond correctly when asked 'What is your name?'"
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Let's Learn to Introduce Ourselves"
+    },
+    {
+      "type": "image",
+      "src": "/assets/p1-english/u02/identification.svg",
+      "alt": "A teacher asking pupils their names",
+      "caption": "The teacher asks the pupils their names."
+    },
+    {
+      "type": "dialogue",
+      "lines": [
+        { "speaker": "Teacher", "text": "My name is Mr. Jackson. What's your name?" },
+        { "speaker": "Pupil",   "text": "My name is Aisha." },
+        { "speaker": "Teacher", "text": "What is the name of the pupil sitting next to you?" },
+        { "speaker": "Pupil",   "text": "His name is Khunle." },
+        { "speaker": "Teacher", "text": "What is his name?" },
+        { "speaker": "Pupil",   "text": "His name is Emeka." },
+        { "speaker": "Teacher", "text": "What's your name?" },
+        { "speaker": "Pupil",   "text": "My name is Ayo." }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "md": "**Remember:** Use **'His'** for a boy and **'Her'** for a girl. Example: *His name is Emeka.* / *Her name is Aisha.*"
+    }
+  ],
+  "quiz": [
+    {
+      "q": "If someone asks 'What is your name?', what do you say?",
+      "options": ["His name is Ayo.", "My name is Ayo.", "Her name is Ayo.", "Your name is Ayo."],
+      "answer": 1,
+      "explain": "You use 'My name is...' when talking about yourself."
+    },
+    {
+      "q": "Aisha is a girl. Which sentence is correct?",
+      "options": ["His name is Aisha.", "My name is Aisha.", "Her name is Aisha.", "Its name is Aisha."],
+      "answer": 2,
+      "explain": "Use 'Her' for a girl and 'His' for a boy."
+    },
+    {
+      "q": "Emeka is a boy. Which sentence is correct?",
+      "options": ["Her name is Emeka.", "His name is Emeka.", "My name is Emeka.", "Their name is Emeka."],
+      "answer": 1,
+      "explain": "Use 'His' for a boy."
+    }
+  ],
+  "passMark": 70,
+  "next": null
+}

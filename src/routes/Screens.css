@@ -1,0 +1,232 @@
+﻿/* --- Global App Header --- */
+.app-header {
+  position: sticky;
+  top: 0;
+  z-index: 50;
+  background: rgba(255, 255, 255, 0.95);
+  backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--line);
+}
+
+.header-inner {
+  max-width: 640px;
+  margin: 0 auto;
+  padding: 12px 16px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.header-logo {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-weight: 800;
+  font-size: 1.2rem;
+  color: var(--brand);
+}
+
+.logo-icon {
+  font-size: 1.4rem;
+}
+
+.header-back {
+  background: none;
+  border: none;
+  color: var(--brand);
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  padding: 8px 0;
+  display: flex;
+  align-items: center;
+}
+
+.header-title {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--ink-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+.screen {
+  max-width: 640px;
+  margin: 0 auto;
+  padding: 24px 16px 60px;
+}
+
+.screen-header {
+  margin-bottom: 28px;
+}
+
+.screen-header h1 {
+  font-size: 1.75rem;
+  margin: 0 0 4px;
+  line-height: 1.2;
+}
+
+.screen-subtitle {
+  color: var(--ink-muted);
+  margin: 0;
+  font-size: 1rem;
+}
+
+.back-btn {
+  background: none;
+  border: none;
+  color: var(--brand);
+  font-size: 1rem;
+  font-weight: 600;
+  padding: 0;
+  margin-bottom: 12px;
+  cursor: pointer;
+}
+
+.class-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 12px;
+}
+
+.class-card {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 24px 20px;
+  border-radius: var(--radius);
+  border: 2px solid var(--line);
+  background: #fff;
+  cursor: pointer;
+  text-align: left;
+  transition: all 0.15s;
+  min-height: 100px;
+}
+
+.class-card:not(:disabled):hover {
+  border-color: var(--card-color, var(--brand));
+  transform: translateY(-2px);
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.08);
+}
+
+.class-card:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.class-name {
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: var(--ink);
+  margin-bottom: 4px;
+}
+
+.class-status {
+  font-size: 0.8rem;
+  color: var(--ink-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.subject-list,
+.lesson-list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.subject-card,
+.lesson-card {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  padding: 16px 18px;
+  border-radius: var(--radius);
+  border: 2px solid var(--line);
+  background: #fff;
+  cursor: pointer;
+  text-align: left;
+  transition: all 0.15s;
+  min-height: 68px;
+}
+
+.subject-card:hover,
+.lesson-card:hover {
+  border-color: var(--brand);
+  background: var(--brand-light);
+}
+
+.subject-icon { font-size: 1.5rem; }
+.subject-name { flex: 1; font-weight: 600; font-size: 1rem; }
+.subject-count { font-size: 0.85rem; color: var(--ink-muted); }
+.chevron { color: var(--brand); font-weight: 700; font-size: 1.1rem; }
+
+.lesson-num {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  background: var(--brand-light);
+  color: var(--brand);
+  font-weight: 700;
+  font-size: 0.9rem;
+  flex-shrink: 0;
+}
+
+.lesson-title { flex: 1; font-weight: 600; }
+
+.empty-msg {
+  color: var(--ink-muted);
+  text-align: center;
+  padding: 40px 20px;
+}
+
+/* --- Dashboard / Home Screen --- */
+.welcome-banner {
+  background: linear-gradient(135deg, var(--brand), #0369a1);
+  color: white;
+  padding: 28px 24px;
+  border-radius: var(--radius);
+  margin-bottom: 32px;
+  box-shadow: 0 10px 25px rgba(2, 132, 199, 0.2);
+}
+
+.welcome-banner h1 {
+  margin: 0 0 8px;
+  font-size: 1.6rem;
+  color: white;
+}
+
+.welcome-banner p {
+  margin: 0 0 20px;
+  font-size: 1rem;
+  opacity: 0.9;
+}
+
+.stats-badge {
+  display: inline-block;
+  background: rgba(255, 255, 255, 0.2);
+  padding: 6px 14px;
+  border-radius: 99px;
+  font-size: 0.85rem;
+  font-weight: 600;
+}
+
+.section-title {
+  font-size: 1.1rem;
+  margin: 0 0 16px;
+  color: var(--ink);
+}
+
+.class-card {
+  background: var(--surface);
+  border: 2px solid transparent;
+}
+.class-card:not(:disabled):hover {
+  background: white;
+  border-color: var(--card-color, var(--brand));
+}
+.class-name {
+  color: var(--card-color, var(--brand));
+}
