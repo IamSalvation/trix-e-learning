@@ -1,0 +1,38 @@
+﻿{
+  "id": "p1-english-u16-m04",
+  "unit": 16,
+  "unitTitle": "The Turtle, the Elephant and the Hippopotamus",
+  "title": "Days of the Week Practice",
+  "class": "Primary 1",
+  "subject": "English Language",
+  "objectives": ["Talk about what you do on each day of the week", "Use the correct day names in conversation"],
+  "blocks": [
+    { "type": "heading", "level": 2, "text": "What do you do every day?" },
+    { "type": "image", "src": "/assets/p1-english/u16/days-practice.svg", "alt": "Children doing daily activities", "caption": "Each day has its own activities." },
+    { "type": "dialogue", "lines": [
+      { "speaker": "Teacher", "text": "Emeka, what do you do every Sunday?" },
+      { "speaker": "Emeka", "text": "I go to church every Sunday." },
+      { "speaker": "Teacher", "text": "Ngozi, where do you go every Monday?" },
+      { "speaker": "Ngozi", "text": "I go to school every Monday." },
+      { "speaker": "Teacher", "text": "Jibril, what do you learn every Tuesday?" },
+      { "speaker": "Jibril", "text": "I learn English every Tuesday." },
+      { "speaker": "Teacher", "text": "Kunle, what do you do every Wednesday?" },
+      { "speaker": "Kunle", "text": "I wash my uniform every Wednesday." },
+      { "speaker": "Teacher", "text": "Akpan, what do you do every Thursday?" },
+      { "speaker": "Akpan", "text": "I play football every Thursday." },
+      { "speaker": "Teacher", "text": "Mohammed, where do you go every Friday?" },
+      { "speaker": "Mohammed", "text": "I go to the mosque every Friday." },
+      { "speaker": "Teacher", "text": "Ayo, what do you do every Saturday?" },
+      { "speaker": "Ayo", "text": "I wash my clothes every Saturday." }
+    ]},
+    { "type": "callout", "variant": "tip", "md": "**Practice:** Say what you do on each day of the week. 'On Monday, I ___.' 'On Sunday, I ___.'" }
+  ],
+  "quiz": [
+    { "q": "What does Emeka do every Sunday?", "options": ["He goes to school", "He goes to church", "He plays football", "He washes clothes"], "answer": 1, "explain": "Emeka says 'I go to church every Sunday.'" },
+    { "q": "Where does Ngozi go every Monday?", "options": ["To church", "To school", "To the market", "To the mosque"], "answer": 1, "explain": "Ngozi says 'I go to school every Monday.'" },
+    { "q": "What does Kunle do every Wednesday?", "options": ["He plays football", "He washes his uniform", "He reads books", "He goes to the mosque"], "answer": 1, "explain": "Kunle says 'I wash my uniform every Wednesday.'" },
+    { "q": "Where does Mohammed go every Friday?", "options": ["To school", "To church", "To the mosque", "To the market"], "answer": 2, "explain": "Mohammed says 'I go to the mosque every Friday.'" }
+  ],
+  "passMark": 70,
+  "next": null
+}

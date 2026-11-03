@@ -52,7 +52,11 @@
             { "id": "u15-m01", "title": "Amateer, The King", "json": "u15-m01.json" },
             { "id": "u15-m02", "title": "Expressing Past Actions", "json": "u15-m02.json" },
             { "id": "u15-m03", "title": "Animal Jigsaw Puzzle", "json": "u15-m03.json" },
-            { "id": "u15-m04", "title": "Picture Matching & Letter Formation", "json": "u15-m04.json" }
+            { "id": "u15-m04", "title": "Picture Matching & Letter Formation", "json": "u15-m04.json" },
+            { "id": "u16-m01", "title": "The Turtle, the Elephant and the Hippopotamus", "json": "u16-m01.json" },
+            { "id": "u16-m02", "title": "Expressing Past Actions (Practice)", "json": "u16-m02.json" },
+            { "id": "u16-m03", "title": "Days of the Week & Solomon Grundy", "json": "u16-m03.json" },
+            { "id": "u16-m04", "title": "Days of the Week Practice", "json": "u16-m04.json" }
           ]
         }
       ]
@@ -62,6 +66,7 @@
     { "id": "p4", "name": "Primary 4", "color": "#dc2626", "subjects": [] }
   ]
 }
+
 
 
 

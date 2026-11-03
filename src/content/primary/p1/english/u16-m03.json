@@ -1,0 +1,25 @@
+﻿{
+  "id": "p1-english-u16-m03",
+  "unit": 16,
+  "unitTitle": "The Turtle, the Elephant and the Hippopotamus",
+  "title": "Days of the Week & Solomon Grundy",
+  "class": "Primary 1",
+  "subject": "English Language",
+  "objectives": ["Name the days of the week in order", "Recite the Solomon Grundy poem"],
+  "blocks": [
+    { "type": "heading", "level": 2, "text": "Days of the Week" },
+    { "type": "image", "src": "/assets/p1-english/u16/days-week.svg", "alt": "The days of the week and the Solomon Grundy poem", "caption": "There are seven days in a week." },
+    { "type": "text", "md": "The days of the week are:\n\n1. **Sunday**\n2. **Monday**\n3. **Tuesday**\n4. **Wednesday**\n5. **Thursday**\n6. **Friday**\n7. **Saturday**" },
+    { "type": "heading", "level": 2, "text": "Poem: Solomon Grundy" },
+    { "type": "text", "md": "*Solomon Grundy,*\n*Born on Monday,*\n*Christened on Tuesday,*\n*Married on Wednesday,*\n*Took ill on Thursday,*\n*Grew worse on Friday,*\n*Died on Saturday,*\n*Buried on Sunday.*\n*This is the end of Solomon Grundy.*" },
+    { "type": "callout", "variant": "tip", "md": "**Practice:** Say the days of the week in order. How many days are there? (Seven.)" }
+  ],
+  "quiz": [
+    { "q": "How many days are in a week?", "options": ["Five", "Six", "Seven", "Eight"], "answer": 2, "explain": "There are seven days in a week." },
+    { "q": "What day comes after Monday?", "options": ["Sunday", "Tuesday", "Friday", "Wednesday"], "answer": 1, "explain": "After Monday comes Tuesday." },
+    { "q": "In the poem, what happened to Solomon Grundy on Monday?", "options": ["He died", "He was born", "He got married", "He was buried"], "answer": 1, "explain": "The poem says 'Born on Monday.'" },
+    { "q": "What day was Solomon Grundy buried?", "options": ["Monday", "Tuesday", "Saturday", "Sunday"], "answer": 3, "explain": "The poem says 'Buried on Sunday.'" }
+  ],
+  "passMark": 70,
+  "next": null
+}

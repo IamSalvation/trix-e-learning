@@ -1,0 +1,24 @@
+﻿{
+  "id": "p1-english-u16-m01",
+  "unit": 16,
+  "unitTitle": "The Turtle, the Elephant and the Hippopotamus",
+  "title": "The Turtle, the Elephant and the Hippopotamus",
+  "class": "Primary 1",
+  "subject": "English Language",
+  "objectives": ["Read and understand a story about intelligence vs size", "Answer comprehension questions"],
+  "blocks": [
+    { "type": "heading", "level": 2, "text": "The Turtle, the Elephant and the Hippopotamus" },
+    { "type": "image", "src": "/assets/p1-english/u16/turtle-elephant-hippo.svg", "alt": "An elephant, a hippopotamus, and a turtle", "caption": "The turtle challenged the biggest animals." },
+    { "type": "text", "md": "Once upon a time, the turtle and other big animals had an argument on who was the most intelligent among them. The lion cried out that it was the most intelligent while the turtle told them that intelligence did not depend on size but on how fast they were able to think.\n\n'I will prove to all the animals that I am the most brilliant and the most intelligent of all the animals,' the turtle boasted.\n\nOne night the turtle went to the elephant and told him that he was going to challenge him to a fight by the water front. The fight would be a tug of war. The turtle would remain in the water while the elephant would be on the bank of the river. The elephant agreed to it. On the same day, the turtle went into the river and told the hippopotamus the same thing. As expected, the hippopotamus got very angry and agreed to a fight.\n\nOn the day of the fight, the turtle brought a very strong rope and tied it to the neck of the elephant. He told the elephant to wait until he got into the water.\n\n'When I pull the rope while inside the water it means that the fight will begin,' he told the elephant.\n\nThe turtle went into the river, tied the rope round the neck of the hippopotamus.\n\n'Wait until I get up on land and give a gentle pull on the rope and that means the fight begins.'\n\n'I have heard,' replied the hippopotamus.\n\nThe turtle then went to the centre of the rope in the river and pulled both sides of the rope. Then the fight began. When the elephant pulled, the hippopotamus also pulled. Both sides seemed to be equally strong. The water was thrown into confusion while the turtle went up to one corner of the river and hid himself. The two huge animals fought for over two hours. At the same time, they became very tired. The elephant crawled to the river side while the hippopotamus crawled to the bank. Both wanted to see the powerful turtle but met each other with ropes tied to their necks." },
+    { "type": "callout", "variant": "tip", "md": "**The Lesson:** Intelligence is not about size or strength. It is about thinking fast and being clever." }
+  ],
+  "quiz": [
+    { "q": "What was the argument between the animals about?", "options": ["Who was the fastest", "Who was the most intelligent", "Who was the strongest", "Who was the tallest"], "answer": 1, "explain": "They argued about who was the most intelligent." },
+    { "q": "Who told others that he was the most intelligent?", "options": ["The elephant", "The turtle", "The lion", "The hippopotamus"], "answer": 1, "explain": "The turtle boasted that he was the most intelligent." },
+    { "q": "Which animals did the turtle pair up for the tug of war?", "options": ["The lion and the tiger", "The elephant and the hippopotamus", "The goat and the sheep", "The dog and the cat"], "answer": 1, "explain": "The turtle set up a tug of war between the elephant and the hippopotamus." },
+    { "q": "What did the turtle tie round the two big animals?", "options": ["A chain", "A strong rope", "A cloth", "A net"], "answer": 1, "explain": "The turtle tied a strong rope to their necks." },
+    { "q": "What did the big animals feel when they saw each other?", "options": ["Happy", "Surprised (they saw ropes tied to their necks)", "Angry", "Afraid"], "answer": 1, "explain": "They were surprised — they had been tricked by the turtle." }
+  ],
+  "passMark": 70,
+  "next": null
+}

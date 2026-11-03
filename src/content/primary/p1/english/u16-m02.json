@@ -1,0 +1,36 @@
+﻿{
+  "id": "p1-english-u16-m02",
+  "unit": 16,
+  "unitTitle": "The Turtle, the Elephant and the Hippopotamus",
+  "title": "Expressing Past Actions (Practice)",
+  "class": "Primary 1",
+  "subject": "English Language",
+  "objectives": ["Answer questions about past events", "Use past tense verbs in conversation"],
+  "blocks": [
+    { "type": "heading", "level": 2, "text": "What happened?" },
+    { "type": "image", "src": "/assets/p1-english/u16/past-actions-2.svg", "alt": "Children discussing past events", "caption": "What happened yesterday?" },
+    { "type": "dialogue", "lines": [
+      { "speaker": "Teacher", "text": "Mohammed, what happened on the field yesterday?" },
+      { "speaker": "Mohammed", "text": "Kunle and Jide hid the football." },
+      { "speaker": "Teacher", "text": "Akpan, what story did you listen to last week?" },
+      { "speaker": "Akpan", "text": "We read Sugar and Salt sir." },
+      { "speaker": "Teacher", "text": "Emeka, what did you do to Aisha's bag?" },
+      { "speaker": "Emeka", "text": "I took it home without knowing sir." },
+      { "speaker": "Teacher", "text": "Jide, who did you live with last year?" },
+      { "speaker": "Jide", "text": "I lived with my sister in Lagos." },
+      { "speaker": "Teacher", "text": "Jibril, where did you go last Friday?" },
+      { "speaker": "Jibril", "text": "I went to the mosque last Friday." },
+      { "speaker": "Teacher", "text": "Aisha, who did you see this morning?" },
+      { "speaker": "Aisha", "text": "I saw my uncle in the school this morning." }
+    ]},
+    { "type": "callout", "variant": "tip", "md": "**Remember:** Past tense verbs describe actions that already happened. 'What DID you do?' -> 'I DID ___.'" }
+  ],
+  "quiz": [
+    { "q": "What did Kunle and Jide do to the football?", "options": ["They kicked it", "They hid it", "They cleaned it", "They sold it"], "answer": 1, "explain": "Mohammed said 'Kunle and Jide hid the football.'" },
+    { "q": "What story did Akpan read last week?", "options": ["Sugar and Salt", "Shrek", "The Lion King", "Cinderella"], "answer": 0, "explain": "Akpan said 'We read Sugar and Salt sir.'" },
+    { "q": "Who did Jide live with last year?", "options": ["His father", "His sister in Lagos", "His grandmother", "His uncle"], "answer": 1, "explain": "Jide said 'I lived with my sister in Lagos.'" },
+    { "q": "Where did Jibril go last Friday?", "options": ["To school", "To the mosque", "To the market", "To the farm"], "answer": 1, "explain": "Jibril said 'I went to the mosque last Friday.'" }
+  ],
+  "passMark": 70,
+  "next": null
+}
